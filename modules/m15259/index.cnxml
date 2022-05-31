@@ -1,0 +1,761 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Solid State and Superconductors</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>436a8c01-558a-4f1e-9502-6f4e7c61c785</md:uuid>
+</metadata>
+  <content>
+    <section id="id-161160660957">
+      <title>Solid State Structures and Superconductors</title>
+      <section id="id-356106343286">
+        <title> Objectives</title>
+        <list list-type="bulleted" id="id7458334">
+          <item>Build examples of: simple cubic, body centered cubic and face centered cubic cells. </item>
+          <item>Understand and familiarize with three-dimensionality of solid state structures. </item>
+          <item>Understand how binary ionic compounds (compounds made up of two different types of ions) pack in a crystal lattice. </item>
+          <item>Observe the special electromagnetic characteristics of superconducting materials using 1,2,3-superconductor 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>YBa</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Cu</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "YBa" rSub { size 8{2} }  ital "Cu" rSub { size 8{3} } O rSub { size 8{8 -  times } } } {}</m:annotation></m:semantics></m:math>, discovered in 1986 by Dr. Paul Chu at the University of Houston. </item>
+        </list>
+      </section>
+      <section id="id-922221440893">
+        <title>Grading</title>
+        <para id="id7458478">Your grade will be determined according to the following</para>
+        <list list-type="bulleted" id="id7458483">
+          <item>Pre-lab (10%) </item>
+          <item>Lab report form. (80%) </item>
+          <item>TA points (10%) </item>
+        </list>
+      </section>
+      <section id="id-952694382419">
+        <title>Before coming to lab:</title>
+        <list list-type="bulleted" id="id7458512">
+          <item>Read introduction and model kits section </item>
+          <item>Complete prelab exercise </item>
+        </list>
+      </section>
+      <section id="id-265262569347">
+        <title>Introduction</title>
+        <para id="id7458540">From the three states of matter, the solid state is the one in which matter is highly condensed. In the solid state, when atoms, molecules or ions pack in a regular arrangement which can be repeated "infinitely" in three dimensions, a crystal is formed. A crystalline solid, therefore, possesses long-range order; its atoms, molecules, or ions occupy regular positions which repeat in three dimensions. On the other hand an amorphous solid does not possess any long-range order. Glass is an example of an amorphous solid. And even though amorphous solids have very interesting properties in their own right that differ from those of crystalline materials, we will not consider their structures in this laboratory exercise. </para>
+        <para id="id7458600"> </para>
+        <para id="id7458604">The simplest example of a crystal is table salt, or as we chemists know it, sodium chloride (NaCl). A crystal of sodium chloride is composed of sodium cations (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Na</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Na" rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math>) and chlorine anions (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Cl" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>) that are arranged in a specific order and extend in three dimensions. The ions pack in a way that maximizes space and provides the right coordination for each atom (ion). Crystals are three dimensional, and in theory, the perfect crystal would be infinite. Therefore instead of having a molecular formula, crystals have an empirical formula based on stoichiometry. Crystalline structures are defined by a unit cell which is the smallest unit that contains the stoichiometry and the “spatial arrangement” of the whole crystal. Therefore a unit cell can be seen as the building block of a crystal.</para>
+        <para id="id7458784"> </para>
+        <para id="id7458789"> </para>
+        <para id="id7458793"> </para>
+        <para id="id7458797">The crystal lattice</para>
+        <para id="id7458802"> </para>
+        <para id="id7458806">In a crystal, the network of atoms, molecules, or ions is known as a crystal lattice or simply as a lattice. In reality, no crystal extends infinitely in three dimensions and the structure (and also properties) of the solid will vary at the surface (boundaries) of the crystal. However, the number of atoms located at the surface of a crystal is very small compared to the number of atoms in the interior of the crystal, and so, to a first approximation, we can ignore the variations at the surface for much of our discussion of crystals. Any location in a crystal lattice is known as a lattice point. Since the crystal lattice repeats in three dimensions, there will be an entire set of lattice points which are identical. That means that if you were able to make yourself small enough and stand at any such lattice point in the crystal lattice, you would not be able to tell which lattice point of the set you were at – the environment of a lattice point is identical to each correspondent lattice point throughout the crystal. Of course, you could move to a different site (a non-correspondent lattice point) which would look different. This would constitute a different lattice point. For example, when we examine the sodium chloride lattice later, you will notice that the environment of each sodium ion is identical. If you were to stand at any sodium ion and look around, you would see the same thing. If you stood at a chloride ion, you would see a different environment but that environment would be the same at every chloride ion. Thus, the sodium ion locations form one set of lattice points and the chloride ion locations form another set. However, lattice points not only exist in atom positions. We could easily define a set of lattice points at the midpoints between the sodium and chloride ions in the crystal lattice of sodium chloride. </para>
+        <para id="id7458901"> </para>
+        <para id="id7458905">The unit cell</para>
+        <para id="id7458910"> </para>
+        <para id="id7458914">Since the crystal lattice is made up of a regular arrangement which repeats in three dimensions, we can save ourselves a great deal of work by considering the simple repeating unit rather than the entire crystal lattice. The basic repeating unit is known as the unit cell. Crystalline solids often have flat, well-defined faces that make definite angles with their neighbors and break cleanly when struck. These faces lie along well-defined directions in the unit cell.</para>
+        <para id="id7458945">The unit cell is the smallest, most symmetrical repeating unit that, when translated in three dimensions, will generate the entire crystal lattice. </para>
+        <para id="id7458952"> </para>
+        <para id="id7458956">It is possible to have a number of different choices for the unit cell. By convention, the unit cell that reflects the highest symmetry of the lattice is the one that is chosen. A unit cell may be thought of as being like a brick which is used to build a building (a crystal). Many bricks are stacked together to create the entire structure. Because the unit cell must translate in three dimensions, there are certain geometrical constraints placed upon its shape. The main criterion is that the opposite faces of the unit cell must be parallel. Because of this restriction there are only six parameters that we need to define in order to define the shape of the unit cell. These include three edge lengths a, b, and c and three angles 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>α</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>γ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{γ} {}</m:annotation></m:semantics></m:math>. Once these are defined all other distances and angles in the unit cell are set. As a result of symmetry, some of these angles and edge lengths may be the same. There are only seven different shapes for unit cells possible. These are given in the chart below. </para>
+        <table id="id7459152" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Unit Cell Type</entry>
+                <entry>Restrictions on Unit Cell Parameters</entry>
+                <entry>Highest Type of Symmetry Element Required</entry>
+              </row>
+              <row>
+                <entry>Triclinic</entry>
+                <entry>a is not equal to b is not equal to c; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>α</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>is not equal to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>is not equal to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>γ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{γ} {}</m:annotation></m:semantics></m:math>.</entry>
+                <entry>no symmetry is required, an inversioncenter may be present</entry>
+              </row>
+              <row>
+                <entry>Monoclinic</entry>
+                <entry>a is not equal to b is not equal to c
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>α</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>γ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{γ} {}</m:annotation></m:semantics></m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>90</m:mtext><m:mi>°</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"90"°} {}</m:annotation></m:semantics></m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>is not equal to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>90</m:mtext><m:mi>°</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"90"°} {}</m:annotation></m:semantics></m:math>.</entry>
+                <entry>highest symmetry element allowed is aC2 axis or a mirror plane</entry>
+              </row>
+              <row>
+                <entry>Orthorhombic</entry>
+                <entry>a is not equal to b is not equal to c
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>α</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>γ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{γ} {}</m:annotation></m:semantics></m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>90</m:mtext><m:mi>°</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"90"°} {}</m:annotation></m:semantics></m:math></entry>
+                <entry>has three mutually perpendicularmirror planes and/or C2 axes</entry>
+              </row>
+              <row>
+                <entry>Tetragonal</entry>
+                <entry>a =b is not equal to c 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>α</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>γ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{γ} {}</m:annotation></m:semantics></m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>90</m:mtext><m:mi>°</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"90"°} {}</m:annotation></m:semantics></m:math></entry>
+                <entry>has one C4 axis</entry>
+              </row>
+              <row>
+                <entry>Cubic</entry>
+                <entry>a =b =c 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>α</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>γ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{γ} {}</m:annotation></m:semantics></m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>90</m:mtext><m:mi>°</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"90"°} {}</m:annotation></m:semantics></m:math></entry>
+                <entry>has C3 and C4 axes</entry>
+              </row>
+              <row>
+                <entry>Hexagonal, Trigonal</entry>
+                <entry>a =b is not equal to c 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>α</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>90</m:mtext><m:mi>°</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"90"°} {}</m:annotation></m:semantics></m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>γ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{γ} {}</m:annotation></m:semantics></m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>120</m:mtext><m:mi>°</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"120"°} {}</m:annotation></m:semantics></m:math></entry>
+                <entry>C6 axis (hexagonal); C3 axis (trigonal)</entry>
+              </row>
+              <row>
+                <entry>Rhombohedral*</entry>
+                <entry>a =b =c 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>α</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>γ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{γ} {}</m:annotation></m:semantics></m:math>is not equal to
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>90</m:mtext><m:mi>°</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"90"°} {}</m:annotation></m:semantics></m:math></entry>
+                <entry>C3 axis (trigonal) </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8516059">*There is some discussion about whether the rhombohedral unit cell is a different group or is really a subset of the trigonal/hexagonal types of unit cell.</para>
+      </section>
+      <section id="id-195604632999">
+        <title>Stoichiometry</title>
+        <para id="id8508343">You will be asked to count the number of atoms in each unit cell in order to determine the stoichiometry (atom-to-atom ratio) or empirical formula of the compound. However, it is important to remember that solid state structures are extended, that is, they extend out in all directions such that the atoms that lie on the corners, faces, or edges of a unit cell will be shared with other unit cells, and therefore will only contribute a fraction of that boundary atom. As you build crystal lattices in these exercises you will note that eight unit cells come together at a corner. Thus, an atom which lies exactly at the corner of a unit cell will be shared by eight unit cells which means that only ⅛ of the atom contributes to the stoichiometry of any particular unit cell. Likewise, if an atom is on an edge, only ¼ of the atom will be in a unit cell because four unit cells share an edge. An atom on a face will only contribute ½ to each unit cell since the face is shared between two unit cells.</para>
+        <para id="id8508396">It is very important to understand that the stoichiometry of the atoms within the unit cell must reflect the composition of the bulk material. </para>
+        <para id="id8508415"> </para>
+        <section id="id-661048501562">
+          <title>Binding forces in a crystal</title>
+          <para id="id8508426"> </para>
+          <para id="id8508431">The forces which stabilize the crystal may be ionic (electrostatic) forces, covalent bonds, metallic bonds, van der Waals forces, hydrogen bonds, or combination of these. The properties of the crystal will change depending upon what types of bonding is involved in holding the atoms, molecules, or ions in the lattice. The fundamental types of crystals based upon the types of forces that hold them together are: metallic in which metal cations held together by a sea of electrons, ionic in which cations and anions held together by predominantly electrostatic attractions, and network in which atoms bonded together covalently throughout the solid (also known as covalent crystal or covalent network).</para>
+          <para id="id8508514"> </para>
+        </section>
+        <section id="id-733675070008">
+          <title>Close-packing</title>
+          <para id="id8508526"> </para>
+          <para id="id8508530">Close-packing of spheres is one example of an arrangement of objects that forms an extended structure. Extended close-packing of spheres results in 74% of the available space being occupied by spheres (or atoms), with the remainder attributed to the empty space between the spheres. This is the highest space-filling efficiency of any sphere-packing arrangement. The nature of extended structures as well as close-packing, which occurs in two forms called hexagonal close packing (hcp) and cubic close packing (ccp), will be explored in this lab activity. Sixty-eight of the ninety naturally occurring elements are metallic elements. Forty of these metals have three-dimensional submicroscopic structures that can be described in terms of close-packing of spheres. Another sixteen of the sixty-eight naturally occurring metallic elements can be described in terms of a different type of extended structure that is not as efficient at space-filling. This structure occupies only 68% of the available space in the unit cell. This second largest subgroup exhibits a sphere packing arrangement called body-centered cubic (bcc). </para>
+          <para id="id8508606"> </para>
+          <para id="id8508610">You should be able to calculate the % of void space using simple geometry.</para>
+        </section>
+        <section id="id-102735670593">
+          <title>Packing of more than one type of ion (binary compounds) in a crystal lattice</title>
+          <para id="id8508625">A very useful way to describe the extended structure of many substances, particularly ionic compounds, is to assume that ions, which may be of different sizes, are spherical. The structure then is based on some type of sphere packing scheme exhibited by the larger ion, with the smaller ion occupying the unused space (interstitial sites). In structures of this type, coordination number refers to the number of nearest neighbors of opposite charge. Salts exhibiting these packing arrangements will be explored in this lab activity. </para>
+        </section>
+        <section id="id-452915549236">
+          <title>Coordination number and interstitial sites</title>
+          <para id="id8508654"> </para>
+          <para id="id8508658">When spherical objects of equal size are packed in some type of arrangement, the number of nearest neighbors to any given sphere is dependent upon the efficiency of space filling. The number of nearest neighbors is called the coordination number and abbreviated as CN. The sphere packing schemes with the highest space-filling efficiency will have the highest CN. Coordination number will be explored in this lab activity. A useful way to describe extended structures, is by using the unit cell which as discussed above is the repeating three-dimensional pattern for extended structures. A unit cell has a pattern for the objects as well as for the void spaces. The remaining unoccupied space in any sphere packing scheme is found as void space. This void space occurs between the spheres and gives rise to so-called interstitial sites. </para>
+          <para id="id8508720"> </para>
+        </section>
+      </section>
+      <section id="id-421603223917">
+        <title>Synthesis of solid state materials</title>
+        <para id="id8508733">There exist many synthetic methods to make crystalline solids. Traditional solid state chemical reactions are often slow and require high temperatures and long periods of time for reactants to form the desire compound. They also require that reactants are mixed in the solid state by grinding two solids together. In this manner the mixture formed is heterogeneous (i.e. not in the same phase), and high temperatures are required to increase the mobility of the ions that are being formed into the new solid binary phase. Another approach to get solid state binary structures is using a precursor material such as a metal carbonate, that upon decomposition at high temperatures loses gaseous 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CO" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> resulting in very fine particles of the corresponding metal oxide (e.g., 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>BaCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">→</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>BaO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "BaCO" rSub { size 8{3 \( s \) } }  rightarrow  ital "BaO" rSub { size 8{ \( s \) } } + ital "CO" rSub { size 8{2 \( g \) } } } {}</m:annotation></m:semantics></m:math>).</para>
+      </section>
+      <section id="id-73244571478">
+        <title>X-ray crystallography</title>
+        <para id="id8508946">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-115373345478">
+        <title> </title>
+        <para id="id8508961">To determine the atomic or molecular structure of a crystal diffraction of X-rays is used. It was observed that visible light can be diffracted by the use of optical grids, because these are arranged in a regular manner. Energy sources such as X-rays have such small wavelengths that only “grids” the size of atoms will be able to diffract X-rays. As mentioned before a crystal has regular molecular array, and therefore it is possible, to use X-ray diffraction to determine the location of the atoms in crystal lattice. When such an experiment is carried out we say that we have determined the crystal structure of the substance. The study of crystal structures is known as crystallography and it is one of the most powerful techniques used today to characterize new compounds. You will discuss the principles behind X-ray diffraction in the lecture part of this course. </para>
+        <para id="id8509007"> </para>
+      </section>
+      <section id="id-92173833819">
+        <title>Superconductors</title>
+        <para id="id8509019"> </para>
+        <para id="id8509024">A superconductor is an element, or compound that will conduct electricity without resistance when it is below a certain temperature. Without resistance the electrical current will flow continuously in a closed loop as long as the material is kept below an specific temperature. Since the electrical resistance is zero, supercurrents are generated in the material to exclude the magnetic fields from a magnet brought near it. The currents which cancel the external field produce magnetic poles opposite to the poles of the permanent magnet, repelling them to provide the lift to <link url="http://hyperphysics.phy-astr.gsu.edu/hbase/solids/maglev.html#c1">levitate the magnet</link>. In some countries (including USA) this magnet levitation has been used for transporation. Specifically trains can take advantage of this levitation to virtually eliminate friction between the vehicle and the tracks. A train levitated over a superconductor can attain speeds over 300 mph!</para>
+      </section>
+    </section>
+    <section id="id-64875871909">
+      <title>Solid State Model Kits </title>
+      <para id="id8509084">In this experiment we will use the Institute for Chemical Education (ICE) Solid-State Model Kits which are designed for creating a variety of common and important solid state structures. Please be careful with these materials as they are quite expensive. There is a list of kit components on the inside of the lid of each box. Please make sure that you have all the listed pieces and that these are in their proper locations when you finish using the kit.</para>
+      <para id="id8509103">The TAs will deduct points from your lab grade if the kits are not returned with all pieces present and properly organized.</para>
+      <section id="id-514262443369">
+        <title>Use of the Solid State Model Kit: </title>
+        <para id="id8509120">The following instructions are abbreviated. Please consult the instruction manual found in the kits for more details if you need assistance in building any of the structures given. Note that some of the model kits are older than others and the manuals’ and page numbers may not correspond.</para>
+        <para id="id8509135"> </para>
+        <para id="id8509140">There are four major part types in each model kit:</para>
+        <para id="id8509146">*2 off-white, thick plastic template bases with holes (one with a circle, the other a semicircle);</para>
+        <para id="id8509152">*cardboard templates (about 20 labeled A-T);</para>
+        <para id="id8509162">*metal rods (to be inserted in the holes to support the plastic spheres)</para>
+        <para id="id8509168"> *plastic spheres in 4 sizes and colors.</para>
+        <para id="id8509173">The spheres can represent atoms, ions, or even molecules depending upon the kind of solid it is.</para>
+        <para id="id8509179">You will be given directions for the use of a specific base, template, placement of the rods, selection of spheres, and arrangement of the spheres as you progress. The ICE model kits make use of Z-diagrams to represent how the structure will be built up. Each type of sphere will be numbered with the z layer in which it belongs.</para>
+        <para id="id8509212">As we build each structure in three-dimensional space, we will be drawing figures to represent the unit cell structures. Each level or layer of atoms, ions, or molecules in a unit cell can be represented by a two-dimensional base, that is, a square, hexagon, parallelogram, etc.</para>
+        <para id="id8509230">To draw the Z-diagrams the bottom layer is referred to as z=0. We then proceed layer by layer up the unit cell until we reach a layer which is identical to the z=0 layer. This is z=1. Since z=0 and z=1 are identical by definition, we do not have to draw z=1, although you might want to do so as you are learning how to work with solid state figures. The layers between top and bottom are given z designations according to their positions in the crystal. So, for example, a unit cell with 4 layers (including z=0 and z=1) would also have z=0.33 (1/3) and z=0.67 (2/3).</para>
+        <para id="id8509321">Each solid-state kit has two types of bases (one using rectangular coordinates, the other using polar coordinates) indicated by a full circle or semicircle, or by color (yellow and green.)</para>
+        <para id="id8509329">You will first build structures that involve only one type of atom, as you would find in crystalline solids of the elements, especially that of the metals. Then you will examine ionic compounds which are known as binary solids. Binary solids are those composed of only two types of atoms, such as sodium chloride or calcium fluoride.</para>
+        <para id="id8509343">If time permits there is an extra credit exercise you can do. You may not do this extra credit exercise until the report form has been completed nor may you receive credit for the extra credit assignment unless you fully complete the report form.</para>
+      </section>
+      <section id="id-842589154223">
+        <title>Working groups and teams</title>
+        <para id="id7427182">You and your lab partner will constitute a group. Each group will receive one model kit and two groups will work together as a team. Your TA will assign you the structures you have to do, and at the end each team will discuss the structures assigned on front of the class. The number of teams and the assignments the TA will give you will be decided based on the number of students in a particular laboratory session. The laboratory is divided for six teams (A-F) </para>
+      </section>
+      <section id="id-467502985729">
+        <title>Experimental Procedure </title>
+        <para id="id7427247">Every part of the experimental procedure has correspondent questions on the Report Form. Do not proceed until ALL questions accompanying each section have been answered and recorded.</para>
+        <para id="id7427255">1. Demonstration of the 1,2,3-superconductor 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>YBa</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Cu</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "YBa" rSub { size 8{2} }  ital "Cu" rSub { size 8{3} } O rSub { size 8{8 -  times } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id7427359">A pellet of the 1,2,3-superconductor 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>YBa</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Cu</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "YBa" rSub { size 8{2} }  ital "Cu" rSub { size 8{3} } O rSub { size 8{8 -  times } } } {}</m:annotation></m:semantics></m:math> is placed on the top of an inverted paper cup. The pellet is cooled down by carefully pouring liquid nitrogen over it until the bottom of the cup is filled up. After approximately 10 seconds (when the bubbling stops) the pellet should reach the liquid nitrogen temperature. Your TA will then place a very strong magnet over the pellet.</para>
+        <para id="id7427468">What happens to the magnet? What happens as the superconductor warms up? What is the Meissner effect? (Write observations and answer these questions on your report form)</para>
+        <para id="id7427489">Warning- LIQUID NITROGEN CAN CAUSE FROST BITE! Do not directly touch anything that has come into contact with the liquid nitrogen until it is warmed up to room temperature. </para>
+        <para id="id7427504">NOTE TO TA: to remove a levitating magnet, simply wait until the liquid nitrogen fully evaporates or use another magnet to "grab" the floating magnet. Be careful not to lose or break these very tiny, yet expensive, magnets!!!!</para>
+        <para id="id7427512"> </para>
+      </section>
+      <section id="id-056811980232">
+        <title> </title>
+        <para id="id7427517">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-00486044699861">
+        <title>2. Cubic Cells</title>
+        <para id="id7427532">There are many types of fundamental unit cells, one of which is the cubic cell. In turn, there are three subclasses of the cubic cell: </para>
+        <para id="id7427540">a. simple or primitive cubic (P)</para>
+        <para id="id7427549">b. body-centered cubic (bcc, I*)</para>
+        <para id="id7427558">c. face-centered cubic (fcc, F)</para>
+        <para id="id7427574">*The I designation for body-centered cubic comes from the German word innenzentriert.</para>
+        <para id="id7427596">We do not have time to build models of all of the unit cells possible, so we will focus on the cubic structure and its variations. Our investigation will include several aspects of each cell type:</para>
+        <list list-type="bulleted" id="id7427606">
+          <item>the number of atoms per unit cell </item>
+          <item>the efficiency of the packing of atoms in the volume of each unit cell </item>
+          <item>the number of nearest neighbors (coordination number) for each type of atom </item>
+          <item>the stoichiometry (atom-to-atom ratio) of the compound </item>
+        </list>
+        <para id="id7427654">A.     Simple Cubic Unit Cells or Primitive Cubic Unit Cells (P)</para>
+        <section id="id-819819175808">
+          <title>Team A</title>
+          <para id="id7427678">Group 1. Single Unit Cell</para>
+          <para id="id7427694">· Construct a simple cubic cell using template A and its matching base. </para>
+          <para id="id7427705">· Insert rods in the 4 circled holes in the shaded region of the template.</para>
+          <para id="id7427716">· Build the first layer (z = 0) by placing a colorless sphere on each rod in the shaded region.</para>
+          <para id="id7427727">· Draw a picture of this layer as previously described.</para>
+          <para id="id7427737">· Complete the unit cell by placing 4 colorless spheres on top of the first layer.</para>
+          <para id="id7427742">This is the z=1 layer. </para>
+          <section id="id-563357474387">
+            <title> Group 2. Extended Structure </title>
+            <list list-type="bulleted" id="id7427770">
+              <item>Construct an extended cubic cell using template A. </item>
+              <item>Insert rods in the circled holes of template A in the area enclosed by the dotted lines. </item>
+              <item>Construct a set of unit cells as described for making a single unit cell. </item>
+            </list>
+            <para id="id7427803">Look closely at the structures generated by both groups. They are called simple (or primitive) cubic.</para>
+            <para id="id7427809">Considering all of the cells around it, answer the corresponding questions on the report form. </para>
+            <para id="id7427825">B.      Body-Centered Cubic Structure (BCC)</para>
+            <para id="id7427841">Team B</para>
+            <para id="id7427845">Group 1. Single Unit Cell </para>
+            <para id="id7427857">· Construct a body-centered cubic (bcc) structure using template F. · Insert the rods in all 5 of the holes in the shaded region.</para>
+            <para id="id7427873">· Use the guide at left and place four colorless spheres in the first layer (1) at the corners for z=0.</para>
+            <para id="id7427890">· Place one colorless sphere in the second layer (2) on the center rod for z=0.5</para>
+            <para id="id7427905">· Construct the z=1 layer.</para>
+            <para id="id7427915"> Group 2.Extended Structure </para>
+            <list list-type="bulleted" id="id7427929">
+              <item>Using template F, construct an extended body-centered cubic structure. </item>
+              <item>Insert rods in every hole of the template/block. </item>
+              <item>Using the guide which follows, place colorless spheres for z=0 on every rod labeled 1. </item>
+              <item>For z=0.5 place colorless spheres on each rod labeled 2. </item>
+              <item>Complete the z=1 layer and then place another two layers on top. </item>
+            </list>
+            <list list-type="enumerated" id="id7427997">
+              <item>Face-Centered Cubic (FCC) Structure </item>
+            </list>
+            <para id="id7428009">Team C</para>
+            <para id="id7428014">Group 1. Single Unit Cell</para>
+            <para id="id7428030">· Construct a single face-centered cubic cell using template C, colorless spheres and the layering as illustrated. Only put rods and spheres on one of the squares defined by the internal lines.</para>
+            <para id="id7428043"> </para>
+            <figure id="id7428050">
+              <media id="idp2853136" alt=""><image src="../../media/graphics1-39fd.png" mime-type="image/png" height="180" width="190"/></media>
+            </figure>
+            <para id="id7428074"> </para>
+            <para id="id7428078">Group 2. Extended Structure </para>
+            <para id="id7428095">· Construct an extended face-centered cubic structure using template C (You can find instructions on how to do it in the manual that comes with the kit.)</para>
+            <para id="id7428107"> </para>
+            <para id="id7428111">3. Close-Packing: Sphere Packing &amp; Metallic Elements</para>
+            <para id="id7428117">Team D</para>
+            <para id="id7428121">Group 1. Construct the hexagonal close-packing unit cell (use the one requiring the C6 template)</para>
+            <para id="id7428164">Group 2. Construct the cubic close-packing unit cell (use the one requiring the C6 template)</para>
+            <para id="id7428207">Team E</para>
+            <para id="id7428211">Group 1. Add a 2' layer on top of the existing structure.</para>
+            <para id="id7277822">Group 2. Add a 2' layer on top of the existing structure.</para>
+            <para id="id7277839">Team F</para>
+            <para id="id7277844">Using only the shaded portion on the template, construct the face-centered cubic unit cell which uses the C4 template.</para>
+            <para id="id7277879">Compare the structures of the face-centered cubic unit cell made on the C4 template to that made on the C6 template. </para>
+          </section>
+        </section>
+        <section id="id-0703243646165">
+          <title>4. Interstitial sites and coordination number (CN)</title>
+          <para id="id7277906">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-803312308052">
+          <title>Team A</title>
+          <para id="id7277929">Group 1 - Construct CN 8, CN 6 and CN 4 (using the C4 template).</para>
+          <para id="id7277955">Group 2 - Construct CN 6, CN 4 (body diagonal) (using the C6 template).</para>
+        </section>
+      </section>
+      <section id="id-918819403632">
+        <title>5. Ionic Compounds</title>
+        <para id="id7277981">Now we will look at some real ionic compounds which crystallize in different cubic unit cells. We will use the models to determine the stoichiometry ( atom-to-atom ratios) for a formula unit. </para>
+        <para id="id7278001">Team B</para>
+        <para id="id7278005">Cesium Chloride</para>
+        <para id="id7278010">· Construct a model of cesium chloride on template A. This time use colorless spheres as layers 1 and 1' and the green spheres for layer 2.</para>
+        <para id="id7278042">· Start with the shaded area and then work your way outward to an extended structure. Consider both simple and extended structures when answering the questions which follow.</para>
+        <para id="id7278049"> </para>
+        <section id="id-815431781391">
+          <title>Team C</title>
+          <para id="id7278054">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-440421987401">
+          <title>Fluorite: Calcium fluoride</title>
+          <para id="id7278069">· Construct a model of fluorite, which is calcium fluoride, on template E.</para>
+          <para id="id7278091">· Green spheres will be used for layers 1, 3, and 1' while colorless spheres go on layers 2 and 4. </para>
+          <para id="id7278119">· Finish with a 1' layer on top. Build the structure by placing rods in all 13 holes in the area enclosed by the internal line.</para>
+          <para id="id7278131"> </para>
+        </section>
+        <section id="id-138324713023">
+          <title>Team D</title>
+          <para id="id7278137">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-870593295143">
+          <title>Lithium Nitride </title>
+          <para id="id7278145">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-027667308317">
+          <title>· Use the L template and insert 6 rods in the parallelogram portion of the dotted lines. </title>
+          <para id="id7278153">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-509852168194">
+          <title>· Construct the pattern shown below. Be sure to include a z=1 layer. 1 is a green sphere while 1 and 2 are blue spheres.  The 0  indicates a 4.0 mm spacer tube; the 2  is an 18.6 mm spacer.</title>
+          <figure id="id7278262">
+            <media id="idp10189760" alt=""><image src="../../media/graphics2-8525.jpg" mime-type="image/jpeg" height="279" width="260"/></media>
+          </figure>
+        </section>
+        <section id="id-587624906636">
+          <title>Teams E and F</title>
+          <para id="id7278286">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-657884134465">
+          <title>Zinc Blende and Wurtzite: Zinc Sulfide</title>
+          <para id="id7278322">Team E. Zinc Blende: Use template D to construct the crystal pattern illustrated below. Numbers 2 and 4 are blue spheres while 1 and 3 are colorless spheres and 4  is a 16.1 mm spacer.</para>
+          <para id="id7278377">Team F. Wurtzite: Use template L to construct the Wurtzite lattice. Numbers 1, 3 and 1' are colorless spheres and Numbers 2 and 4 are pink spheres. </para>
+          <para id="id7278431"> </para>
+          <para id="id7278436"> </para>
+          <para id="id7278440"> <figure id="id7278448"><media id="idp4123360" alt=""><image src="../../media/graphics3-d63f.png" mime-type="image/png" height="227" width="230"/></media></figure></para>
+        </section>
+      </section>
+    </section>
+    <section id="id-33642504368">
+      <title>Pre-Lab: Solid State and Superconductors </title>
+      <para id="id7278475">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-321285626031">
+      <title>(Total 10 Points)</title>
+      <para id="id7278490">Hopefully <link document="m15259" resource="PreLabSS07.doc">here</link> for the Pre-Lab</para>
+      <para id="id7278515">Name(Print then sign): ___________________________________________________</para>
+      <para id="id7278520">Lab Day: ___________________Section: ________TA__________________________</para>
+      <para id="id7278526">This assignment must be completed individually and turned in to your TA at the beginning of lab. You will not be allowed to begin the lab until you have completed this assignment.</para>
+      <list list-type="enumerated" id="id7278533">
+        <item>List the existing crystal systems (unit cell types):</item>
+        <item>Which of these unit cells will we study in this laboratory exercise? </item>
+        <item>Which are the three subclasses of this type of unit cell?</item>
+        <item>Define coordination number:</item>
+        <item>What is the volume of a sphere? Of a cube?</item>
+      </list>
+    </section>
+    <section id="id-828425476262">
+      <title>Report: Solid State and Superconductors</title>
+      <para id="id7278602">Hopefully <link document="m15259" resource="ReportSS07.doc">here</link> for the Report Form</para>
+      <para id="id7278623">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work (including your laboratory partner) or misrepresent your own data (see honor code).</para>
+      <para id="id7278636">Name(Print then sign): ___________________________________________________</para>
+      <para id="id7278641">Lab Day: ___________________Section: ________TA__________________________</para>
+      <para id="id7278647">Part I Demonstration and Unit cell theory</para>
+      <para id="id7278652">A. TA Demo of the superconductor</para>
+      <para id="id7278656">Describe and explain your observations (What happens with the magnet? Briefly describe the Meissner effect?) </para>
+      <para id="id7278670"> </para>
+      <para id="id7278675"> </para>
+      <para id="id7278679">B. The unit cell 1. A cube (see below) has _______ corners, _______ edges &amp; _______ faces.</para>
+      <figure id="id7278697">
+        <media id="idp2194048" alt=""><image src="../../media/graphics4-0712.png" mime-type="image/png" height="102" width="129"/></media>
+      </figure>
+      <para id="id7278721">2. Structure A below shows how a unit cell may be drawn where one choice of unit cell is shown in bold lines. In Structures B, C and D below, draw the outline(s) of the simplest 2-D unit cells (two-dimensional repeating patterns depicted by a parallelogram that encloses a portion of the structure). </para>
+      <para id="id7278789">If the unit cell is moved in the X,Y-plane in directions parallel to its sides and in distance increments equal to the length of its sides, it has the property of duplicating the original structural pattern of circles as well as spaces between circles. Can a structure have more than one type of unit cell? ________</para>
+      <para id="id7278810"> </para>
+      <figure id="id7278818">
+        <media id="idp3020448" alt=""><image src="../../media/graphics5-0896.png" mime-type="image/png" height="107" width="428"/></media>
+      </figure>
+      <table id="id7278842" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Structure A</entry>
+              <entry>Structure B</entry>
+              <entry>Structure C</entry>
+              <entry>Structure D</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7278932">3. If the circle segments enclosed inside each of the bold-faced parallelograms shown below were cut out and taped together, how many whole circles could be constructed for each one of the patterns:</para>
+      <figure id="id7278943">
+        <media id="idm1819984" alt=""><image src="../../media/graphics6-2413.png" mime-type="image/png" height="72" width="314"/></media>
+      </figure>
+      <table id="id7278966" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry> </entry>
+              <entry> </entry>
+              <entry> </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7279014">4. Shown below is a 3-D unit cell for a structure of packed spheres. The center of each of 8 spheres is at a corner of the cube, and the part of each that lies in the interior of the cube is shown. If all of the sphere segments enclosed inside the unit cell could be glued together, how many whole spheres could be constructed?</para>
+      <para id="id7279024"><media id="idp4236448" alt=""><image src="../../media/graphics7-5a09.png" mime-type="image/png" height="102" width="130"/></media>  </para>
+      <para id="id8035626">number of whole spheres: ________</para>
+      <para id="id8035630">5. For each of the figures shown below, determine the number of corners and faces. Identify and name each as one of the regular geometric solids.</para>
+      <figure id="id8035639">
+        <media id="idp4037792" alt=""><image src="../../media/graphics8-f19c.png" mime-type="image/png" height="88" width="220"/></media>
+      </figure>
+      <para id="id8035663">AB</para>
+      <table id="id8035678" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry> </entry>
+              <entry>A</entry>
+              <entry>B</entry>
+            </row>
+            <row>
+              <entry>Number of corners</entry>
+              <entry> </entry>
+              <entry> </entry>
+            </row>
+            <row>
+              <entry>Number of faces</entry>
+              <entry> </entry>
+              <entry> </entry>
+            </row>
+            <row>
+              <entry>Name of the shape of this object</entry>
+              <entry> </entry>
+              <entry> </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8035826"> </para>
+      <para id="id8035831"> </para>
+      <para id="id8035835"> </para>
+      <para id="id8035840">Part II Experimental</para>
+      <list list-type="enumerated" id="id8035844">
+        <item>Cubic Cells</item>
+      </list>
+      <section id="id-698110009647">
+        <title>A. Simple Cubic Unit Cells or Primitive Cubic Unit Cells (P)</title>
+        <para id="id8035863">a. How would you designate the simple cube stacking - aa, ab, abc, or some other?</para>
+        <para id="id8035869"> </para>
+        <para id="id8035874">b. If the radius of each atom in this cell is r, what is the equation that describes the volume of the cube generated in terms of r? (Note that the face of the cube is defined by the position of the rods and does not include the whole sphere.)</para>
+        <para id="id8035888"> </para>
+        <para id="id8035893"> </para>
+        <para id="id8035898">c. Draw the z-diagram for the unit cell layers.</para>
+        <para id="id8035907"> </para>
+        <para id="id8035912"> </para>
+        <para id="id8035917">d. To how many different cells does a corner atom belong? What is the fractional contribution of a single corner atom to a particular unit cell?</para>
+        <para id="id8035924"> </para>
+        <para id="id8035929">e. How many corner spheres does a single unit cell possess?</para>
+        <para id="id8035934">  </para>
+        <para id="id8035939">f. What is the net number of atoms in a unit cell? (Number of atoms multiplied by the fraction they contribute)</para>
+        <para id="id8035951"> </para>
+        <para id="id8035956">g. Pick an interior sphere in the extended array. What is the coordination number (CN) of that atom? In other words, how many spheres are touching it? .</para>
+        <para id="id8035972"> </para>
+        <para id="id8035977">h. What is the formula for the volume of a sphere with radius r?</para>
+        <para id="id8035993"> </para>
+        <para id="id8035998">i. Calculate the packing efficiency of a simple cubic unit cell (the % volume or space occupied by atomic material in the unit cell). Hint: Consider the net number of atoms per simple cubic unit cell (question g) the volume of one sphere (question i), and the volume of the cube (question b).</para>
+        <para id="id8036029"> </para>
+        <para id="id8036033"> </para>
+        <para id="id8036038"> </para>
+      </section>
+      <section id="id-83916262869">
+        <title>B. Body-Centered Cubic (BCC) Structure </title>
+        <para id="id8036052">a. Draw the z diagrams for the layers.</para>
+        <para id="id8036062"> </para>
+        <para id="id8036067"> </para>
+        <para id="id8036072"> b. Fill out the table below for a BCC unit cell </para>
+        <table id="id8036077" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Atom type</entry>
+                <entry>Number</entry>
+                <entry>Fractional Contribution</entry>
+                <entry>Total Contribution</entry>
+                <entry>Coordination Number</entry>
+              </row>
+              <row>
+                <entry>Corner</entry>
+                <entry> </entry>
+                <entry> </entry>
+                <entry> </entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Body</entry>
+                <entry> </entry>
+                <entry> </entry>
+                <entry> </entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8036260">c. What is the total number of atoms in the unit cell?</para>
+        <para id="id8036266"> </para>
+        <para id="id8036270">d. Look at the stacking of the layers. How are they arranged if we call the layers a, b, c, etc.?</para>
+        <para id="id8036277"> </para>
+        <para id="id8036282">e. If the radius of each atom in this cell is r, what is the formula for the volume of the cube generated in terms of the radius of the atom? (See diagrams below.)</para>
+        <para id="id8036299"> </para>
+        <para id="id8036304">  </para>
+        <para id="id8036309"> </para>
+        <para id="id8036316"> </para>
+        <para id="id8036320">f. Calculate the packing efficiency of the bcc cell: Find the volume occupied by the net number of spheres per unit cell if the radius of each sphere is r; then calculate the volume of the cube using r of the sphere and the Pythagoras theorem (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">=</m:mo><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a rSup { size 8{2} } +b rSup { size 8{2} } =c rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>) to find the diagonal of the cube. </para>
+        <para id="id8036433"> </para>
+        <para id="id8036438"> </para>
+        <para id="id8036442"> </para>
+        <para id="id8036447"> </para>
+        <para id="id8036452"> </para>
+        <para id="id8036457"> </para>
+      </section>
+      <section id="id-819359726704">
+        <title>C. The Face Centered Cubic (FCC) Unit Cell</title>
+        <para id="id8036463">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-59708355841">
+        <title>a. Fill out the following table for a FCC unit cell.</title>
+        <table id="id8036479" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Atom type</entry>
+                <entry>Number</entry>
+                <entry>Fractional Contribution</entry>
+                <entry>Total Contribution </entry>
+                <entry>Coordination Number</entry>
+              </row>
+              <row>
+                <entry>Corner</entry>
+                <entry> </entry>
+                <entry> </entry>
+                <entry> </entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Face</entry>
+                <entry> </entry>
+                <entry> </entry>
+                <entry> </entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8036662">b. What is the total number of atoms in the unit cell?</para>
+        <para id="id8036667">c. Using a similar procedure to that applied in Part B above; calculate the packing efficiency of the face-centered cubic unit cell.</para>
+        <para id="id8036674"> </para>
+        <para id="id8036679"> </para>
+        <para id="id8036684"> </para>
+        <para id="id8036689"> </para>
+        <list list-type="enumerated" id="id8036693">
+          <item>Close-Packing</item>
+        </list>
+        <para id="id8036702">a. Compare the hexagonal and cubic close-packed structures.</para>
+        <para id="id8036707"> </para>
+        <para id="id8036712"> </para>
+        <para id="id8036716">b. Locate the interior sphere in the layer of seven next to the new top layer. For this interior sphere, determine the following:</para>
+        <table id="id8036735" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Number of touching spheres:</entry>
+                <entry>hexagonal close-packed (hcp)</entry>
+                <entry>cubic close-packed (ccp)</entry>
+              </row>
+              <row>
+                <entry>on layer below</entry>
+                <entry> </entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>on the same layer </entry>
+                <entry> </entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>on layer above</entry>
+                <entry> </entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>TOTAL CN of the interior sphere</entry>
+                <entry> </entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7510714">c. Sphere packing that has this number (write below) of adjacent and touching nearest neighbors is referred to as close-packed. Non-close-packed structures will have lower coordination numbers.</para>
+        <para id="id7510742"> </para>
+        <para id="id7510747">d. Are the two unit cells the identical?  </para>
+        <para id="id7510756"> </para>
+        <para id="id7510761">e. If they are the same, how are they related? If they are different, what makes them different? </para>
+        <para id="id7510772"> </para>
+        <para id="id7510777">f. Is the face-centered cubic unit cell aba or abc layering? Draw a z-diagram.</para>
+        <para id="id7510793"> </para>
+        <para id="id7510798"> III.Interstitial sites and coordination number (CN)</para>
+        <para id="id7510817">a. If the spheres are assumed to be ions, which of the spheres is most likely to be the anion and which the cation, the colorless spheres or the colored spheres? Why? </para>
+        <para id="id7510824">  </para>
+        <para id="id7510829">b. Consider interstitial sites created by spheres of the same size. Rank the interstitial sites, as identified by their coordination numbers, in order of increasing size (for example, which is biggest, the site with coordination number 4, 6 or 8?).</para>
+        <para id="id7510838"> </para>
+        <para id="id7510842"> c. Using basic principles of geometry and assuming that the colorless spheres are the same anion with radius r A in all three cases, calculate in terms of rA the maximum radius, rC, of the cation that will fit inside a hole of CN 4, CN 6 and CN 8. Do this by calculating the ratio of the radius of to cation to the radius of the anion: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>r</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">/</m:mo><m:msub><m:mi>r</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>A</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r rSub { size 8{C} } /r rSub { size 8{A} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id7510978">   </para>
+        <para id="id7510982"> </para>
+        <para id="id7510987">d. What terms are used to describe the shapes (coordination) of the interstitial sites of CN 4, CN 6 and CN 8? </para>
+        <para id="id7510993">CN 4: ________________</para>
+        <para id="id7510998">CN 6: _______________</para>
+        <para id="id7511003">CN 8: ________________</para>
+        <para id="id7511007"> </para>
+      </section>
+      <section id="id-51673554692">
+        <title>IV.Ionic Solids</title>
+        <para id="id7511022">A. Cesium Chloride</para>
+        <para id="id7511027">1. Fill the table below for Cesium Chloride</para>
+        <para id="id7511031"><table id="id7511054" summary=""><tgroup cols="3"><colspec colnum="1" colname="c1"/><colspec colnum="2" colname="c2"/><colspec colnum="3" colname="c3"/><tbody><row><entry> </entry><entry>Colorless spheres</entry><entry>Green spheres</entry></row><row><entry>Type of cubic structure</entry><entry> </entry><entry> </entry></row><row><entry>Atom represented </entry><entry> </entry><entry> </entry></row></tbody></tgroup></table> </para>
+        <para id="id7511171"> </para>
+        <para id="id7511176"> </para>
+        <para id="id7511181">2. Using the simplest unit cell described by the colorless spheres, how many net colorless and net green spheres are contained within that unit cell?</para>
+        <para id="id7511188">  </para>
+        <para id="id7511193">3. Do the same for a unit cell bounded by green spheres as you did for the colorless spheres in question 4.</para>
+        <para id="id7511199">  </para>
+        <para id="id7511204">4. What is the ion-to-ion ratio of cesium to chloride in the simplest unit cell which contains both? (Does it make sense? Do the charges agree?)</para>
+        <para id="id7511211">  </para>
+        <para id="id7511216">B. Calcium Fluoride</para>
+        <para id="id7511220"> 1. Draw the z diagrams for the layers (include both colorless and green spheres).</para>
+        <para id="id7511232">  </para>
+        <para id="id7511237"> </para>
+        <para id="id7511241">2. Fill the table below for Calcium Fluoride</para>
+        <para id="id7511247"><table id="id7511269" summary=""><tgroup cols="3"><colspec colnum="1" colname="c1"/><colspec colnum="2" colname="c2"/><colspec colnum="3" colname="c3"/><tbody><row><entry> </entry><entry>Colorless spheres</entry><entry>Green spheres</entry></row><row><entry>Type of cubic structure</entry><entry> </entry><entry> </entry></row><row><entry>Atom represented </entry><entry> </entry><entry> </entry></row></tbody></tgroup></table> </para>
+        <para id="id7511387"> </para>
+        <para id="id7511391"> </para>
+        <para id="id7511396">3. What is the formula for fluorite (calcium fluoride)? </para>
+        <para id="id7511402"> </para>
+        <para id="id7511407">C. Lithium Nitride</para>
+        <para id="id7511411">1. Draw the z diagrams for the atom layers which you have constructed.</para>
+        <para id="id7511422"> </para>
+        <para id="id7511427">   </para>
+        <para id="id7511432">2. What is the stoichiometric ratio of green to blue spheres?</para>
+        <para id="id7511442">  </para>
+        <para id="id7511447">3. Now consider that one sphere represents lithium and the other nitrogen. What is the formula?</para>
+        <para id="id7511459">4. How does this formula correspond to what might be predicted by the Periodic Table?</para>
+        <para id="id7511470"> </para>
+        <para id="id7511475">D. Zinc Blende and Wurtzite</para>
+        <para id="id7511479">Fill in the table below:</para>
+        <table id="id7511484" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry> </entry>
+                <entry>Zinc Blende</entry>
+                <entry>Wurtzite</entry>
+              </row>
+              <row>
+                <entry>Stoichiometric ratio of colorless to pink spheres</entry>
+                <entry> </entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Formula unit (one sphere represents and the other the sulfide ion)</entry>
+                <entry> </entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Compare to predicted from periodic table</entry>
+                <entry> </entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Type of unit cell</entry>
+                <entry> </entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7511669"> </para>
+      </section>
+    </section>
+  </content>
+</document>

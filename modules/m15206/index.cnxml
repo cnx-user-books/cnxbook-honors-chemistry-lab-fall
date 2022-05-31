@@ -1,0 +1,494 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The Best Table in the World</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b762109b-5d31-43ae-aa04-befce61b6081</md:uuid>
+</metadata>
+  <content>
+    <section id="id-714503625106">
+      <title>The Best Table in the World!</title>
+      <section id="id-783792101914">
+        <title>Objective</title>
+        <para id="id11714003">The goals of this experiment are:</para>
+        <list list-type="bulleted" id="id2962857">
+          <item>to observe the reactions of several metals with cold water, hot water, acids and then other metal ions.</item>
+          <item>to prepare an activity series of the metals based on the observations from the above reactions.</item>
+        </list>
+      </section>
+      <section id="id-952238561547">
+        <title>Grading</title>
+        <para id="id11154348">You will be assessed on:</para>
+        <list list-type="bulleted" id="id11287604">
+          <item>observations of the reactions of several metals with cold water, hot water, acids and then other metal ions.</item>
+          <item>preparation of an activity series of the metals based on the observations from the above reactions.</item>
+          <item>answers to the post-lab questions.</item>
+        </list>
+      </section>
+      <section id="id-970092846325">
+        <title>Background Information</title>
+        <para id="id11968437">First, you are going to travel back to 1869 and marvel at how the first periodic law and table were born when only 63 elements had been discovered at the time. A 35 year old professor of general chemistry, Dmitri Ivanovich Mendeleev at the University of St. Petersburg (now Lennigrad) in Russia was shuffling his cards with the properties of each element on each card trying to organize his thoughts for his soon-to-be famous textbook on chemistry. When he realized that if the elements were arranged in the order of their atomic weights, there was a trend in properties that repeated itself several times! His paper was delivered by his graduate student, Nikolai Aleksandrivich Menchutkin before the Russian Chemical Society while Medeleev was busy visiting cheesemaking cooperatives at the time!</para>
+        <para id="id11664024">In order to see and find order among the elements, we must have some general acquaintance with them. Elements are made of matter, and matter is defined as anything that has mass and occupies space. This includes everything that you can see and a lot that you cannot. It follows that in order to distinguish between different types of matter (in other words different elements) we have to assess their properties.</para>
+        <para id="id12359697">There are two types of properties: intensive and extensive. In the former case, intensive properties do not depend on the how much of an element is present but do include state (whether a substance is a solid, liquid or gas), color and chemical reactivity. Extensive properties depend on the quantity of matter present - mass and volume are extensive properties.</para>
+        <para id="id12359701">Properties can be further categorized as either chemical or physical. A chemical change describes how the substance may change composition, such as spontaneously by combustion or in combination with other substances. On the other hand, physical changes are those properties that can be measured without changing the composition of the matter. Condensation of steam to water is a physical change.</para>
+      </section>
+      <section id="id-151053372602">
+        <title>Introduction</title>
+        <para id="id12579481">What is there to know about the periodic table? Why is it important? Why does it appear in nearly every science lecture room and labs? Is it just a portrait of an aspect of chemistry or does it serve a useful purpose? Why is the name periodic appropriate? Why is the table arranged in such a way? What are the important features of the table? Does it give order to the approximately 120 known elements?</para>
+      </section>
+    </section>
+    <section id="id-850176517194">
+      <title>Relative Reactivity of Metals and the Activity Series</title>
+      <para id="id12952397"> A superficial glance at the Periodic Table will reveal that all known elements are listed by their chemical symbols. An in depth glance at the Periodic Table yields information on the mass of an atom of the element in atomic mass units (amu) for the molar mass of a mole (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>02</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mtext>23</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." "02" times "10" rSup { size 8{"23"} } } {}</m:annotation></m:semantics></m:math>) of atoms in grams below the chemical symbol for each element. Above the chemical symbol for each element, there is a second number listed, the atomic number, which gives the number of protons (positively charged particles in the nucleus), or the number of electrons (negatively charged outside the nucleus) for a neutral atom.</para>
+      <para id="id3571022">Mendeleev arranged the elements in the Periodic Table in order of increasing atomic number in horizontal rows of such length that elements with similar properties recur periodically; that is to say, they fall directly beneath each other in the Table. The elements in a given vertical column are referred to as a family or group. The physical and chemical properties of the elements in a given family change gradually as one goes from one element in the column to the next. By observing the trends in properties, the elements can be arranged in the order in which they appear in the Periodic Table.</para>
+    </section>
+    <section id="id-0507305097368">
+      <title>Procedure</title>
+      <section id="id-538157460003">
+        <title>I. Activity Series</title>
+        <section id="id-641329881615">
+          <title>Part 1. Reactions of Metals with Water</title>
+          <para id="id12334598">CAUTION! Sodium reacts very rapidly with water to evolve hydrogen and heat. This is potentially dangerous because of the possibility of the violent explosive reaction of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> (g) with 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> (g) present in the air.</para>
+          <para id="id11595108">CAUTION! Sodium causes severe chemical burns when it comes into contact with the skin. Note: Metallic sodium must be stored below the surface of an inert liquid such as kerosene to prevent oxidation by air.</para>
+          <list list-type="enumerated" id="id11647887">
+            <item>I will demonstrate the reaction of sodium and then potassium with water. Observe the rate of evolution of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> gas as I use tweezers to place a tiny pea-size piece of sodium then potassium into a 500-mL beaker full of deionised water. Record your observation on the Report Form and write a balanced equation for this reaction.</item>
+            <item> Place 5 mL 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math> in each of four clean tubes and label them as follows: </item>
+          </list>
+          <table id="id11873622" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>A.</entry>
+                  <entry>Mg</entry>
+                </row>
+                <row>
+                  <entry>B.</entry>
+                  <entry>Cu</entry>
+                </row>
+                <row>
+                  <entry>C.</entry>
+                  <entry>Zn</entry>
+                </row>
+                <row>
+                  <entry>D.</entry>
+                  <entry>Ca</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <list list-type="enumerated" id="id3468154">
+            <item>Use sandpaper or steel wool to remove the oxide from the surfaces of Mg, Cu, and Zn.</item>
+            <item>Place several small pieces of Mg, Cu, and Zn in the correctly labeled test tube prepared above. Place two or three (not more!) pieces of Ca turnings in the test tube labeled "Ca".</item>
+            <item>Watch for evidence of reaction by noting evolution of gas bubbles and any change in the color or size of the metal. Record your observations and write net ionic equations for each reaction.</item>
+          </list>
+          <para id="id11470277"> Note: Trapped air bubbles on the metal surfaces are not indicative of a reaction.</para>
+          <para id="id12612718">CAUTION: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> is FLAMMABLE!</para>
+          <para id="id3366125">CAUTION: Residual calcium should be discarded in a special container designated by your instructor.</para>
+          <para id="id8920864">Note: Net ionic equations must balance in mass (atoms) and in total charge on each side of the equation.</para>
+        </section>
+        <section id="id-696289175782">
+          <title>Part 2. Reactions of Metals with HCl</title>
+          <para id="id11608967">CAUTION: The reaction of Ca with HCl is not studied. Residual calcium should be discarded in a special container designated by your instructor.</para>
+          <list list-type="enumerated" id="id11709074">
+            <item>Decant the water from each test tube used in the procedure above and leave the pieces of metal that remain unreacted in each test tube.</item>
+            <item>Place the test tubes in a test tube rack/holder.</item>
+            <item>Add 2 mL of 3 M HCl solution to each test tube. </item>
+          </list>
+          <para id="id2938884">CAUTION: Some of the test tubes may become very hot. Leave them in the rack/holder while you are making observations.</para>
+          <list list-type="enumerated" id="id12237134">
+            <item>Observe relative rate of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> gas evolution for up to 10 minutes and record your observations on your report form.</item>
+            <item>Based on the observations in the previous steps, list the elements that react in 3M HCl in order of increasing strength as reducing agents and write net ionic equations for all reactions.</item>
+          </list>
+        </section>
+        <section id="id-922965799139">
+          <title>Part 3. Reactions of Metals with Other Metal Ions  </title>
+          <list list-type="enumerated" id="id11891288">
+            <item>Place a clean 1 inch-square of metal foil (sheet) of each of these metals Cu, Zn and Pb on a flat surface.</item>
+            <item>Clean the metal surfaces by sanding them with fine sandpaper or steel wool.</item>
+            <item>Place one or two drops in spots of each of these solutions in a clockwise order on the metal surfaces: </item>
+          </list>
+          <table id="id6324531" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>A.</entry>
+                  <entry>0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>Ag</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ag" rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math></entry>
+                </row>
+                <row>
+                  <entry>B.</entry>
+                  <entry>0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>Cu</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Cu" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math></entry>
+                </row>
+                <row>
+                  <entry>C.</entry>
+                  <entry>0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>Zn</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Zn" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math></entry>
+                </row>
+                <row>
+                  <entry>D.</entry>
+                  <entry>0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>Pb</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Pb" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math></entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <list list-type="enumerated" id="id11158315">
+            <item> NOTE: Do not test a cation of a metal on a square of the same metal such as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>Cu</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Cu" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math> ion and Cu metal.</item>
+            <item>Watch for color changes in each spot as evidence of reaction. If you are not sure whether the reaction has occurred, rinse the plate with water. A distinct spot of a different color on the surface is good evidence for the reaction.</item>
+            <item>Write net ionic equations for each reaction . Arrange Ag, Cu, Pb and Zn in order of their increasing strength as reducing agents. If a metal A reacts with a cation of another metal B, metal A is a stronger reducing agent, more reactive than metal B.</item>
+            <item>Rinse and dry each square of metal and return it to the correct beaker on the reagent shelf for other students to use.</item>
+          </list>
+        </section>
+        <section id="id-773117333959">
+          <title>Part 4. Flame Tests</title>
+          <para id="id11460161">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-380198313637">
+          <title>One station set up that all sections will rotate through</title>
+          <para id="id12290381">Clean a spatula wire by dipping it into dilute hydrochloric acid (3M) and then holding it in a hot Bunsen flame. Repeat this until the spatula doesn't produce any color in the flame.</para>
+          <para id="id3746260">When the spatula is clean, moisten it again with some of the acid and then dip it into a small amount of the solid you are testing so that some sticks to the spatula. Place the spatula back in the flame again.</para>
+          <para id="id11404560">If the flame color is weak, it is often worthwhile to dip the spatula back in the acid again and put it back into the flame as if you were cleaning it. You often get a very short but intense flash of color by doing that.</para>
+          <para id="id3439045">Chemicals/Materials:</para>
+          <list list-type="enumerated" id="id12306520">
+            <item>Chloride salts of Li, Na, K, Rb, Cs, Ca, Ba, Cu, Pb, Fe (II) and Fe(III) Sr (nitrate salt).</item>
+            <item>Glass rods with loops of Pt wire.</item>
+            <item>Bunsen burner/clicker.</item>
+            <item>Concentrated nitric acid or hydrochloric acid.</item>
+          </list>
+          <para id="id12722687">Record your observations on your report form.</para>
+          <para id="id4412447">It should be noted that sodium is present as an impurity in many if not most metal salts. Because sodium imparts an especially intense color to a flame, flashes of the sodium may be observed in nearly all solutions tested.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-990439812904">
+      <title>Pre-Lab 5: The Best Table in the World!</title>
+      <para id="id12387875">Hopefully <link resource="PreLabTable07.doc">here</link> for the Pre-Lab</para>
+      <para id="id4034606">Name(Print then sign): __________________________________________________</para>
+      <para id="id12905400">Lab Day: ___________________Section: ________TA________________________</para>
+      <para id="id10846652">This assignment must be completed individually and turned in to your TA at the beginning of lab. You will not be allowed to begin the lab until you have completed this assignment.</para>
+      <list list-type="enumerated" id="id3699878">
+        <item>The mass of an atom of the element in atomic mass units (amu) for the molar mass of a mole (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>02</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mtext>23</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." "02" times "10" rSup { size 8{"23"} } } {}</m:annotation></m:semantics></m:math>) of atoms in grams above or below the chemical symbol for each element? Circle the correct one.</item>
+        <item>The second symbol listed for each element is the _______ __________, symbol ________? Fill in the blanks.</item>
+        <item>The number in question 2 gives the number of <list list-type="bulleted" id="id11099834"><item>____________ or </item><item>the number of ________________ for a neutral atom. Fill in the blanks</item></list></item>
+        <item>The elements in a given vertical column are referred to as a _________ or __________. Fill in the blanks.</item>
+        <item>The horizontal rows are called __________? Fill in the blank</item>
+        <item>The block of elements between groups II and III are called ___________ _________? Fill in the blanks.</item>
+        <item>Elements 58 to 71 are known as ____________ or __________________? Fill in the blanks.</item>
+        <item>Elements 90 to 103 are known as _________ ____________? Fill in the blanks.</item>
+        <item>Do elements with larger atomic numbers than 92 occur naturally? True or false? Circle the correct one.</item>
+      </list>
+    </section>
+    <section id="id-887572868525">
+      <title>Report 5: The Best Table in the World!</title>
+      <para id="id3482232">Hopefully <link resource="ReportTable07.doc">here</link> for the Report Form</para>
+      <para id="id11175441">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work (including your laboratory partner) or misrepresent your own data (see honor code).</para>
+      <para id="id12546095">Name(Print then sign): __________________________________________________</para>
+      <para id="id3765516">Lab Day: ___________________Section: ________TA________________________</para>
+      <section id="id-732698234844">
+        <title>I. Activity Series</title>
+        <section id="id-700966416542">
+          <title>Part 1. Reactions of Metals with Water</title>
+          <table id="id12307575" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Metal</entry>
+                  <entry>Observations</entry>
+                  <entry>Net Ionic Equations (If NoReaction Occurs, write N.R)</entry>
+                </row>
+                <row>
+                  <entry>Na</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>K</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Mg</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Cu</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Zn</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Ca</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-60405460402">
+          <title>Part 2. Reactions with HCl</title>
+          <table id="id10036533" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Metal</entry>
+                  <entry>Observations</entry>
+                  <entry>Net Ionic Equations (If No Reaction Occurs, Write N.R.)</entry>
+                </row>
+                <row>
+                  <entry>Mg</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Cu</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Zn</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id11973371">2. Based on your experimental results place Mg, Cu, Zn and Ca in order of increasing strength as reducing agents.</para>
+        </section>
+        <section id="id-227586389452">
+          <title>Part 3. Reactions with Other Metal Ions</title>
+          <para id="id12351662">1. Write in the appropriate box either “REACTION” or “NO REACTION”.</para>
+          <table id="id10679130" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry/>
+                  <entry>Zn</entry>
+                  <entry>Cu</entry>
+                  <entry>Pb</entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math>
+                      <m:semantics>
+                        <m:mrow>
+                          <m:mstyle fontsize="12pt">
+                            <m:mrow>
+                              <m:msup>
+                                <m:mtext>Ag</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mo stretchy="false">+</m:mo>
+                                      <m:mrow/>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mrow/>
+                        </m:mrow>
+                        <m:annotation encoding="StarMath 5.0"> size 12{"Ag" rSup { size 8{+{}} } } {}</m:annotation>
+                      </m:semantics>
+                    </m:math>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>
+                    <m:math>
+                      <m:semantics>
+                        <m:mrow>
+                          <m:mstyle fontsize="12pt">
+                            <m:mrow>
+                              <m:msup>
+                                <m:mtext>Cu</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                      <m:mo stretchy="false">+</m:mo>
+                                      <m:mrow/>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mrow/>
+                        </m:mrow>
+                        <m:annotation encoding="StarMath 5.0"> size 12{"Cu" rSup { size 8{2+{}} } } {}</m:annotation>
+                      </m:semantics>
+                    </m:math>
+                  </entry>
+                  <entry/>
+                  <entry>Do not test</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>
+                    <m:math>
+                      <m:semantics>
+                        <m:mrow>
+                          <m:mstyle fontsize="12pt">
+                            <m:mrow>
+                              <m:msup>
+                                <m:mtext>Zn</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                      <m:mo stretchy="false">+</m:mo>
+                                      <m:mrow/>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mrow/>
+                        </m:mrow>
+                        <m:annotation encoding="StarMath 5.0"> size 12{"Zn" rSup { size 8{2+{}} } } {}</m:annotation>
+                      </m:semantics>
+                    </m:math>
+                  </entry>
+                  <entry>Do not test</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>
+                    <m:math>
+                      <m:semantics>
+                        <m:mrow>
+                          <m:mstyle fontsize="12pt">
+                            <m:mrow>
+                              <m:msup>
+                                <m:mtext>Pb</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                      <m:mo stretchy="false">+</m:mo>
+                                      <m:mrow/>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mrow/>
+                        </m:mrow>
+                        <m:annotation encoding="StarMath 5.0"> size 12{"Pb" rSup { size 8{2+{}} } } {}</m:annotation>
+                      </m:semantics>
+                    </m:math>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry>Do not test</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id3432219">2. Write balanced equations to represent the results tabulated above.</para>
+          <para id="id10952052">3. Based on your experimental results, arrange Ag, Cu, Zn and Pb in order of increasing strength as reducing agents.</para>
+          <para id="id10952058">4. Arrange 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>Ag</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ag" rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>Cu</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Cu" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>Zn</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Zn" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>Pb</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Pb" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math> in order of increasing strength as oxidizing agents.</para>
+          <para id="id3457076">5. Combine the results from Part 2 and Part 3. Arrange Mg, Cu, Zn, Ca, Ag and Pb in order or increasing strength as reducing agents.</para>
+          <para id="id8881110">6. Place Ni in this row, if it is found that Ni will deposit on Zn foil, but not on Pb foil when a drop of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NiSO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NiSO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> is placed on both.</para>
+        </section>
+        <section id="id-325758985259">
+          <title>Part 4. Flame Tests</title>
+          <table id="id9735756" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Element</entry>
+                  <entry>Color in flame</entry>
+                </row>
+                <row>
+                  <entry>Li</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Na</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>K</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Rb</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Cs</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Ca</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Sr</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Ba</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Cu</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Pb</entry>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id11596254">What are the limitations of this test?</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

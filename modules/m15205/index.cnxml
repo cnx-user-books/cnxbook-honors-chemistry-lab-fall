@@ -1,0 +1,546 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Bonding 07</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>e8345571-b3df-4fad-bcc1-3696e4a0afc1</md:uuid>
+</metadata>
+  <content>
+    <section id="id-981036274519">
+      <title>Lab 5: Bonding 07</title>
+      <para id="id8213082">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-702912634174">
+      <title>Objective</title>
+      <list list-type="bulleted" id="id8213099">
+        <item>To test various compounds and determine their conductivity and bonding.</item>
+        <item>To understand how electronegativity can predict bond type. </item>
+        <item>To learn the relationship between bonding and conductivity. </item>
+      </list>
+    </section>
+    <section id="id-509233180077">
+      <title>Grading</title>
+      <list list-type="bulleted" id="id8851526">
+        <item>Pre-Lab (10%)</item>
+        <item>Lab Report Form (80%)</item>
+        <item>TA Points (10%)</item>
+      </list>
+    </section>
+    <section id="id-615364330263">
+      <title>Background Information</title>
+      <para id="id8851552">A chemical bond is a link between atoms that results from the mutual attraction of their nuclei for electrons. Bonding occurs in order to lower the total potential energy of each atom or ion.  Throughout nature, changes that decrease potential energy are favored.</para>
+      <para id="id8851569"> The main types of bonds that we will be covering are ionic bonds, covalent bonds, and metallic bonds.  An ionic bond is the chemical bond that results from the electrostatic attraction between positive (cations) and negative (anions) ions. The ionic relationship is a “give and take” relationship. One ion donates or “gives” electrons, while the other ion receives or “takes” electrons.</para>
+      <para id="id8851590">A covalent bond is a chemical bond resulting from the sharing of electrons between two atoms.  There are two main types of covalent bonds.  The first being non-polar covalent bonds.  These are bonds in which the bonding electrons are shared equally by the united atoms-with a balanced electrical charge.  Polar covalent bonds are covalent bonds in which the united atoms have an unequal attraction for the shared electrons.</para>
+      <para id="id8851608">
+        <figure id="id8851614">
+          <media id="idp7854032" alt=""><image src="../../media/graphics1-ef09.jpg" mime-type="image/jpeg" height="295" width="398"/></media>
+        </figure>
+      </para>
+      <para id="id8851638">The role of electrons in bonding has been well-studied. The ability of an atom or element to attract electrons to itself is known as the element’s electronegativity. A scale was first calculated by the Nobel laureate Linus Pauling and is commonly called the Pauling electronegativity scale. The actual electronegativity values aren’t as important as how they compare to a different element. In Part I of today’s experiment, you will compare electronegativity values to predict the type of bond that will exist between two elements. </para>
+      <para id="id8851680">In the solution state, ionic compounds dissociate to give a separation of charge. The separation of charge allows for the flow of electrons through solution. The flow of electrons is classified as conductivity. A strong electrolyte is a compound that when dissolved in water will completely ionize or dissociate into ions.  That is, the compound exists in water only as individual ions, and there are no intact molecules at all.  This solution conducts electricity well. A weak electrolyte is a compound that when dissolved in water only partially ionizes or dissociates into ions.  That is, the compound exists in water as a mixture of individual ions and intact molecules.  This solution conducts electricity weakly. A nonelectrolyte is a compound that when dissolved in water does not ionize or dissociate into ions at all.  In water, this compound exists entirely as intact molecules.  The solution does not conduct electricity at all. By measuring the conductivity of a dissolved compound, we can classify it as a nonelectrolyte, weak electrolyte, or strong electrolyte and determine its ability to dissociate into ions. There are four common compounds that you will encounter in today’s lab.</para>
+      <para id="id8154554">ACIDS are molecular compounds which ionize (turn into ions) in water.  The cation that is formed is always 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math>.  Therefore, in the formulas for simple acids, H is always the first element listed. Some acids are strong electrolytes and some acids are weak electrolytes.  There are no acids which are nonelectrolytes because by definition an acid is a 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math> donor.</para>
+      <para id="id8154686">BASES can be molecular compounds or ionic compounds.  Some bases are soluble and some are not.  The soluble bases ionize or dissociate into ions in water, and the anion formed is always 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>.  The ionic bases have hydroxide (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math> ) as the anion.  If they are soluble, the ions simply separate (dissociate) in the water.  All of the ionic bases which are soluble are strong electrolytes. </para>
+      <para id="id6871038">SALTS are ionic compounds which are not acids or bases.  In other words, the cation is not hydrogen and the anion is not hydroxide.  Some salts are soluble in water and some are not.  All of the salts which are soluble are relatively strong electrolytes. </para>
+      <para id="id6871055">NONELECTROLYTES are compounds which dissolve in water but do not ionize or dissociate into ions.  These would be molecular compounds other than the acids or bases already discussed. </para>
+    </section>
+    <section id="id-86911575402">
+      <title>Experimental Procedure</title>
+      <para id="id6871082">Caution:Acids and bases are corrosive and can cause burns.</para>
+      <section id="id-233969510188">
+        <title>Part I. Predicting bond type through electronegativity differences.</title>
+        <para id="id6871097">Using the electronegativity table provided in the lab manual, predict the type of bond that each of the following compounds will have by the following process:</para>
+        <list list-type="bulleted" id="id6871104">
+          <item>Find the electronegativity for each element or ion in compound using electronegativity table provided.</item>
+          <item>Subtract the electronegativites (using absolute value).</item>
+          <item>If values are between:</item>
+        </list>
+        <para id="id6871132">4.0-1.7---Ionic bond-50-100% ionic</para>
+        <para id="id6871136">1.7-0.3---Polar Covalent bond-5-50% ionic</para>
+        <para id="id6871140">0.3-0.0---Non-Polar Covalent-0-5% ionic</para>
+        <para id="id6871144">Determine the type of bonding in the following compounds: KCl, CO, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>CaBr</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CaBr" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>SiH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"SiH" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>, MgS.</para>
+        <figure id="id7830183">
+          <media id="idp529376" alt=""><image src="../../media/graphics2.png" mime-type="image/png" height="510" width="638"/></media>
+        </figure>
+      </section>
+      <section id="id-856373772455">
+        <title>Part II. Weak and strong electrolytes</title>
+        <para id="id7830208">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-982846167813">
+        <title>Chemicals</title>
+        <list list-type="bulleted" id="id7830223">
+          <item>tap water </item>
+          <item>0.1 M hydrochloric acid, HCl</item>
+          <item>0.1 M acetic acid, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>HC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"HC" rSub { size 8{2} } H rSub { size 8{3} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math></item>
+          <item>0.1 M sulfuric acid, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math></item>
+          <item>0.1 M sodium hydroxide, NaOH</item>
+          <item>0.1 M ammonia, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NH" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math></item>
+          <item>0.1 M sodium acetate, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>NaC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NaC" rSub { size 8{2} } H rSub { size 8{3} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math></item>
+          <item>0.1 M sodium chloride, NaCl</item>
+          <item>0.1 M ammonium acetate, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NH" rSub { size 8{4} } C rSub { size 8{2} } H rSub { size 8{3} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math></item>
+          <item>0.1 M ammonium chloride, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>Cl</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NH" rSub { size 8{4} } "Cl"} {}</m:annotation></m:semantics></m:math></item>
+          <item>methanol, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>OH</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CH" rSub { size 8{3} } "OH"} {}</m:annotation></m:semantics></m:math></item>
+          <item>ethanol, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>OH</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{2} } H rSub { size 8{5} } "OH"} {}</m:annotation></m:semantics></m:math></item>
+          <item>sucrose solution, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>12</m:mtext></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>22</m:mtext></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>11</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{"12"} } H rSub { size 8{"22"} } O rSub { size 8{"11"} } } {}</m:annotation></m:semantics></m:math></item>
+        </list>
+        <para id="id8877827">In today’s lab, you will be using a MicroLab conductivity probe to determine how well electrons flow through a given solution. First, you will need to calibrate the probe with a non-electrolyte (distilled water) and a very strong electrolyte. To quantify how well a solution conducts, we will assign numerical values to the conductance probe. A non-conducting solution will have a conductance value of 0, a poor conducting solution will have a reading of 0 to 1,000, and good conductors will have readings of 3,000 up.</para>
+      </section>
+      <section id="id-0744790778291">
+        <title>Instructions for MicroLab Conductivity Experiment</title>
+        <para id="id8877858">Open the MicroLab Program by clicking on the Shortcut to MicroLab.exe tab on the desktop.</para>
+        <para id="id8877864">On the “Choose an Experiment Type” Tab, enter a name for the experiment, and then double click on the MicroLab Experiment icon</para>
+        <para id="id8877872">Click “Add Sensor”, Choose sensor = Conductivity Probe</para>
+        <para id="id8877888">Choose an input, click on the red box that corresponds to the port that your conductivity sensor is connected to.
+Choose 20,000 microseconds</para>
+        <para id="id8877899">“Choose a Sensor”, click radial button that says Conductivity Probe. Click next.</para>
+        <para id="id8877906">Click “Perform New Calibration”</para>
+        <para id="id8877918">Click “Add Calibration Point” place the conductivity probe in the non-conductive standard solution, while swirling wait until the value is constant and then enter 0.0 into the “Actual Value” box in MicroLab and hit “ok”.</para>
+        <para id="id8877947">Again, Click “Add Calibration Point” place the conductivity probe in the conducting standard solution, while swirling wait until the value is constant and then enter 1020 into the “Actual Value” box in MicroLab and hit “ok”. Repeat for 3860 as the Actual Value.</para>
+        <para id="id8877976">Under Curve Fit Choices , click on “First order (linear)” and then “Accept and Save this Calibration”, when prompted to “Enter the units for this calibration”, leave as is and click ok, save as your name-experiment-date. Click finish.</para>
+        <para id="id8878016">In the sensor area, left click on the conductivity icon and drag it to the Y-axis over “data source two”, also click and drag to column B on the spreadsheet and also click and drag to the digital display window.</para>
+        <para id="id8878035">When ready to obtain data, click start.</para>
+        <para id="id8838795">This is very important: Be sure to thoroughly since the probe with DI water between every use.</para>
+        <para id="id8838800">Beginning with the tap water, measure the conductance of each of the following solutions. Using the information provided in the lab manual, classify each solution as a non-, weak, or strong electrolyte. For those solutions that are electrolytes, record the ions present in solution.</para>
+      </section>
+      <section id="id-735814615264">
+        <title>Part III. Electrolyte strength and reaction rate</title>
+        <para id="id8838815">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-210760278085">
+        <title>Chemicals</title>
+        <list list-type="bulleted" id="id8838830"><item>calcium carbonate powder - shake once</item>
+	<item>1 M HCl - stopper it</item>
+	<item>1 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>HC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"HC" rSub { size 8{2} } H rSub { size 8{3} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math></item>
+	<item>0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4 </m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "SO" rSub { size 8{4} } } {} begin time</m:annotation></m:semantics></m:math></item>
+	<item>Test tube gas collection apparatus - end at 20mL
+</item>
+</list>
+        <para id="id7084934">Measure 2 g of powdered calcium carbonate (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>CaCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CaCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>) onto a piece of weigh paper. Obtain 30 mL of 1 M HCl in a graduated cylinder. Pour the acid into the test tube apparatus. Add the calcium carbonate to the acid and QUICKLY stopper the tube to begin collecting gas. Record the time it takes to collect 20 mL of gas. The acid may react very fast with the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>CaCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CaCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> generating the gas very rapidly. Clean out the test tube apparatus and repeat the experiment using 1 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>HC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"HC" rSub { size 8{2} } H rSub { size 8{3} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> and 0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>.</para>
+      </section>
+      <section id="id-78719479514">
+        <title>Part IV. Chemical reactions</title>
+        <para id="id8010360">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-311162734642">
+        <title>Chemicals</title>
+        <list list-type="bulleted" id="id8010375"><item>0.01 M calcium hydroxide, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>Ca</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ca" \( "OH" \)  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math></item>
+	<item>Plastic straws</item>
+</list>
+        <para id="id8010457">Obtain ~20 mL of saturated calcium hydroxide solution. Make sure it is clear and colorless. Place the conductivity probe in the solution and begin monitoring it conductivity. With your straw, slowly exhale into the solution. Note any observations in the solution and the conductivity.</para>
+      </section>
+    </section>
+    <section id="id-786993969767">
+      <title>Pre-Lab 5: Bonding 07 </title>
+      <para id="id8010477">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-856878733327">
+      <title>(Total 10 Points)</title>
+      <para id="id8010492">Hopefully <link resource="PreLabBonding07.doc">here</link> for the Pre-Lab</para>
+      <para id="id8617201">Name(Print then sign): ___________________________________________________</para>
+      <para id="id8617206">Lab Day: ___________________Section: ________TA__________________________</para>
+      <para id="id8617212">This assignment must be completed individually and turned in to your TA at the beginning of lab. You will not be allowed to begin the lab until you have completed this assignment.</para>
+      <section id="id-950545186641">
+        <title>Part I. Bonding of chemicals in solution</title>
+        <list list-type="enumerated" id="id8617226">
+          <item>Write out the formulas of the following acids:</item>
+        </list>
+        <para id="id8617238"/>
+        <list list-type="bulleted" id="id8617244">
+          <item>phosphoric ____________________</item>
+        </list>
+        <para id="id8617256"/>
+        <list list-type="bulleted" id="id8617262">
+          <item>perchloric ____________________</item>
+        </list>
+        <para id="id8617274"/>
+        <list list-type="bulleted" id="id8617280">
+          <item>nitric ____________________</item>
+        </list>
+        <para id="id8617291"/>
+        <list list-type="bulleted" id="id8617298">
+          <item>sulfuric __________________</item>
+        </list>
+        <para id="id8617309"/>
+        <list list-type="bulleted" id="id8617315">
+          <item>hydrochloric ____________________</item>
+        </list>
+        <para id="id8617327"/>
+        <list list-type="bulleted" id="id8617333">
+          <item>acetic ____________________</item>
+        </list>
+        <para id="id8617345"/>
+        <para id="id8617351"/>
+        <para id="id8617357"/>
+        <list list-type="enumerated" id="id8617363">
+          <item>Write out the formulas of the following bases:</item>
+        </list>
+        <para id="id8617378"/>
+        <list list-type="bulleted" id="id8617384">
+          <item>calcium hydroxide ____________________</item>
+        </list>
+        <para id="id8617396"/>
+        <list list-type="bulleted" id="id8617402">
+          <item>potassium hydroxide ____________________</item>
+        </list>
+        <para id="id8617413"/>
+        <list list-type="bulleted" id="id7520463">
+          <item>sodium hydroxide ____________________</item>
+        </list>
+        <para id="id7520475"/>
+        <list list-type="bulleted" id="id7520481">
+          <item>ammonia ____________________</item>
+        </list>
+        <para id="id7520492"/>
+        <para id="id7520499"/>
+        <list list-type="enumerated" id="id7520505">
+          <item>Write out the formulas of the following salts:</item>
+        </list>
+        <para id="id7520520"/>
+        <list list-type="bulleted" id="id7520526">
+          <item>potassium chromate ____________________</item>
+        </list>
+        <para id="id7520537"/>
+        <list list-type="bulleted" id="id7520543">
+          <item>potassium sulfate ____________________</item>
+        </list>
+        <para id="id7520555"/>
+        <list list-type="bulleted" id="id7520561">
+          <item>copper(II) nitrate ____________________</item>
+        </list>
+        <para id="id7520573"/>
+        <list list-type="bulleted" id="id7520579">
+          <item>calcium carbonate ____________________</item>
+        </list>
+        <para id="id7520590"/>
+        <list list-type="bulleted" id="id7520597">
+          <item>potassium iodide ____________________</item>
+        </list>
+        <para id="id7520608"/>
+        <para id="id7520614"/>
+        <para id="id7520620"/>
+        <para id="id7520627"/>
+      </section>
+    </section>
+    <section id="id-347789300413">
+      <title>Report 5: Bonding 07</title>
+      <para id="id7520642">Hopefully <link resource="ReportBonding07.doc">here</link> for the Report Form</para>
+      <para id="id7520664">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work (including your laboratory partner) or misrepresent your own data (see honor code).</para>
+      <para id="id7520677">Name(Print then sign): ___________________________________________________</para>
+      <para id="id7520682">Lab Day: ___________________Section: ________TA__________________________</para>
+      <section id="id-0770437112985">
+        <title>Part I. Predicting bond type through electronegativity differences.</title>
+        <table id="id8346610" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Chemical Formula</entry>
+                <entry>Electroneg (1)</entry>
+                <entry>Electroneg (2)</entry>
+                <entry>Diff Electroneg</entry>
+                <entry>Type of bond</entry>
+              </row>
+              <row>
+                <entry>KCl</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>CO</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>CaBr</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"CaBr" rSub { size 8{2} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>SiH</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>4</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"SiH" rSub { size 8{4} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>MgS</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-701682652505">
+        <title>Part II. Weak and strong electrolytes</title>
+        <table id="id6871317" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Solution Tested</entry>
+                <entry>Numerical Output</entry>
+                <entry>Electrolyte Strength</entry>
+                <entry>Ions Present</entry>
+              </row>
+              <row>
+                <entry>0.1 M HCl</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>0.1 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>HC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"HC" rSub { size 8{2} } H rSub { size 8{3} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>0.1 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>0.1 M NaOH</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>0.1 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NH" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>0.1 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>NaC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NaC" rSub { size 8{2} } H rSub { size 8{3} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>0.1 M NaCl</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>0.1 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NH" rSub { size 8{4} } C rSub { size 8{2} } H rSub { size 8{3} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>0.1 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>Cl</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NH" rSub { size 8{4} } "Cl"} {}</m:annotation></m:semantics></m:math></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mtext>CH</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>3</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mtext>OH</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"CH" rSub { size 8{3} } "OH"} {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>C</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:msub>
+                                <m:mi>H</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>5</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mtext>OH</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{2} } H rSub { size 8{5} } "OH"} {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Sucrose</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Tap water</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8322478">1. Why do we use deionized water instead of tap water when making solutions for conductivity measurements?</para>
+      </section>
+      <section id="id-438184819466">
+        <title>Part III. Electrolyte strength and reaction rate</title>
+        <para id="id7830600">2. Time to collect 20 mL of gas using 1 M HCl _______________________. Write the reaction of HCl with 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>CaCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CaCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id7830670">3. Time to collect 20 mL of gas using 1 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>HC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"HC" rSub { size 8{2} } H rSub { size 8{3} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>_______________________. Write the reaction of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>HC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"HC" rSub { size 8{2} } H rSub { size 8{3} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> with 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>CaCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CaCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id8833691">4. Time to collect 20 mL of gas using 0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>_________________________.Write the reaction of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> with 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>CaCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CaCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id8443839">5. Why does it take different lengths of time to collect 20 mL of gas?</para>
+        <para id="id8443846">6. Based on the time it took to collect 20 mL of gas, rank the acids in the order of increasing strength.</para>
+        <para id="id8443854">7. Why did we use 0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> instead of 1.0 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>?</para>
+      </section>
+      <section id="id-991222514388">
+        <title>Part IV. Chemical reactions</title>
+        <para id="id8444007">8. Write the chemical reaction for calcium hydroxide with your exhaled breath.</para>
+        <para id="id8444014">9. Write your observations for the reaction that took place (i.e. appearance, conductivity, etc.)</para>
+        <para id="id8444022">10. When in separate solutions, aqueous ammonia, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NH" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>(aq) and acetic acid 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>HC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"HC" rSub { size 8{2} } H rSub { size 8{3} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> conduct electricity equally well. However, when the two solutions are mixed a substantial increase in electrical conductivity is observed. Explain.</para>
+        <para id="id8191774">11. Separately, ammonium sulfate and barium hydroxide solutions are very good conductors. When the two solutions are mixed a substantial decrease in conductivity is observed. Rationalize this.</para>
+      </section>
+    </section>
+  </content>
+</document>

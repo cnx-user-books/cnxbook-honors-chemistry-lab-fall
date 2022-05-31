@@ -1,0 +1,143 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>VSEPR: Molecular Shapes and Isomerism</title>
+  <metadata>
+  <md:content-id>m15100</md:content-id><md:title>VSEPR: Molecular Shapes and Isomerism</md:title>
+  <md:abstract/>
+  <md:uuid>270c5353-cb39-410a-9edf-1c3af2ecfacc</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m15100/latest/VSEPRReportF09.doc" strength="3">VSEPRReportF09</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id1164121568289">Molecular Shapes &amp; Isomerism</para>
+    <para id="id6668539">Objectives</para>
+    <list id="id1164125575246" list-type="bulleted">
+      <item>Understand the 3-dimensional nature of molecules</item>
+      <item>Learn about Molecular Symmetry</item>
+      <item>Be able to identify the various isomers possible for one molecular formula</item>
+      <item>Be able to identify enantiomers</item>
+    </list>
+    <section id="id1164126731680">
+      <title>Grading</title>
+      <list id="id4326536" list-type="bulleted">
+        <item>Quiz (10%). </item>
+        <item>Lab Report Form (90%).</item>
+      </list>
+      <para id="id1331836">Before Coming to Lab . . .</para>
+      <para id="id7009815">Look over the following to make sure you have a basic understanding of the topics presented.</para>
+      <list id="id1164122704817" list-type="bulleted">
+        <item>Drawing Lewis Structures </item>
+        <item>Determining the Shapes of Molecules from their Lewis Structures</item>
+        <item>Some Basic Aspects of Bonding</item>
+        <item>Model Kits</item>
+      </list>
+      <para id="id1164122413705">Introduction</para>
+      <para id="id1164123684151">The shape of a molecule is extremely important in determining its physical properties and reactivity. A multitude of shapes are possible, and in today’s lab, you will be looking at several.</para>
+      <para id="id1164128917807">In Part 1, you will be exploring the various symmetry elements that can be present in molecules. The symmetry elements you will be looking for are mirror planes, rotation axes, and inversion centers. Being able to determine which symmetry elements are present in a molecule help in understanding its chemistry. If there is a plane present in the molecule that has the exact same arrangement of atoms on either side of the plane, then the molecule has a <emphasis effect="bold">mirror plane (</emphasis><emphasis effect="bold">σ</emphasis><emphasis effect="bold">)</emphasis>. It is important to note that a molecule can have more than one mirror plane. <emphasis effect="bold">Rotation axes</emphasis> are represented as <emphasis effect="bold">C</emphasis><emphasis effect="bold">n</emphasis> (n = 1, 2, 3 . . .). The subscript indicates how many degrees of rotation (360<sup>o</sup>/n) are needed in order to return to the same orientation of atoms with which you started. So if there is a C<sub>2</sub> axis, the rotation would be 180<sup>o</sup>. An example of a molecule having a C<sub>2</sub> axis is H<sub>2</sub>O.</para>
+      <para id="id6035509">
+        <figure id="id1164121464691">
+          <media id="id1164121464691_media" alt="">
+            <image mime-type="image/png" src="../../media/Image3.png" id="id1164121464691__onlineimage" height="139" width="234"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id7552354">The third symmetry element is an<emphasis effect="bold"> inversion center (i)</emphasis>. In such molecules, starting at any position and drawing a line through the center and an equal distance to the opposite side of the molecule, you will end up at a position with an identical environment to the one you started from.</para>
+      <figure id="id1164121462821">
+        <media id="id1164121462821_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-bcea.jpg" id="id1164121462821__onlineimage" height="194" width="260"/>
+        </media>
+      </figure>
+      <para id="id1164120434884">Part 2 of the lab introduces the concept of <emphasis effect="bold">enantiomers. </emphasis>Enantiomers are molecules sharing the same molecular configuration, but they are non-superimposable images of each other. This concept should become clearer as you build the models for this part of the lab. Enantiomers share many of the same physical properties. The property which distinguishes them is the direction in which they rotate plane-polarized light. They will rotate the light in equal amounts but in different directions (<emphasis effect="italics">plane-polarized light is just light in which all wave vibrations have been filtered out except for those in one plane</emphasis>). If both enantiomers are present in a 1:1 ratio, the effects of the rotation of light cancel and no net rotation is observed. Such a mixture of isomers is known as a <emphasis effect="bold">racemic mixture</emphasis> or as a <emphasis effect="bold">racemate</emphasis>. Because these isomers rotate plane-polarized light, they are also known as <emphasis effect="bold">optical isomers</emphasis>. Compounds that form optical isomers are said to be <emphasis effect="bold">chiral</emphasis>.</para>
+      <para id="id6568507">The chemistry of enantiomers is of great importance in the field of medicine. It has been discovered that with many drugs, one enantiomer will be biologically active while the other will be inactive or even produce undesired side effects. For this reason, it has become advantageous for pharmaceutical companies to try to synthesize the active enantiomer exclusively.</para>
+      <para id="id1164120540977">The next part of the lab deals with isomers. Isomers are molecules having the same molecular formula, but the atoms are arranged in a different manner, while still obeying the rules of bonding. There are different classifications for isomers. For example, <emphasis effect="bold">structural isomers</emphasis> differ from one another in the order in which the atoms are bound to each other (connectivity is different). On the other hand, geometrical isomers have the same order of atoms, but the spatial arrangement of atoms is different (connectivity is the same). A common example of geometrical isomers is the <emphasis effect="italics">cis</emphasis> and <emphasis effect="italics">trans</emphasis> forms of double bonds:</para>
+      <figure id="id5623717">
+        <media id="id5623717_media" alt="">
+          <image mime-type="image/png" src="../../media/diclethene.png" id="id5623717__onlineimage" height="109" width="314"/>
+        </media>
+      </figure>
+      <para id="id8379931">** NOTE: Remember that molecules having single carbon-carbon bonds cannot have cis/trans isomers because there is free rotation about single bonds.</para>
+      <para id="id1164121803124">By building the models of various molecules during this lab, you will be able to better understand molecular symmetry and isomers. Building models is not difficult; however, the chemical principles involved are very important and you may find some surprises in how atoms can be fit together.</para>
+      <para id="id1164135871161">Finally, in Part 4, you will be applying your knowledge of VSEPR (Valence Shell Electron Pair Repulsion) Theory in order to determine the geometry of several different molecules. VSEPR theory is useful in helping to determine how atoms will orient themselves in molecules. Basically, the idea is that the arrangement adopted by a molecule will be the one in which the repulsions among the various <emphasis effect="bold">electron domains</emphasis> are minimized. The two kinds of electron domains are bonding (electron pair shared by two atoms) and non-bonding (electron density centralized on one atom) pairs of electrons.</para>
+      <para id="id1164121381391"> </para>
+      <para id="id1164128769766">Experimental Procedure</para>
+      <para id="id1219386">For Parts 1 &amp; 2: You and your lab partner are to work with one other lab group in preparing these models (no more than 3 - 4 students). Your TA will assign each group a certain set of molecules to make and answer questions pertaining to those molecules. Each group will then present their answers to the class. These models will need to be completed and answers determined within 30 minutes so that we can continue to Parts 3 &amp; 4 as soon as possible.</para>
+      <para id="id1164120557313">For Parts 1-4, the work should be divided among the group members. Be sure to discuss the questions and answers among yourselves, but put your own conclusions on the Report Form.</para>
+      <para id="id1731275"> </para>
+      <para id="id1164122615570">1. Symmetry Elements</para>
+      <para id="id1164120360229">Using the Molecular Framework models, make models of the following compounds: </para>
+      <list id="id1164118300967" list-type="enumerated" number-style="lower-alpha">
+        <item>CH<sub>4</sub></item>
+        <item>CH<sub>3</sub>Cl</item>
+        <item>CH<sub>2</sub>Cl<sub>2</sub></item>
+        <item>CHCl<sub>3</sub></item>
+        <item>CH<sub>2</sub>ClF</item>
+        <item>CHBrClF</item>
+        <item>BF<sub>3</sub></item>
+        <item>BF<sub>2</sub>Cl</item>
+        <item>PH<sub>3</sub></item>
+        <item>PH<sub>2</sub>Cl</item>
+      </list>
+      <para id="id7536829">Choose a color to represent each atom. For example, make all C atoms black, all H atoms white, etc.</para>
+      <para id="id5444691">Once the models are created, look for <emphasis effect="bold">symmetry elements</emphasis> that may be present. Ask yourselves the following questions:</para>
+      <list id="id6135162" list-type="bulleted">
+        <item>Does the molecule contain a <emphasis effect="bold">mirror plane (</emphasis><emphasis effect="bold">σ</emphasis><emphasis effect="bold">)</emphasis>? In other words, is there a plane within the molecule which results in one half being a mirror image of the other half?</item>
+        <item>Does the molecule contain a <emphasis effect="bold">two-fold rotation axis (C</emphasis><emphasis effect="bold">2</emphasis><emphasis effect="bold">)</emphasis>? Remember from the Introduction that the subscript indicates the degrees of rotation necessary to reach a configuration that is indistinguishable from the original one. In this case, the rotation will be 180<sup>o</sup>.</item>
+        <item>Does the molecule contain any higher-order rotation axes?</item>
+      </list>
+      <list id="id1164122483142" list-type="bulleted">
+        <item>
+          <list id="id6976662" list-type="bulleted">
+            <item><emphasis effect="bold">C</emphasis><emphasis effect="bold">3</emphasis> – rotation by 120<sup>o</sup></item>
+            <item><emphasis effect="bold">C</emphasis><emphasis effect="bold">4</emphasis> – rotation by 90<sup>o</sup></item>
+            <item><emphasis effect="bold">C</emphasis><emphasis effect="bold">∞</emphasis> (infinity rotation axis) – rotation of any amount will result in an indistinguishable orientation</item>
+          </list>
+        </item>
+        <item>Does the molecule have an <emphasis effect="bold">inversion center (i)</emphasis>?</item>
+      </list>
+      <para id="id1164127639096">Determine which of these symmetry elements are present in your assigned molecules. All of the columns of the table on the report form should be filled out. If you have any difficulty determining whether such symmetry elements are present in the molecules you are assigned, your TA can provide examples of each symmetry element.</para>
+      <para id="id1164127513224">Extra credit points can be earned by indicating in the table how many of each symmetry element are present for each molecule (i.e. How many mirror planes are present?).</para>
+      <para id="id8653637"> <emphasis effect="bold">2.</emphasis><emphasis effect="bold">Mirror Images</emphasis></para>
+      <para id="id5936572">Using the model kits, build models which are the mirror images of the models you were assigned to build (b, c, d, e, f, g, h, i and j) in Part 1. With the two mirror images in hand, try to place the models on top of one another, atom for atom. </para>
+      <para id="id1164126614310">If you can do this, the model and its mirror image are <emphasis effect="bold">superimposable</emphasis> mirror images of one another. If not, the molecule and its mirror image form <emphasis effect="bold">nonsuperimposable</emphasis> mirror images. Nonsuperimposable mirror images are also known as <emphasis effect="bold">enantiomers</emphasis>. </para>
+      <para id="id1164124681082">For each compound, decide whether the mirror image is superimposable or nonsuperimposable. Can you make a generalization about when to expect molecules to have nonsuperimposable mirror images?</para>
+      <para id="id1164132760870"> <emphasis effect="bold">3.</emphasis><emphasis effect="bold">Isomers</emphasis></para>
+      <para id="id7167111">In this exercise you will build models of compounds which are structural and/or geometrical isomers of one another. </para>
+      <para id="id1164122653309">Make the following models:</para>
+      <para id="id7198950">A. Structural Isomers</para>
+      <list id="id4226794" list-type="enumerated" number-style="arabic">
+        <item>Make a model(s) of C<sub>2</sub>H<sub>5</sub>Cl. How many different structural isomers are possible?</item>
+        <item>Make a model(s) of C<sub>3</sub>H<sub>7</sub>Cl. How many different structural isomers are possible?</item>
+        <item>Make a model(s) of C<sub>3</sub>H<sub>6</sub>Cl<sub>2</sub>. How many different structural isomers are possible?</item>
+      </list>
+      <para id="id1164121495740"> B. Geometrical Isomers </para>
+      <list id="id5575610" list-type="enumerated" number-style="arabic">
+        <item>Make a model(s) of C<sub>2</sub>H<sub>3</sub>Cl. How many different structural and geometrical isomers are possible?</item>
+        <item>Make a model(s) of C<sub>2</sub>H<sub>2</sub>Cl<sub>2</sub>. How many different structural and geometrical isomers are possible?</item>
+        <item>Make a model(s) of cyclobutane (C<sub>4</sub>H<sub>8</sub>). <emphasis effect="underline">HINT</emphasis>: cyclo = ring of C atoms</item>
+        <item>Now make dichlorocyclobutane (C<sub>4</sub>H<sub>6</sub>Cl<sub>2</sub>) by replacing two H atoms on cyclopropane with Cl atoms. How many different structural and geometrical isomers are possible for dichlorocyclobutane? You may wish to make a couple of cyclobutane molecules so that you can compare the structures. Do any of the isomers have nonsuperimposable mirror images?</item>
+      </list>
+      <para id="id1164123674942">C. Aromatic Ring Compounds </para>
+      <list id="id1164128855309" list-type="enumerated" number-style="arabic">
+        <item>Make a model of benzene, C<sub>6</sub>H<sub>6</sub>. Even though your model will contain alternating double and single bonds, remember that in the real molecules of benzene all the C-C bonds are equivalent. What symmetry elements does benzene possess?</item>
+        <item>Make a model(s) of chlorobenzene, C<sub>6</sub>H<sub>5</sub>Cl. How many different structural and geometrical isomers are possible?</item>
+        <item>Make a model(s) of dichlorobenzene, C<sub>6</sub>H<sub>4</sub>Cl<sub>2</sub>. How many different structural and geometrical isomers are possible?</item>
+        <item>Make a model(s) of trichlorobenzene, C<sub>6</sub>H<sub>3</sub>Cl<sub>3</sub>. How many different structural and geometrical isomers are possible?</item>
+      </list>
+      <para id="id5929060">4. Hypervalent Structures</para>
+      <para id="id1164128685071">Hypervalent compounds are those that have <emphasis effect="bold">more than an octet of electrons</emphasis> around them. Such compounds are formed commonly with the heavier main group elements such as Si, Ge, Sn, Pb, P, As, Sb, Bi, S, Se, Te, etc. but rarely with C, N or O. Refer to the rules for Electron Domain theory in order to assign Lewis structures to the following molecules. Describe possible isomeric forms and the bond angles between the atoms. How many lone pairs of electrons are present on the central atom of each molecule, if any? (** Your book will be very useful in aiding you with these structures **)</para>
+      <list id="id1164122371546" list-type="enumerated" number-style="lower-alpha">
+        <item>PF<sub>5</sub></item>
+        <item>PF<sub>3</sub>Cl<sub>2</sub></item>
+        <item>SF<sub>4</sub></item>
+        <item>XeF<sub>2</sub></item>
+        <item>BrF<sub>3</sub></item>
+      </list>
+    </section>
+  </content>
+</document>

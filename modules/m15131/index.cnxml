@@ -1,0 +1,251 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Beer's Law and Data Analysis</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>79723b0b-514f-42c8-976b-75ae07c86f05</md:uuid>
+</metadata>
+  <content>
+    <section id="id-507967595609">
+      <title>Beer’s Law and Data Analysis</title>
+      <section id="id-837733848109">
+        <title>Objectives</title>
+        <list list-type="bulleted" id="id9369712">
+          <item>Learn or review typical data analysis procedures – plotting data with excel, performing linear regression analysis, etc.</item>
+          <item>Explore the concepts and applications of spectrophotometry</item>
+        </list>
+      </section>
+      <section id="id-597831725024">
+        <title>Grading</title>
+        <list list-type="bulleted" id="id8805123">
+          <item>Pre-lab (10%)</item>
+          <item>Lab Report Form – including plot (80%)</item>
+          <item>TA points + Pop Quiz (10%)</item>
+        </list>
+      </section>
+      <section id="id-0401017329857">
+        <title>Before coming to lab…</title>
+        <list list-type="bulleted" id="id9372390">
+          <item>Read the lab instructions</item>
+          <item>Print out the lab instructions and report form.</item>
+          <item>Complete the pre-lab, due at the beginning of the lab</item>
+        </list>
+      </section>
+      <section id="id-457359100741">
+        <title>Introduction</title>
+        <para id="id10365348">When describing chemical compounds, scientists rely on their chemical and physical properties. In lab, we might observe that a metal reacts violently with water, that a reactant is liquid at room temperature, or that a powder is yellow. Chemical and physical properties can be used qualitatively to identify a material or to predict its behavior, or quantitatively to determine how much of that material is present in a solution. In this lab, we will develop a scheme to determine the concentration of copper sulfate in aqueous solution using spectrophotometry. </para>
+        <para id="id5032897">To start, we will consider light and its interaction with matter. Chemicals exhibit a diverse range of colors, especially when they contain transition metal ions. In order for a compound to have color, it must absorb visible light. Visible light consists of electromagnetic radiation with wavelengths ranging from approximately 400 nm to 700 nm, a small section of the electromagnetic radiation spectrum shown below. <media id="idm3829536" alt=""><image src="../../media/graphics1-d16c.jpg" mime-type="image/jpeg" height="350" width="591"/></media></para>
+        <para id="id6119716">Light is characterized by its frequency (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ν</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ν} {}</m:annotation></m:semantics></m:math>), the number of times the crest of the wave passes some point in space per second, or by its wavelength (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>λ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{λ} {}</m:annotation></m:semantics></m:math>), the distance between two successive crests. These two quantities are related by the speed of light, a fundamental constant: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>λν</m:mtext><m:mo stretchy="false">=</m:mo><m:mi>c</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow><m:mtext>m/s</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"λν"=c=3 times "10" rSup { size 8{8} } "m/s"} {}</m:annotation></m:semantics></m:math>. Planck related the frequency of light to its energy (E) according to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>E</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>hν</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{E="hν"} {}</m:annotation></m:semantics></m:math>, where h is Planck's constant, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">=</m:mo><m:mn>6</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>626</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>34</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mtext>J/s</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h=6 "." "626" times "10" rSup { size 8{ - "34"} } "J/s"} {}</m:annotation></m:semantics></m:math>. </para>
+        <para id="id3469766">A compound will absorb light when the radiation posesses the energy needed to move an electron from its lowest energy (ground) state to some excited state. The particular energies of radiation that a substance absorbs dictate the colors that it exhibits. Conversely the color of a compound can help us to determine its electronic configuration. </para>
+        <para id="id3074360">White light contains all wavelengths in this visible region. When a transparent sample (like most aqueous solutions) absorbs visible light, the color we perceive is the sum of the remaining colors that are transmitted by the object and strike our eyes. <media id="idm3954368" alt=""><image src="../../media/graphics2-fa25.jpg" mime-type="image/jpeg" height="399" width="535"/></media>If an object absorbs all wavelengths of visible light, none reaches our eyes, and it appears black. If it absorbs no visible light, it will look white or colorless. If it absorbs all but orange, the material will appear orange. We also perceive an orange color when visible light of all colors except blue strikes our eyes. Orange and blue are complementary colors; the removal of blue from white light makes the light look orange, and vice versa. Thus, an object has a particular color for one of two reasons: It transmits light of only that color or it absorbs light of the complementary color. </para>
+        <figure id="id3955170">
+          <media id="idp144048" alt=""><image src="../../media/graphics3-6ba7.jpg" mime-type="image/jpeg" height="303" width="301"/></media>
+        </figure>
+        <para id="id8825959">Complementary colors can be determined using an artist's color wheel. The wheel shows the colors of the visible spectrum, from red to violet. Complementary colors, such as orange and blue, appear as wedges opposite each other on the wheel. </para>
+        <para id="id6610929">With our eye, we can make qualitative judgments about the color(s) of light a sample absorbs. However, given a red solution of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>Ti</m:mtext><m:mo stretchy="false">(</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub><m:msup><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[ "Ti" \( H rSub { size 8{2} } O \)  rSub { size 8{6} }  \]  rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math> we can not determine if it absorbs green light or if it absorbs all colors of light but red. To quantitatively determine the amount of light absorbed by a sample as a function of wavelength, we will measure its absorption spectrum using a UV-visible spectrophotometer. Typical absorption spectra of aqueous 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>Ti</m:mtext><m:mo stretchy="false">(</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub><m:msup><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[ "Ti" \( H rSub { size 8{2} } O \)  rSub { size 8{6} }  \]  rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math> solutions are shown below. </para>
+        <para id="id9385895"><media id="idm214016" alt=""><image src="../../media/graphics4-26e5.jpg" mime-type="image/jpeg" height="438" width="584"/></media>Notice the absorption maximum is at 490 nm. Because the sample absorbs more strongly in the green and yellow regions of the visible spectrum, it appears red-violet. Measuring the absorption spectrum of a second, more dilute solution demonstrates that the spectrum changes as a function of the concentration of the solution. To understand how to use the absorption spectrum as a quantitative tool for chemical analysis, read on! </para>
+        <para id="id9651621">Spectrophotmetric Basics</para>
+        <para id="id8695375">The essential components of a spectrophotometer consist of a radiation source, a wavelength selector (monochromator), a photodetector and read-out device. </para>
+        <figure id="id2866716">
+          <media id="idm379568" alt=""><image src="../../media/graphics5-7e64.jpg" mime-type="image/jpeg" height="247" width="517"/></media>
+        </figure>
+        <para id="id7092805">The incident light from a tungsten (visible light source) or deuterium (UV light source) lamp is focused by a lens and passes through an entrance slit. By passing the beam through the monochromator (either a prism or a diffraction grating) it is separated into monochromatic (i.e., one-color or single-wavelength) light. One particular wavelength of monochromatic light is selected and allowed to pass through the exit slit into the sample. Light transmitted through the sample is detected by a photodetector which converts the signal to an electrical current which is measured by a galvanometer and sent to a recording device, typically a computer. </para>
+        <para id="id10815076">The measurement of transmittance (T) is made by determining the ratio of the intensity of incident (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I rSub { size 8{0} } } {}</m:annotation></m:semantics></m:math>) and transmitted (I) light passing through pure solvent and sample solutions as a function of wavelength. [Note: The percent transmittance (%T) is obtained by multiplication of T by 100.] The logarithm of the reciprocal of the transmittance is called the absorbance (A), </para>
+        <para id="id3839264">A = log (1 / T)</para>
+        <para id="id10580212">Care must be taken when small values of transmittance are being measured as stray light from either the room or scattering within the instrument can cause large errors in your readings! </para>
+        <section id="id-15755307232">
+          <title>Extracting Quantitative Information</title>
+          <para id="id6971532">The Beer-Lambert law relates the amount of light being absorbed to the concentration of the substance absorbing the light and the pathlength through which the light passes: </para>
+          <para id="id5035296">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>εbc</m:mtext>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{A="εbc" "." } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id5992304">In this equation, the measured absorbance (A) is related to the molar absorptivity constant (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ε</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ε} {}</m:annotation></m:semantics></m:math>), the path length (b), and the molar concentration (c) of the absorbing. The concentration is directly proportional to absorbance.</para>
+          <para id="id8423442">The single largest application of the spectrophotometer is for quantitative analysis. The prerequisite for such analysis is a known absorption spectrum of the compound under investigation. Of particular importance is the maximum absorption (at 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{λ rSub { size 8{"max"} } } {}</m:annotation></m:semantics></m:math>) [Why choose the maximum? Could the choice alter the precision of our experiment? the accuracy?], which can be easily obtained by plotting absorbance vs. wavelength at a fixed concentration. Next, a series of solutions of known concentration are prepared and their absorbance is measured at 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{λ rSub { size 8{"max"} } } {}</m:annotation></m:semantics></m:math>. Plotting absorbance vs. concentration, a calibration curve can be determined and fit using linear regression (least-squares fit). An unknown concentration can be deduced by measuring absorbance at the absorption maximum and comparing it to the standard curve. Caution: The Beer-Lambert Law is only obeyed (the standard curve is linear) for reasonably dilute solutions. Only those points in the linear range of the standard curve may be used for accurate concentration determination. </para>
+          <para id="id9042266">Typical results are shown for the absorbance of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>Ti</m:mtext><m:mo stretchy="false">(</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub><m:msup><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[ "Ti" \( H rSub { size 8{2} } O \)  rSub { size 8{6} }  \]  rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math> measured at 490 nm. </para>
+          <table id="id8043659" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Concentration (mg/mL) </entry>
+                  <entry>%Transmittance </entry>
+                  <entry>Absorbance </entry>
+                </row>
+                <row>
+                  <entry>0 </entry>
+                  <entry>100. </entry>
+                  <entry>0</entry>
+                </row>
+                <row>
+                  <entry>1 </entry>
+                  <entry>50.0 </entry>
+                  <entry>0.301</entry>
+                </row>
+                <row>
+                  <entry>2 </entry>
+                  <entry>25.0 </entry>
+                  <entry>0.602</entry>
+                </row>
+                <row>
+                  <entry>3 </entry>
+                  <entry>12.5 </entry>
+                  <entry>0.903</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <figure id="id10224352">
+            <media id="idm2545936" alt=""><image src="../../media/graphics6-4a65.jpg" mime-type="image/jpeg" height="189" width="614"/></media>
+          </figure>
+          <para id="id4816206">Over the studied range the solutions obey Beer's Law. If a solution has a measured absorbance of 0.450, we can calculate its concentration to be 1.5 mg/mL. </para>
+        </section>
+      </section>
+    </section>
+    <section id="id-809751410917">
+      <title>Experimental Procedure</title>
+      <para id="id4174514">In this experiment, each lab pair will measure the absorbance of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>CuSO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CuSO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> at six concentrations. You will create a calibration curve to correlate copper sulfate concentration to absorbance. This curve will be used next week to determine the concentration of an unknown copper sulfate solution and, in turn, the percent yield of a series of chemical reactions. </para>
+      <para id="id5014765">Materials
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mtext>CuSO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">⋅</m:mo><m:msub><m:mtext>5H</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CuSO" rSub { size 8{4} }  cdot "5H" rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math> distilled water pipette bulb 1cm cuvette 4 - 25 mL volumetric flask for your dilutions </para>
+      <para id="id8597969">Note: You will be borrowing these and must collect them from your TA. Do not forget to return the flask at the end of the lab). All students will lose 3 points in that lab section if any go missing! </para>
+      <para id="id7072223">100 mL volumetric flask for the parent solution (in your drawer)10 mL volumetric pipette or 10 mL graduated cylinder</para>
+      <list list-type="enumerated" id="id4192189">
+        <item>Measure out an appropriate mass of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mtext>CuSO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">⋅</m:mo><m:msub><m:mtext>5H</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CuSO" rSub { size 8{4} }  cdot "5H" rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math> to get 100ml of ~0.1M solution and record the mass on your report form. Show your calculation to the TA before making the solution. This is your parent solution. Calculate the molarity using the actual mass measured and record it.</item>
+        <item>Do the following dilutions and calculate the concentrations for each. </item>
+      </list>
+      <table id="id2955111" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Dilution (ml parent : ml total)</entry>
+            </row>
+            <row>
+              <entry>0:25 (DI 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math>)</entry>
+            </row>
+            <row>
+              <entry>5:25</entry>
+            </row>
+            <row>
+              <entry>10:25</entry>
+            </row>
+            <row>
+              <entry>15:25</entry>
+            </row>
+            <row>
+              <entry>20:25</entry>
+            </row>
+            <row>
+              <entry>25:25 (parent solution)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list list-type="enumerated" id="id3003245">
+        <item>Measure the absorbance of the 6 solutions you have prepared and the unknown given to you by your TA.</item>
+      </list>
+      <section id="id-580786281428">
+        <title>Analysis</title>
+        <para id="id5320226">Plot the concentration as a function of absorbance for your six solutions. Perform a linear regression analysis and determine the equation of a best-fit line. </para>
+      </section>
+    </section>
+    <section id="id-234983139056">
+      <title>PreLab: Spectrophotometry and Data Analysis – Beer’s Law </title>
+      <para id="id9387350">Hopefully <link document="m15131" resource="BeersPreLab07.doc">here</link> for the Pre-Lab</para>
+      <para id="id6089297">Name(Print then sign): ___________________________________________________</para>
+      <para id="id9384773">Lab Day: ___________________Section: ________TA__________________________</para>
+      <para id="id5296863">This assignment must be completed individually and turned in to your TA at the beginning of lab. You will not be allowed to begin the lab until you have completed this assignment.</para>
+      <para id="id4036747">In many of the experiments that you will do throughout the duration of this course you will be asked to analyze your data by making plots and calculating the best fit line through your data. One program commonly used to analyze data in this fashion is Microsoft Excel ®. The following exercise will help you through the process used to obtain a plot and linear regression for a set of data.</para>
+      <para id="id3535616">Suppose you go for a 5 mile run and you tabulate the after each mile as in the following table.</para>
+      <table id="id6084013" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Distance Traveled (miles)</entry>
+              <entry>Time (sec)</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>510</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>1026</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>1548</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>2077</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>2612</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <section id="id-819305797097">
+        <title>Questions:</title>
+        <list list-type="enumerated" id="id10774161">
+          <item>Plot the distance traveled in miles vs. the time in seconds. </item>
+          <item>Use linear regression to obtain a trendline and give the equation obtained in terms of the variables distance traveled and time and the R-squared value. Comment on the meaning of the R-squared value and its significance when doing data analysis. </item>
+          <item>Using the equation you obtained by doing linear regression, estimate how long the 6th mile will take you to run. </item>
+          <item>Assuming this linear trend persists, how far have you run if you finish in 2900 sec. </item>
+        </list>
+        <para id="id6455053">EXCEL INSTRUCTIONS:</para>
+        <list list-type="bulleted" id="id3053936">
+          <item>In order to plot this data in excel, you should enter the data exactly as above in to column A (rows 1-6) and column B (rows 1-6). </item>
+          <item>To plot the data you will need to go to Insert on the tool bar and then click Chart. A Chart Wizard will appear. Select XY(Scatter) as the Chart type and choose the sub-type that does not have any lines connecting the points, then click next.</item>
+          <item>On Step 2, click on the series tab near the top of the screen and click Add. </item>
+          <item>You do not need to name the series unless you have multiple plots on one graph, but you can type in a name if you wish. </item>
+          <item>To insert the X data, click on the icon at the far left of the x series box. </item>
+          <item>Select the x values by clicking on the first one and while the left mouse button is down dragging the mouse down to the last value. </item>
+          <item>When the values have been selected click the icon again and repeat for the y values. You may also manually enter the values by separating them with a comma. Don’t forget you need to remember what units you are using when answering questions. </item>
+          <item>Click next when you have x and y values entered correctly. </item>
+          <item>The next step is just entering title information and changing the appearance of your plot; click next when finished. </item>
+          <item>Choose your chart location and then finish. You now need to place a linear regression line on your plot. </item>
+          <item>Right click on a data point and pick add trendline. </item>
+          <item>Choose linear as the type and click the options tab. </item>
+          <item>Check the boxes to get the equation and R-squared value and click ok. </item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

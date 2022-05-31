@@ -1,0 +1,361 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Initial Lab:  Avogradro and All That</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d0693942-aac8-4a6e-8980-42aa0eb5bd15</md:uuid>
+</metadata>
+  <content>
+    <para id="id45626855">Initial Lab: Avogadro and All ThatExperiment 1 </para>
+    <para id="id45678750">Objective </para>
+    <list list-type="bulleted" id="id45708313">
+      <item>The purpose of this laboratory exercise is to help you familiarize yourself with the layout of the laboratory including safety aids and the equipment that you will be using this year.</item>
+      <item>Then, to make an order-of-magnitude estimate of the size of a carbon atom and of the number of atoms in a mole of carbon based on simple assumptions about the spreading of a thin film of stearic acid on a water surface</item>
+    </list>
+    <para id="id45708395">Grading</para>
+    <list list-type="bulleted" id="id45855517">
+      <item>Pre-lab – not required for the first lab</item>
+      <item>Lab Report (90%)</item>
+      <item>TA points (10%)</item>
+    </list>
+    <para id="id45679995">Before coming to lab……</para>
+    <list list-type="bulleted" id="id45692431">
+      <item>Read the following:<list list-type="bulleted" id="id45848023"><item>Lab instructions</item><item>Background Information</item><item>Concepts of the experiment</item></list></item>
+      <item>Print out the lab instructions and report form.</item>
+      <item>You may fill out the lab survey, due at the beginning of the lab, for extra credit if you wish. </item>
+      <item>Read and sign the equipment responsibility form and the safety rules, email Ms Duval at <link url="mailto:nduval@rice.edu">nduval@rice.edu</link> to confirm completing this requirement by noon on August 31st </item>
+    </list>
+    <para id="id46185094">Introduction</para>
+    <para id="id45518770">Since chemistry is an empirical (experimental) quantitative science, most of the experiments you will do involve measurement. Over the two semesters, you will measure many different types of quantities – temperature, pH, absorbance, etc. – but the most common quantity you will measure will be the amount of a substance. The amount may be measured by (1) weight or mass (grams), (2) volume (milliliters or liters), or (3) determining the number of moles. In this experiment we will review the methods of measuring mass and volume and the calculations whereby number of moles are determined.</para>
+    <para id="id45851753">Experimental Procedure</para>
+    <para id="id45851758">We will start in the amphitheater of DBH (above DBH 180) for demonstrations: oxygen, hydrogen and a mixture of the two in balloons and more besides.</para>
+    <para id="id45758239">Mandatory Safety talk by Kathryn Cavender, Director of Environmental Health and Safety at Rice.</para>
+    <para id="id45758245">1. Identification of Apparatus </para>
+    <para id="id45758249">On your benches, there are a number of different pieces of common equipment. With your TA's help, identify each and sketch - I know this may sound a trivial exercise but it is necessary so that we are all on the same page.</para>
+    <list list-type="enumerated" id="id45520077">
+      <item>beaker</item>
+      <item>erlenmeyer flask</item>
+      <item>graduated (measuring) cylinder</item>
+      <item>pipette </item>
+      <item>burette </item>
+      <item>Bunsen burner </item>
+      <item>test tube </item>
+      <item>boiling tube</item>
+      <item>watch glass</item>
+    </list>
+    <para id="id46403496">2. Balance Use</para>
+    <para id="id45730586">In these general chemistry laboratories, we only use easy-to-read electronic balances – saving you a lot of time and the TA’s a lot of headaches. However, it is important that you become adept at the use of them.</para>
+    <para id="id45730598">Three aspects of a balance are important:</para>
+    <list list-type="enumerated" id="id45548449">
+      <item>The on/off switch. This is either on the front of the balance or on the back.</item>
+      <item>The "Zero" or "Tare" button. This resets the reading to zero.</item>
+      <item>CLEANLINESS. Before and after using a balance, ensure that the entire assembly is spotless. Dirt on the weighing pan can cause erroneous measurements, and chemicals inside the machine can damage it.</item>
+      <item>Turn the balance on.</item>
+      <item>After the display reads zero, place a piece of weighing paper on the pan.</item>
+      <item>Read and record the mass. (2)</item>
+      <item>With a spatula, weigh approximately 0.2 g of a solid, common salt NaCl, the excess salt is discarded, since returning the excess salt may contaminate the rest of the salt - in this exercise, this is not a big deal but in strict analytical procedures it is.</item>
+      <item>Record the mass (1). To determine how much solid you actually have, simply subtract the mass of the weighing paper(2) from the mass of the weighing paper and solid (1). Record this mass (3).You have just determined the mass of an "unknown amount of solid." </item>
+      <item>Now place another piece of weighing paper on the balance and press the Zero or Tare button then weigh out approximately 0.2 g of the salt (4). Thus, the zero/tare button eliminates the need for subtraction.</item>
+    </list>
+    <para id="id46207432"> 3. Measuring the volume of liquids</para>
+    <para id="id46207444">When working with liquids, we usually describe the quantity of the liquid in terms of volume, usual units being milliliters (mL). We use three types of glassware to measure volume – (1) burette, (2) volumetric pipette, and (3) graduated cylinder.</para>
+    <list list-type="bulleted" id="id45890756">
+      <item>Examine each piece of equipment. Note that the sides of each are graduated for the graduated cylinder and the burette. You can read each to the accuracy of half a division.</item>
+      <item>Put some water into the graduated cylinder. Bend down and examine the side of the water level. Note that it has a "curved shape." This is due to the water clinging to the glass sides and is called the meniscus. When reading any liquid level, use the center of the meniscus as your reference point.  </item>
+    </list>
+    <para id="id45680052">Graduated cylinder </para>
+    <list list-type="enumerated" id="id45680060">
+      <item>Look at the graduations on the side of the cylinder. Note that they go from 0 on the bottom and increase upwards. Thus, to get the mass of 10 mL of a liquid from a graduated cylinder, do the following:</item>
+      <item>Add water up to the 10 mL line as accurately as possible.</item>
+      <item>Dry a small beaker and weigh it (2).</item>
+      <item>Pour the 10 mL of water from the cylinder into the beaker. Reweigh (1).</item>
+      <item>Subtract the appropriate values to get the weight of the water (3). </item>
+    </list>
+    <para id="id45763179">Pipette </para>
+    <list list-type="enumerated" id="id45763188">
+      <item>You may find either that 0 is at the spout end or at the top of the pipette. You should be aware of how these graduations go when using each pipette. Thus, to get the mass of 10 mL of a liquid from a pipette, do the following:</item>
+      <item>Half-fill a beaker with water. </item>
+      <item>Squeeze the pipette bulb and attach to the top of the pipette. Put the spout of the pipette under water and release the bulb. It should expand, drawing the water into the pipette, do not let the water be drawn into the bulb.</item>
+      <item>When the water level is past the last graduation, remove the bulb, replace with your finger, and then remove the pipette from the water.</item>
+      <item>Removal of your finger will allow liquid to leave the pipette. Always run some liquid into a waste container in order to leave the level at an easy-to-read mark.</item>
+      <item>Add 10 mL of water to a pre-weighed dry beaker (5).</item>
+      <item>Weigh (4).</item>
+      <item>Subtract to get the weight of the water (6). </item>
+    </list>
+    <para id="id45552931">Burette </para>
+    <list list-type="enumerated" id="id45681090">
+      <item>Examine the graduations. Note that 0 is at the top.</item>
+      <item>Using a funnel, add about 10 mL of water. To do this, first lower the burette so that the top is easy to reach.</item>
+      <item>Run a little water from the burette into a waste container. Then turn the burette upside down and allow the rest of the water to run into the container (you will have to open the top to equalize the pressure).</item>
+      <item>You have just "rinsed your burette." This should be done every time before using a burette – first rinse with water, then repeat the process using whatever liquid is needed in the experiment.</item>
+      <item>Fill the burette to any convenient level (half-way is fine). It is a good technique to "overfill" and then allow liquid to run into a waste container until you reach the appropriate level so that you fill the space from the top to the tip of the burette. </item>
+      <item>Dry a beaker and weigh (8).</item>
+      <item>Add 10 mL of water to a pre-weighed dry beaker (7).</item>
+      <item>Subtract to get the weight of the water (9). </item>
+    </list>
+    <para id="id45485300">4. Estimation of Avogadro's number</para>
+    <para id="id45485304">Briefly, as a group with your TA, you will make an approximate (order of magnitude) estimate of Avogadro's number by determining the amount of stearic acid that it takes to form a single layer (called a monolayer) on the surface of water. By making simple assumptions about the way the stearic acid molecules pack together to form the monolayer, we can determine its thickness, and from that thickness we can estimate the size of a carbon atom. Knowing the size of a carbon atom, we can compute its volume; and if we know the volume occupied by a mole of carbon (in the form of a diamond), we can divide the volume of a mole of carbon by the volume of an atom of carbon to get an estimate of Avogadro's number.</para>
+    <para id="id45485308">Procedure</para>
+    <para id="id45757952">Special Supplies: 14 cm watch glass; cm ruler; polyethylene transfer pipets; 1-mL syringes; pure distilled water free of surface active materials; disposable rubber gloves (for cleaning own watch glasses in 0.1 M NaOH in 50:50 methanol/water): 13 X 100 mm test tubes with rubber stoppers to fit.</para>
+    <para id="id45626608">Chemicals: pure hexane, 0.108 g/L stearic acid (purified grade) solution in hexane. 0.1 M NaOH in 50:50 methanol/water used for washing the watch glasses.</para>
+    <para id="id45626615"> SAFETY PRECAUTIONS: Hexane is flammable! There must be no open flames in the laboratory while hexane is being used.</para>
+    <para id="id45676516"> WASTE COLLECTION: At the end of the experiment, unused hexane solvent and stearic acid in hexane solution should be placed in a waste container, marked "Waste hexane/stearic acid solution in hexane."</para>
+    <para id="id46182589">Measurement of the volume of stearic acid solution required to cover the water surface</para>
+    <para id="id46182595">Your TA will do this as a group demonstration:</para>
+    <list list-type="enumerated" id="id46184951">
+      <item>Using a transfer pipette, obtain about 3-4 mL 0.108 g/L stearic acid solution in hexane in a clean, dry 13 X 100 mm test tube. Keep the tube corked when not in use.</item>
+      <item>Fill the clean watch glass to brim with deionized water. One recommended way to do this is to set up your 25 mL burette on a ring stand. Wash and drain the burette with deionized water. (the deionized water comes from the white handled spouts at each sink)</item>
+      <item>In a freshly cleaned and rinsed beaker, obtain more distilled water and fill the burette. Place your watch glass directly under the burette (about 1 inch or less from the tip) and dispense the water until the entire watch glass is full. You may have to refill the burette 4 or 5 times to do this. With careful dispensing, the surface tension of the water should allow you to fill the entire watch glass with relative ease.</item>
+      <item>Carefully measure the diameter of the water surface with a centimeter ruler. It should be close to 14 cm, + or - a couple of millimeters. Next, rinse and fill your 1 mL syringe with stearic acid solution, taking care to eliminate bubbles in the solution inside the syringe.</item>
+      <item>Read and record the initial volume of the syringe (1 mL is always a good place to start.)</item>
+      <item>Then add the stearic acid solution drop by drop to the water surface. Initially, the solution will spread across the entire surface, and it will continue to do so until a complete monolayer of stearic acid has been formed. If your first few drops do not spread and evaporate quickly, either your water or watch glass is still dirty. As this point is approached, the spreading will become slower and slower, until finally a drop will not spread out but will instead sit on the surface of the water (looking like a little contact lens). If this "lens" persists for at least 30 s, you can safely conclude that you have added 1 drop more than is required to form a complete monolayer.</item>
+      <item>Now, read and record the final volume reading of the syringe.Takes 10 min</item>
+      <item>Thoroughly clean the watch glass (or get another one), and repeat the experiment. Repeat until the results agree to within 2 or 3 drops (0.04 ml). </item>
+    </list>
+    <para id="id46166751">When you have completed all of your measurements, rinse your syringe with pure hexane, and dispose of all the hexane-containing solutions in the waste collection bottle provided.</para>
+    <para id="id46230970">Calculation Of Avogadro's Number</para>
+    <para id="id46230974">The calculation proceeds in several steps. </para>
+    <list list-type="bulleted" id="id46230978">
+      <item>We calculate the volume of stearic acid solution in hexane required to deliver enough stearic acid to form a monolayer. </item>
+      <item>All of the hexane evaporates, leaving only the thin monolayer film of stearic acid, so we next calculate the actual mass of pure stearic acid in the monolayer.</item>
+      <item>We calculate the thickness of the stearic acid monolayer, using the known density of stearic acid and the area of the monolayer. </item>
+      <item>Assuming the stearic acid molecules are stacked on end and are tightly packed, and knowing that there are 18 carbon atoms linked together in the stearic acid molecule, calculate the diameter and volume of a carbon atom.</item>
+      <item>Calculate the volume of a mole of carbon atoms in diamond; divide the molar volume of carbon (diamond) by the volume of a single carbon atom to obtain an estimate of Avogadro's number. Remember that the units of Avogadro’s number are mol-1, so you can use unit analysis to check your answer.</item>
+    </list>
+    <para id="id46181759">Initial Lab: Avogadro and All ThatReport 1 </para>
+    <para id="id45875595">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work (including your laboratory partner) or misrepresent your own data (see honor code).</para>
+    <para id="id46182401">Name(Print then sign): ___________________________________________________</para>
+    <para id="id46182406">Lab Day: ___________________Section: ________TA__________________________</para>
+    <para id="id46182411">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work (including your laboratory partner) or misrepresent your own data (see honor code).</para>
+    <para id="id45676206">Demonstrations:</para>
+    <para id="id45676210">Balloons:</para>
+    <list list-type="enumerated" id="id45676214">
+      <item>Oxygen</item>
+    </list>
+    <para id="id46128089"> </para>
+    <list list-type="enumerated" id="id46128093">
+      <item>Hydrogen</item>
+      <item>Mixture of Hydrogen and Oxygen with relevant equation: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext> + O</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mtext/><m:mo stretchy="false">→</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } " + O" rSub { size 8{2} } "  " rightarrow } {}</m:annotation></m:semantics></m:math></item>
+    </list>
+    <para id="id45856615">Thermite:</para>
+    <para id="id45856620">Include description and relevant equation: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext> O</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mtext> + Al  </m:mtext><m:mo stretchy="false">→</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Fe" rSub { size 8{2} } " O" rSub { size 8{3} } " + Al  " rightarrow } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id45548519">Dry Ice and Magnesium:</para>
+    <para id="id46134540">Include description and relevant equation: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>MgO + C  </m:mtext><m:mo stretchy="false">→</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"MgO + C  " rightarrow } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id45548181">1. Identification of Apparatus</para>
+    <list list-type="enumerated" id="id45548193">
+      <item>beaker  </item>
+    </list>
+    <para id="id45851564"> </para>
+    <list list-type="enumerated" id="id45851568">
+      <item>erlenmeyer flask  </item>
+    </list>
+    <para id="id45854474"> </para>
+    <list list-type="enumerated" id="id45854478">
+      <item>graduated (measuring) cylinder  </item>
+    </list>
+    <para id="id45518323"> </para>
+    <list list-type="enumerated" id="id45518326">
+      <item>pipette   </item>
+    </list>
+    <para id="id45767338"> </para>
+    <list list-type="enumerated" id="id45767342">
+      <item>burette   </item>
+    </list>
+    <para id="id45767353"> </para>
+    <list list-type="enumerated" id="id46183748">
+      <item>Bunsen burner  </item>
+    </list>
+    <para id="id46183760"> </para>
+    <list list-type="enumerated" id="id46183764">
+      <item>test tube   </item>
+      <item>watch glass </item>
+    </list>
+    <para id="id45695755"> </para>
+    <para id="id45695759">  2. Balance Use</para>
+    <list list-type="enumerated" id="id45787750">
+      <item>Mass of weighing paper and solid, ________ g</item>
+      <item>Mass of weighing paper, __________ g</item>
+      <item>Mass of solid, ___________g</item>
+      <item>Mass of solid on tared weighing paper ____________g</item>
+    </list>
+    <para id="id45525956"> 3. Measuring the volume of a liquid</para>
+    <list list-type="enumerated" id="id45693042">
+      <item>Mass of 50 mL beaker and water, g ______________</item>
+      <item>Mass of 50 mL beaker, g ______________________</item>
+      <item>Mass of water from graduated cylinder, g___________ </item>
+      <item>Mass of 50 mL beaker and water, g ______________</item>
+      <item>Mass of 50 mL beaker, g ______________________</item>
+      <item>Mass of water from pipette, g ____________________</item>
+      <item>Mass of 50 mL beaker and water, g ______________</item>
+      <item>Mass of 50 mL beaker, g ______________________</item>
+      <item>Mass of water from burette, g ____________________</item>
+    </list>
+    <para id="id46185067">From a consideration of the masses of water measured above, and given that the density of water is 1 g/mL, decide on an order of which is the most accurate method of volume measurement – measuring cylinder, pipette, or burette with (1) being the most accurate?</para>
+    <para id="id46185072">(1)</para>
+    <para id="id46185076">(2)</para>
+    <para id="id46236104">(3)</para>
+    <para id="id46236109">How precisely could each of the apparatus used be read?</para>
+    <para id="id46207824">(1) measuring cylinder</para>
+    <para id="id46207828">(2) pipette</para>
+    <para id="id46207833">(3) burette</para>
+    <para id="id46207837"> 4. Estimation of Avogadro's Number</para>
+    <para id="id46235818">Measurement of the volume of stearic acid solution required to cover the water surface</para>
+    <table id="id46235824" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry/>
+            <entry>Trial 1</entry>
+            <entry>Trial 2</entry>
+          </row>
+          <row>
+            <entry>Record the diameter of the water surface</entry>
+            <entry>___________________</entry>
+            <entry>___________________</entry>
+          </row>
+          <row>
+            <entry>Record the volume of stearic acid solution required to cover the surface</entry>
+            <entry>___________________</entry>
+            <entry>___________________</entry>
+          </row>
+          <row>
+            <entry>Record the concentration of the stearic acid solution</entry>
+            <entry>___________________</entry>
+            <entry>___________________</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id46166915">Calculation Of Avogadro's Number</para>
+    <para id="id46166919">a. Calculation of the thickness of a monolayer of stearic acid</para>
+    <table id="id46166925" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry/>
+            <entry>Trial 1</entry>
+            <entry>Trial 2</entry>
+          </row>
+          <row>
+            <entry>From your data, the volume of stearic acid solution required to form a monolayer was</entry>
+            <entry>___________________</entry>
+            <entry>___________________</entry>
+          </row>
+          <row>
+            <entry>Calculate the mass of stearic acid contained in that volume of stearic acid solution (the concentration in grams per liter will be given to you)</entry>
+            <entry>___________________</entry>
+            <entry>___________________</entry>
+          </row>
+          <row>
+            <entry>Calculate the volume, V, of pure stearic acid in the monolayer on the water surface. You will need the density of solid stearic acid, which is 0.85 g/ml (or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>g/cm</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"g/cm" rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math>).</entry>
+            <entry>___________________</entry>
+            <entry>___________________</entry>
+          </row>
+          <row>
+            <entry>Calculate the area of the monolayer (A = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi fontstyle="italic">πr</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{πr rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>, r is the radius of the water surface)</entry>
+            <entry>___________________</entry>
+            <entry>___________________</entry>
+          </row>
+          <row>
+            <entry>Calculate the thickness of the monolayer (t = Volume/Area)</entry>
+            <entry>___________________</entry>
+            <entry>___________________</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id46204319"> </para>
+    <para id="id46208047">b. Estimation of the size and volume of a carbon atom</para>
+    <table id="id46208052" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry> </entry>
+            <entry>Trial 1</entry>
+            <entry>Trial 2</entry>
+          </row>
+          <row>
+            <entry>A stearic acid molecule consists of 18 carbon atoms linked together. Assuming that the thickness, t, of a monolayer is equal to the length of the stearic acid molecule, calculate the size of a carbon atom, s = t/18</entry>
+            <entry>___________________</entry>
+            <entry>___________________</entry>
+          </row>
+          <row>
+            <entry>Assuming that a carbon atom is a little cube, calculate the volume of a carbon atom, volume = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>s</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{s rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math></entry>
+            <entry>___________________</entry>
+            <entry>___________________</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id46167047">c. Calculation of the volume of a mole of carbon atoms</para>
+    <table id="id46167052" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry/>
+            <entry>Trial 1</entry>
+            <entry>Trial 2</entry>
+          </row>
+          <row>
+            <entry>Calculate the molar volume of carbon (diamond) by using the density of diamond 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>51g/cm</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 3 "." "51g/cm" rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math>) and the atomic mass of a mole of carbon</entry>
+            <entry>______________________________</entry>
+            <entry>_______________</entry>
+          </row>
+          <row>
+            <entry>Is the volume of a mole of diamond the same as the actual volume of a mole of carbon atoms?</entry>
+            <entry>______________________________</entry>
+            <entry>_______________</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id46204514">d. Calculation of the volume of a mole of carbon (diamond) volume of a single carbon atom (Avogadro's number)</para>
+    <table id="id46204649" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry> </entry>
+            <entry>Trial 1</entry>
+            <entry>Trial 2</entry>
+          </row>
+          <row>
+            <entry>Calculate Avogado's number (NA) from the appropriate ratio of volumes</entry>
+            <entry>_________________________________</entry>
+            <entry>_____________</entry>
+          </row>
+          <row>
+            <entry>Calculate the average value of NA from your results</entry>
+            <entry>_________________________________</entry>
+            <entry>_____________</entry>
+          </row>
+          <row>
+            <entry>Express your results as a number 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mtext>23</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ times "10" rSup { size 8{"23"} } } {}</m:annotation></m:semantics></m:math>. Are you within a power of 10 of the accepted value of 6.02 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mtext>23</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ times "10" rSup { size 8{"23"} } } {}</m:annotation></m:semantics></m:math>?</entry>
+            <entry>________________________________</entry>
+            <entry>_____________</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>

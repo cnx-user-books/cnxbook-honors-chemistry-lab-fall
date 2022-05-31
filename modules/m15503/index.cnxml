@@ -1,0 +1,790 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Transition Metals</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>97c408e9-6c39-48f3-9456-eece681a3a7b</md:uuid>
+</metadata>
+  <content>
+    <section id="id-852991716381">
+      <title>Transitions Metals: Synthesis of an Inorganic Compound (trans-dinitrobis(ethylenediamine)cobalt(III) nitrate)</title>
+      <para id="id7043721"> </para>
+      <section id="id-0276191224323">
+        <title>Objectives</title>
+        <list list-type="bulleted" id="id11159621">
+          <item>To synthesize a transition metal complex of cobalt three, Co(III), and ethylenediamine.</item>
+          <item>To characterize the resulting metal complex spectroscopically.</item>
+          <item>To understand concept of limiting reactant.</item>
+        </list>
+      </section>
+      <section id="id-976261522286">
+        <title>Grading</title>
+        <para id="id11951955">Your will be determined according to the following:</para>
+        <list list-type="bulleted" id="id11951960">
+          <item>prelab (10%)</item>
+          <item>lab report form (80%)</item>
+          <item>TA points (10%)</item>
+        </list>
+      </section>
+      <section id="id-620828243937">
+        <title>Introduction</title>
+        <para id="id6354683">The transition metals are the largest “group” (classification) of elements from the periodic table. These can be found in nature as ores or in its elemental form, such as gold. All transition metals have more than one oxidation state. Most transition metals (TMs) can complex with other species (called ligands in “TM Complex” jargon) by giving their electrons to them, forming a complex. These ligands, which are the nearest neighbor atoms to the metal center, constitute the inner (or first) coordination sphere. Complexes may be either neutral or charged and have distinctive properties that may be quite unlike those associated with their constituent molecules and ions, each of which is capable of independent existence. An example of a charged complex is ferricyanide, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Fe</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CN</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub><m:msup><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "Fe" \(  ital "CN" \)  rSub { size 8{6} }  \]  rSup { size 8{ - 3} } } {}</m:annotation></m:semantics></m:math>. The 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" rSup { size 8{+3} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>CN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CN" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math> ions found in the ferricyanide complex ion exist as independent species and in other compounds. The transition metals are well known for forming a large number of complex ions. In this experiment we will synthesize a transition metal complex containing cobalt, Co(III), and ethylenediamine.</para>
+        <section id="id-860440146235">
+          <title>Stereochemistry</title>
+          <para id="id6321355">The most common coordination numbers (the number of individual ligands bound) are two, four, and six, with geometries illustrated in Fig 1:</para>
+          <figure id="id12229699">
+            <media id="idp13257168" alt=""><image src="../../media/graphics1-aed1.jpg" mime-type="image/jpeg" height="346" width="414"/></media>
+          </figure>
+          <para id="id4304413">Fig 1. Common geometries for complex ions. (A) linear, (B) square planar, (C) tetrahedral, and (D) octahedral</para>
+          <para id="id11696255"> </para>
+          <para id="id6667255">Complexes of Cu(I), Ag(I), Au(I) and some of Hg(II) form linear structures (A) such as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Cu</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CN</m:mtext></m:mrow></m:mstyle><m:msubsup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Cu" \(  ital "CN" \)  rSub { size 8{2} }  rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Ag</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msubsup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Ag" \(  ital "NH" rSub { size 8{3} }  \)  rSub { size 8{2} }  rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math>, etc. Four-fold coordination (C) is not too common with transition metals, and the square planar geometry (B) occurs in complexes of Pd(II), Pt(II), Ni(II), Cu(II), and Au(III). Six-fold coordination (D) is the most common and in fact the one we will study in this laboratory exercise.</para>
+          <para id="id6514025">A ligand that is capable of occupying only one position in the inner coordination sphere by forming only one bond to the central atom is called a monodentate (“one tooth”) ligand. Examples are 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Cl" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NH" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>CN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CN" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>. If the ligand has two groups that are capable of bonding to the central atom, it is called a bidentate ("two teeth") ligand, and so forth. An example of a bidentate ligand is ethylenediamine 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  ital "CH" rSub { size 8{2} }  ital "NH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "NH" rSub { size 8{2} }  \) } {}</m:annotation></m:semantics></m:math>, which is commonly abbreviated "en". Both nitrogen atoms in "en" can bond to the central atom in a complex at the same time.</para>
+          <para id="id11276936">Complex ion salts with the same chemical formulas often behave differently because the same number of atoms can be arranged into different forms called isomers. Hydrate isomerism is illustrated by the following example: There are three distinct compounds with the formula 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Cr</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Cr" \( H rSub { size 8{2} } O \)  rSub { size 8{6} }  ital "Cl" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>. One of these, violet in color, reacts immediately with 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>AgNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "AgNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> to precipitate all of the chlorines as AgCl. The second is light green but only ⅔ of the chlorine is precipitated as AgCl. The third compound is dark green and only ⅓ of the chlorine is precipitated as AgCl. The last compound has only one reactive Cl, so apparently two chlorines in this compound are bonded tightly to the Cr and are not available for reaction. We might thus write this compound as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CrCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">⋅</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "CrCl" rSub { size 8{2} }  \( H rSub { size 8{2} } O \)  rSub { size 8{4} }  \]  cdot  \( H rSub { size 8{2} } O \)  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, where the species within the brackets are regarded as ligands bonded fairly strongly to the central chromium, and this species would behave as a single ion in solution. i.e., in aqueous solution,</para>
+          <para id="id5691480">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">[</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>CrCl</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:msub>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mi>O</m:mi>
+                        <m:msub>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">]</m:mo>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>Cl</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mo stretchy="false">(</m:mo>
+                        </m:mrow>
+                        <m:msub>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mi>O</m:mi>
+                        <m:msub>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">→</m:mo>
+                        <m:mo stretchy="false">[</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>CrCl</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:msub>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mi>O</m:mi>
+                        <m:msub>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mo stretchy="false">]</m:mo>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">+</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:msup>
+                                  <m:mtext>Cl</m:mtext>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mrow>
+                                        <m:mo stretchy="false">−</m:mo>
+                                        <m:mrow/>
+                                      </m:mrow>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msup>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>water</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "CrCl" rSub { size 8{2} }  \( H rSub { size 8{2} } O \)  rSub { size 8{4} }  \]  ital "Cl" cdot  \( H rSub { size 8{2} } O \)  rSub { size 8{2} }  rightarrow  \[  ital "CrCl" rSub { size 8{2} }  \( H rSub { size 8{2} } O \)  rSub { size 8{4} }  \]  rSup { size 8{+{}} } + ital "Cl" rSup { size 8{ - {}} } + ital "water"} {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id11602621">The light green compound with two reactive chlorines is apparently 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CrCl</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">⋅</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "CrCl" \( H rSub { size 8{2} } O \)  rSub { size 8{5} }  \]  ital "Cl" rSub { size 8{2} }  cdot H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math>, while the violet compound with three reactive chlorines is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Cr</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Cl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Cr" \( H rSub { size 8{2} } O \)  rSub { size 8{6} }  ital "Cl" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>. </para>
+          <para id="id6597915">Closely related to hydrate isomerism is ionization isomerism, where an ion takes the place of water. Consider two different compounds with the formula 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Co</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Br</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Co" \(  ital "NH" rSub { size 8{3} }  \)  rSub { size 8{5} }  ital "SO" rSub { size 8{4} }  ital "Br"} {}</m:annotation></m:semantics></m:math>. One of these, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Co</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">]</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Br</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "Co" \(  ital "NH" rSub { size 8{3} }  \)  rSub { size 8{5} }  \(  ital "SO" rSub { size 8{4} }  \)  \]  ital "Br"} {}</m:annotation></m:semantics></m:math>, appears red, whereas the other, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Co</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Br</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">]</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "Co" \(  ital "NH" rSub { size 8{3} }  \)  rSub { size 8{5} }  ital "Br" \]  ital "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>, appears violet.</para>
+          <para id="id8933259">In addition to these coordination sphere isomers there are geometrical isomers, which have coordination spheres of the same composition but different geometrical arrangement. Geometrical isomers are distinct compounds and can have different physical properties (although often not too different) such as color, crystal structure, melting point, and so on. For example, dichlorodiamine platinum (II) occurs in the square planar geometry (B) so the chlorine ligands can be either next to one another (cis) or opposite from one another (trans). The compound you will synthesize has an octahedral geometry with two (bidentate) "en" ligands, and two nitro 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  ital "NO" rSub { size 8{2} }  \) } {}</m:annotation></m:semantics></m:math> ligands. The geometrical isomer you will make is the trans form, in which the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NO" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> ligands are not adjacent to one another. This difference between cis and trans octahedral isomers is shown in Fig 2.</para>
+          <figure id="id10989484">
+            <media id="idp629200" alt=""><image src="../../media/graphics2-9883.jpg" mime-type="image/jpeg" height="215" width="400"/></media>
+          </figure>
+          <para id="id5302722">Fig 2. The trans and cis geometrical isomers for octahedral complexes with two bidentate (“en”) and monodentate 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  ital "NO" rSub { size 8{2} }  \) } {}</m:annotation></m:semantics></m:math> ligands specifically dinitrobis(ethylenediamine)Co(III). The two black balls represent the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NO" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> ligands and the two pairs of linked white balls represent the two ethylenediamine ligands. Cis and trans describe the relationship (relative position) between the two 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NO" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> ligands. </para>
+          <para id="id12742930">In the procedure that follows we start with a cobalt solution made from the salt hexaquacobalt(II) nitrate, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Co</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "Co" \( H rSub { size 8{2} } O \)  rSub { size 8{6} }  \]  \(  ital "NO" rSub { size 8{3} }  \)  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>. When this salt dissolves it ionizes to form two ions of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msubsup><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NO" rSub { size 8{3} }  rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math> and one of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Co</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi><m:msubsup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Co" \( H rSub { size 8{2} } O \)  rSub { size 8{6} }  rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math>. We wish to prepare a Co(III) compound of ethylenediamine, so we must add ethylenediamine (en) and oxidize the Co(II) to Co(III). Because Co(II) is more reactive than Co(III), we allow it to react with (en) first, and then oxidize the resulting complex ion. In aqueous solution (en) reacts with water to produce 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math> ions which can also bind to Co(II), so the pH is adjusted close to 7 first by adding 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>. (Other acids would introduce new ligands to compete for the Co.) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NaNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NaNO" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> is added to provide the ligands that will be trans in the final compound. Lastly, Co(II) is oxidized to Co(III) by bubbling oxygen through the solution.</para>
+        </section>
+      </section>
+      <section id="id-0255776001642">
+        <title>Experimental Procedure</title>
+        <list list-type="enumerated" id="id12119662">
+          <item>Use your 10 mL graduated cylinder to measure out 20 mL of the 20% by weight solution of ethylenediamine in dilute 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>.</item>
+          <item>Pour it into a clean 125 mL Erlenmeyer flask. Rinse the graduated cylinder with about 5mL of deionised water (DI water from white handle faucet) and add the rinse water to the flask. Set this aside for a moment and prepare the second set of reactants as described below.</item>
+          <item>Weigh out 9.0 g of hexaquacobalt(II) nitrate and 6.0 g sodium nitrite (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NaNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NaNO" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>) using a rough balance (Record mass on report form). Add these reactants to approximately 15 mL of DI water in an Erlenmeyer flask. After they have dissolved, add the neutralized ethylenediamine solution prepared in steps 1-2. Record your observations.</item>
+          <item>For the next set of instructions, refer to the diagram below. Fit a piece of rubber tubing over an inert gas "IG" tap (on benchtop) and open the valve slowly to obtain a gentle flow of oxygen. Then insert a Pasteur pipet into the other end of the rubber tubing. CAUTION: Too high a gas flow might blow the pipet out of the tubing and cause serious injury. Always adjust the valve carefully while pointing your pipet in a safe direction. Test the flow by immersing the pipet tip in a beaker of water--it should bubble vigorously, but not enough to cause much splashing. When the flow is set to your satisfaction, immerse the tip of the pipet in the Erlenmeyer flask containing the reaction mixture. Secure the flask to a stand with a clamp because the reaction mixture may need about 10 minutes of moderately vigorous bubbling to reach completion. Record your observations. </item>
+        </list>
+        <figure id="id12714553">
+          <media id="idp12818720" alt=""><image src="../../media/graphics3-d628.jpg" mime-type="image/jpeg" height="284" width="394"/></media>
+        </figure>
+        <para id="id12961772">Figure 3. The bubbling apparatus.</para>
+        <list list-type="enumerated" id="id12961775">
+          <item>After about 10 minutes of bubbling, turn off the gas flow and immerse the flask in ice water. This will cause further crystallization. After approximately 5 minutes in the ice bath, pour the flask's contents through the filter crucible while it has suction applied using the setup shown below. Record your observations. </item>
+        </list>
+        <figure id="id11469862">
+          <media id="idp12969664" alt=""><image src="../../media/graphics4-4108.jpg" mime-type="image/jpeg" height="272" width="400"/></media>
+        </figure>
+        <para id="id7318140">Figure 4. Schematic diagram showing sintered-glass filter crucible mounted on suction flask with rubber filter adapter. Clamp the filter flask to a support post to prevent breakage.</para>
+        <list list-type="enumerated" id="id10726289">
+          <item>The crystals will remain in the crucible while the solution passes through. Wash your crystals by slowly pouring approximately 5 mL of ethanol over them while suction is applied. Why do we wash with ethanol? Answer on lab report form.</item>
+          <item>The next step is recrystallization to obtain a more purified product. Transfer the product crystals to a 250 mL beaker. Add about 80 mL of DI water and stir to dissolve the crystals. Gently heat the beaker over a Bunsen burner (or on high on a hotplate if available), gradually bringing it to a ‘slight’ boil. Allow the solution to boil gently until its volume has been reduced to about 50 mL. Then let the solution cooled to near room temperature, place the beaker into an ice bath (DO NOT PLACE THE BEAKER IN THE ICE BATH WHILE HOT. IT WILL CRACK AND YOU WILL LOOSE YOUR PRODUCT). Crystal growth should be immediately apparent. After a few minutes in the ice bath, transfer the crystals into the filter crucible. To help with this transfer you may use a rubber policeman on the end of a stirring rod. Remember that your crystals are water-soluble so if you use water in the transfer you will lose the product. Apply suction and rinse the crystals three times with separate 5 mL portions of ethanol. Scrape the crystals onto a watch glass and place in your drawer to dry. </item>
+        </list>
+        <para id="id3402019">In terms of the materials used, the overall reaction is:</para>
+        <para id="id12607254">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">{</m:mo>
+                          <m:mrow>
+                            <m:mo stretchy="false">[</m:mo>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Co</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:msub>
+                              <m:mi>H</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mi>O</m:mi>
+                            <m:msub>
+                              <m:mo stretchy="false">)</m:mo>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>6</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">]</m:mo>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mtext>NO</m:mtext>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>3</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:msub>
+                              <m:mo stretchy="false">)</m:mo>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                          <m:mo stretchy="false">}</m:mo>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>8</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>NaNO</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mn>8C</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>4</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>NH</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>4</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>HNO</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>O</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:mn>4</m:mn>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>trans</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{4 lbrace  \[  ital "Co" \( H rSub { size 8{2} } O \)  rSub { size 8{6} }  \]  \(  ital "NO" rSub { size 8{3} }  \)  rSub { size 8{2} }  rbrace +8 ital "NaNO" rSub { size 8{2} } +8C rSub { size 8{2} } H rSub { size 8{4} }  \(  ital "NH" rSub { size 8{2} }  \)  rSub { size 8{2} } +4 ital "HNO" rSub { size 8{3} } +O rSub { size 8{2} }  \( g \)  rightarrow 4 ital "trans" - {}} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5789100">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">[</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>Co</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>en</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:msub>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>NO</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:msub>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">]</m:mo>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>NO</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>8</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>NaNO</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>26</m:mtext>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "Co" \(  ital "en" \)  rSub { size 8{2} }  \(  ital "NO" rSub { size 8{2} }  \)  rSub { size 8{2} }  \]  ital "NO" rSub { size 8{3} } +8 ital "NaNO" rSub { size 8{3} } +"26"H rSub { size 8{2} } O} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id12962974">However, the actual reaction in solution involves ions and the en species exists partially in the form of</para>
+        <para id="id11903087"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msubsup><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "NH" rSub { size 8{3} }  rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math>. From the reaction and quantities used, calculate the theoretical yield and your percentage yield.</para>
+      </section>
+    </section>
+    <section id="id-674660769787">
+      <title>Pre-Lab: Transition Metals</title>
+      <para id="id4852332">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-129810998802">
+      <title>(Total 10 Points)</title>
+      <para id="id12197085">Hopefully <link document="m15503" resource="PreLabTM07.doc">here</link> for the Pre-Lab</para>
+      <para id="id4963558">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work (including your laboratory partner) or misrepresent your own data (see honor code).</para>
+      <para id="id4225117">Name(Print then sign): ___________________________________________________</para>
+      <para id="id5704428">Lab Day: ___________________Section: ________TA__________________________</para>
+      <list list-type="enumerated" id="id12213500">
+        <item>List and draw the common geometries transition metal complexes:</item>
+        <item>What are the two types of structural isomers for complex ion salts?</item>
+        <item>What are the two types of geometrical isomers for complex ion salts?</item>
+        <item>Why do we use Co(II) and then convert to Co(III) when synthesizing 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>trans</m:mtext></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Co</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>en</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 -  ital "trans" \[  ital "Co" \(  ital "en" \)  rSub { size 8{2} }  \(  ital "NO" rSub { size 8{2} }  \)  rSub { size 8{2} }  \]  ital "NO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>?</item>
+        <item>List two common monodentate ligands and two common bidentate ligands:</item>
+      </list>
+    </section>
+    <section id="id-722207068075">
+      <title>Report: Transition Metals</title>
+      <para id="id10554550">On my honor, in preparing this report, I know that I am free to use references and consult with others. </para>
+      <para id="id6522932">Hopefully <link document="m15503" resource="ReportTM07.doc">here</link> for the Report Form</para>
+      <para id="id3235891">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work (including your laboratory partner) or misrepresent your own data (see honor code).</para>
+      <para id="id11825398">Name(Print then sign): ___________________________________________________</para>
+      <para id="id8261194">Lab Day: ___________________Section: ________TA__________________________</para>
+      <para id="id12513246"> </para>
+      <para id="id5353644">Date ________________ Lab Section___________</para>
+      <para id="id3239991">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students' work (except to compile the group data set) or misrepresent your own data.</para>
+      <para id="id12047772"> </para>
+      <section id="id-975258154458">
+        <title>1. Synthesis</title>
+        <para id="id11373127">A. Volume of 20% ethylenediamine solution used ______ (r = 0.980 g/mL)</para>
+        <table id="id11181179" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Compound</entry>
+                <entry>Weight</entry>
+                <entry>Moles (Molar weight and stoichiometric coefficient)</entry>
+              </row>
+              <row>
+                <entry>ethylenediamine</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">[</m:mo>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>Co</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">(</m:mo>
+                              <m:msub>
+                                <m:mi>H</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mi>O</m:mi>
+                              <m:msub>
+                                <m:mo stretchy="false">)</m:mo>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>6</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">]</m:mo>
+                              <m:mo stretchy="false">(</m:mo>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:msub>
+                                    <m:mtext>NO</m:mtext>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>3</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:msub>
+                                <m:mo stretchy="false">)</m:mo>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "Co" \( H rSub { size 8{2} } O \)  rSub { size 8{6} }  \]  \(  ital "NO" rSub { size 8{3} }  \)  rSub { size 8{2} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mtext>NaNO</m:mtext>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ ital "NaNO" rSub { size 8{2} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">[</m:mo>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>Co</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">(</m:mo>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>en</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:msub>
+                                <m:mo stretchy="false">)</m:mo>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">(</m:mo>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:msub>
+                                    <m:mtext>NO</m:mtext>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>2</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:msub>
+                                <m:mo stretchy="false">)</m:mo>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">]</m:mo>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:msub>
+                                    <m:mtext>NO</m:mtext>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>3</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "Co" \(  ital "en" \)  rSub { size 8{2} }  \(  ital "NO" rSub { size 8{2} }  \)  rSub { size 8{2} }  \]  ital "NO" rSub { size 8{3} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-389987645012">
+        
+        <para id="id6236385">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-614055706522">
+        <title>a. Observations</title>
+        <list list-type="enumerated" id="id10577635">
+          <item>Record your observations after adding the neutralized ethylenediamine solution. </item>
+        </list>
+        <para id="id7716531">  </para>
+        <list list-type="enumerated" id="id4270951">
+          <item>Record your observations after 10 minutes of moderately vigorous bubbling. </item>
+          <item>Record your observations after pouring the flask's contents through the filter crucible while suction is applied.</item>
+        </list>
+      </section>
+      <section id="id-312422149862">
+        <title> </title>
+        <para id="id11696142"> </para>
+      </section>
+      <section id="id-883082453207">
+        <title>b. Questions</title>
+        <list list-type="enumerated" id="id6336280">
+          <item>Why do we wash the crystals with ethanol? </item>
+        </list>
+        <para id="id12420086"> </para>
+        <list list-type="enumerated" id="id9600437">
+          <item>Give the net chemical equation for the reaction, writing dissociated reactants as ions, the solid product as an undissociated salt, and including all other ionic and neutral species needed to balance charge and mass. Omit any spectator ions that would appear in equally on both sides.   </item>
+        </list>
+        <para id="id11627038"> </para>
+        <list list-type="enumerated" id="id6304542">
+          <item>Which is the limiting reactant in your experiment? </item>
+        </list>
+        <para id="id12197549">  </para>
+        <list list-type="enumerated" id="id8414761">
+          <item>Calculate the maximum weight of product you would have obtained if the limiting reactant had reacted fully. This is the theoretical yield. What is your percent yield (the actual yield divided by theoretical yield)? </item>
+        </list>
+        <para id="id6563830">Theoretical yield _______g Actual yield _______ g</para>
+        <para id="id12151266">  </para>
+        <list list-type="enumerated" id="id12455998">
+          <item>Is the yield less, same, or more than the theoretical yield? Give reasons for why the actual yield is different theoretical yield.</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

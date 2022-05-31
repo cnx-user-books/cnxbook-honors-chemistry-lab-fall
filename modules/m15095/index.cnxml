@@ -1,0 +1,719 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Stoichiometry: Laws to Moles to Molarity</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>f8bccd79-7005-4efa-9d5b-9c63782e8f5a</md:uuid>
+</metadata>
+  <content>
+    <section id="id-935493430823">
+      <title>Experiment 2: Stoichiometry: Laws to Moles to Molarity</title>
+      <section id="id-779339796345">
+        <title>Objective</title>
+        <list list-type="bulleted" id="id4025154">
+          <item>To determine the mass of a product of a chemical reaction</item>
+          <item>To make a solution of assigned molarity – your accuracy will be tested by your TA by titration!</item>
+        </list>
+      </section>
+      <section id="id-838910437631">
+        <title>Grading</title>
+        <list list-type="bulleted" id="id4082585">
+          <item>Pre-lab (10%)</item>
+          <item>Lab Report (80%)</item>
+          <item>TA points (10%)</item>
+        </list>
+      </section>
+      <section id="id-0143338981944">
+        <title>Before Coming to Lab..</title>
+        <list list-type="bulleted" id="id4023960">
+          <item>Read the lab instructions</item>
+          <item>Complete the pre-lab, due at the beginning of the lab</item>
+        </list>
+      </section>
+      <section id="id-528039299211">
+        <title>Introduction</title>
+        <para id="id3976950">The word stoichiometry derives from two Greek words: stoicheion (meaning "element") and metron (meaning "measure"). Stoichiometry deals with calculations about the masses (sometimes volumes) of reactants and products involved in a chemical reaction. Consequently, it is a very mathematical part of chemistry.</para>
+        <para id="id7105488">In the first part of this lab, sodium bicarbonate is reacted with an excess of hydrochloric acid. </para>
+        <para id="id5870363">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mtext>NaHCO</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>HCl</m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:mtext>NaCl</m:mtext>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>aq</m:mtext>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mtext>CO</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>O</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"NaHCO" rSub { size 8{3} }  \( s \) +"HCl" \( "aq" \)  rightarrow "NaCl" \( "aq" \) +"CO" rSub { size 8{2} }  \( g \) +H rSub { size 8{2} } O} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id4540040">By measuring the mass of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NaHCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NaHCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> and balancing the equation (above), the mass of NaCl expected to be produced can be calculated and then checked experimentally. Then, the actual amount of NaCl produced can be compared to the predicted amount. </para>
+        <para id="id5783507">This process includes molar ratios, molar masses, balancing and interpreting equations, and conversions between grams and moles and can be summarized as follows:</para>
+        <list list-type="enumerated" id="id11449008">
+          <item>Check that the chemical equation is correctly balanced. </item>
+          <item>Using the molar mass of the given substance, convert the mass given in the problem to moles. </item>
+          <item>Construct a molar proportion (two molar ratios set equal to each other). Use it to convert to moles of the unknown. </item>
+          <item>Using the molar mass of the unknown substance, convert the moles just calculated to mass. </item>
+        </list>
+        <para id="id11658904">In the second part of this lab, since a great deal of chemistry is done with solutions, a solution will be prepared of allocated molarity. Molarity, or more correctly molar concentration, is defined to be the number of moles of solute divided by the number of liters of solution:</para>
+        <para id="id9367986">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>c</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>M</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>n</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mstyle fontweight="bold">
+                                <m:mrow>
+                                  <m:mtext>substance</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>V</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>solution</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{c rSub { size 8{M} } = {  {n rSub { size 8{ bold "substance"} } }  over  {V rSub { size 8{ ital "solution"} } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9842708">with units of [mole/L]. However molar concentration depends on the temperature so a higher temperature would result in an increased volume with a consequential decrease in molar concentration. This can be a significant source of error, of the same order as the error in the volume measurements of a burette, when the temperature increases more than 5 º C. </para>
+        <para id="id5845159">Steps to preparing a solution of a certain concentration:</para>
+        <list list-type="enumerated" id="id5845163">
+          <item>First need to know the formula for the solute, e.g. potassium chromate: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>CrO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{2} } "CrO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>. </item>
+          <item>Need the molecular weight of the solute: by adding up the atomic weights of potassium, chromium and oxygen: 39.10, 52.00 and 16.00 in the correct ratios:</item>
+          <item>
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mtext>2 </m:mtext>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:mtext> 39</m:mtext>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>1, 52</m:mtext>
+                        <m:mtext>.</m:mtext>
+                        <m:mrow>
+                          <m:mtext>0 and 4 </m:mtext>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:mtext> 16</m:mtext>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>00 = 194</m:mtext>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>2g/mole</m:mtext>
+                        <m:mtext>.</m:mtext>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{"2 " times " 39" "." "1, 52" "." "0 and 4 " times " 16" "." "00 = 194" "." "2g/mole" "." } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </item>
+          <item>Then the volume of solution, usually deionised water: e.g. for one liter of solution use a 1000 mL volumetric flask. So a 1M solution would require 194.2g of solid 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>CrO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{2} } "CrO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> in 1 L, 0.1M 19.42g of solid 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>CrO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{2} } "CrO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> and so on.</item>
+          <item>Remember to ensure that all the solute is dissolved before finally filling to the mark on the volumetric flask. If there is any undissolved solute present in the solution, the water level will go down slightly below the mark, since the volume occupied by the solute differs from the actual volume it contributes to the solution once it is dissolved. </item>
+        </list>
+        <para id="id3040024">Your teaching assistant will check the accuracy of the solution that you have made by titration, which is a method of quantitatively determining the concentration of a solution. A standard solution (known concentration) is slowly added from a burette to a solution of the analyte (unknown concentration – your solution) until the reaction between them is judged to be complete equivalence point). In colorimetric titration, some indicator must be used to locate the equivalence point. One example is the addition of acid to base using phenolphthalein (indicator) to turn a pink solution colorless in order to determine the concentration of unknown acids and bases. Record your TAs value of the molarity of your solution on your report form along with your percent error.</para>
+        <figure id="id5661996">
+          <media id="idp6156560" alt=""><image src="../../media/graphics1-1271.png" mime-type="image/png" height="252" width="262"/></media>
+        </figure>
+        <para id="id3362346">Figure 1: Reading the Burette</para>
+        <para id="id11548575">When an acid is neutralized by a base, since there is stoichiometrically equal amounts of acid and base and the pH = 7, it is possible to accurately determine the concentration of either the acid or base solution. Since:</para>
+        <para id="id11548579">Moles of a substance = Concentration of solution (moles/L) x Volume (L)</para>
+        <para id="id6756378">We can calculate the concentration of the acid or base in the solution using:</para>
+        <para id="id10295022">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>Balance Base </m:mtext>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mfenced open="" close="">
+                                    <m:mtext>Bb</m:mtext>
+                                  </m:mfenced>
+                                  <m:mo stretchy="false">×</m:mo>
+                                  <m:mtext>Moles of Acid</m:mtext>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mrow>
+                                  <m:mtext>Moles of Base</m:mtext>
+                                  <m:mo stretchy="false">×</m:mo>
+                                  <m:mtext>Balance Acid </m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                              <m:mfenced open="" close="">
+                                <m:mtext>Ba</m:mtext>
+                              </m:mfenced>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:msub>
+                                    <m:mi>Β</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mi>b</m:mi>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                  <m:mo stretchy="false">×</m:mo>
+                                  <m:msub>
+                                    <m:mi>C</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mi>a</m:mi>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                </m:mrow>
+                                <m:mo stretchy="false">×</m:mo>
+                                <m:msub>
+                                  <m:mi>V</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mi>a</m:mi>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>Βa</m:mtext>
+                                  <m:mo stretchy="false">×</m:mo>
+                                  <m:msub>
+                                    <m:mi>C</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mi>b</m:mi>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                </m:mrow>
+                                <m:mo stretchy="false">×</m:mo>
+                                <m:msub>
+                                  <m:mi>V</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mi>b</m:mi>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignc { stack {
+ size 12{"Balance Base " left ("Bb" right ) times "Moles of Acid"="Moles of Base" times "Balance Acid " left ("Ba" right )}  {} # 
+ size 12{Β rSub { size 8{b} }  times C rSub { size 8{a} }  times V rSub { size 8{a} } ="Βa" times C rSub { size 8{b} }  times V rSub { size 8{b} } }  {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <section id="id-473841224262">
+          <title>Titration Calculations:</title>
+          <para id="id4622962">Step 1:Balance the neutralization equation. Determine Balance of Acid and Base.</para>
+          <para id="id11144279">Step 2:Determine what information is given.</para>
+          <para id="id7014363">Step 3:Determine what information is required.</para>
+          <para id="id10007324">Step 4:Solve using the equation below.</para>
+          <para id="id7012471">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>Β</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>b</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">×</m:mo>
+                            <m:msub>
+                              <m:mi>C</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>a</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:msub>
+                            <m:mi>V</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>a</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mtext>Βa</m:mtext>
+                            <m:mo stretchy="false">×</m:mo>
+                            <m:msub>
+                              <m:mi>C</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>b</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:msub>
+                            <m:mi>V</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>b</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{Β rSub { size 8{b} }  times C rSub { size 8{a} }  times V rSub { size 8{a} } ="Βa" times C rSub { size 8{b} }  times V rSub { size 8{b} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+        </section>
+        <section id="id-770760350589">
+          <title>Example:</title>
+          <para id="id4077965">Calculate the concentration of a nitric acid solution 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> if a 20 ml sample of the acid required an average volume of 55 ml of a 0.047 mol/l solution of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>Ba</m:mtext><m:msub><m:mfenced open="" close=""><m:mtext>OH</m:mtext></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Ba" left ("OH" right ) rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> to reach the endpoint of the titration.</para>
+          <para id="id4038414">Step 1: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mtext>2HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mtext>Ba</m:mtext></m:mrow><m:msub><m:mfenced open="" close=""><m:mtext>OH</m:mtext></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">→</m:mo><m:mtext>Ba</m:mtext><m:mrow><m:msub><m:mfenced open="" close=""><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>2H</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"2HNO" rSub { size 8{3} } +"Ba" left ("OH" right ) rSub { size 8{2} }  rightarrow "Ba" left ("NO" rSub { size 8{3} }  right ) rSub { size 8{2} } +"2H" rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math>Balance Base = 1Balance Acid = 2</para>
+          <para id="id10129712">Step 2:Given informationVolume Acid = 20 mlVolume Base (average) = 55 ml Concentration of Base = 0.047 mol/l</para>
+          <para id="id7335948">Step 3: Required informationConcentration of AcidStep 4:Solve using the equation.
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mi>Β</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">×</m:mo><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">×</m:mo><m:msub><m:mi>V</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mtext>Βa</m:mtext><m:mo stretchy="false">×</m:mo><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">×</m:mo><m:msub><m:mi>V</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Β rSub { size 8{b} }  times C rSub { size 8{a} }  times V rSub { size 8{a} } ="Βa" times C rSub { size 8{b} }  times V rSub { size 8{b} } } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>Ca</m:mtext></m:mrow><m:mo stretchy="false">×</m:mo><m:mtext>20ml</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">×</m:mo><m:mn>0</m:mn></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>047mol/1</m:mtext><m:mo stretchy="false">×</m:mo><m:mtext>55ml</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 times "Ca" times "20ml"=2 times 0 "." "047mol/1" times "55ml"} {}</m:annotation></m:semantics></m:math> Ca = 0.2585 mol/l ( considering significant figures 0.26 mol/l)</para>
+        </section>
+      </section>
+      <section id="id-564277939445">
+        <title>Experimental</title>
+        <section id="id-975677228477">
+          <title>Materials List </title>
+          <para id="id11551726">sodium bicarbonate 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="" close=""><m:msub><m:mtext>NaHCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ("NaHCO" rSub { size 8{3} }  right )} {}</m:annotation></m:semantics></m:math></para>
+          <para id="id4045538">3M hydrochloric acid (HCl) solution</para>
+        </section>
+        <section id="id-891438676706">
+          <title>Procedure</title>
+          <para id="id4038868">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-191268488796">
+          <title>Part 1 </title>
+          <list list-type="enumerated" id="id6239212"><item>Weigh an empty 150-mL beaker on the electronic balance. Record this value in your data table. </item>
+	<item>Remove the beaker from the balance and add one spoonful of sodium bicarbonate (approximately 5 g). Re-weigh and record this value.</item>
+	<item>Pour approximately 20 mL of 3M hydrochloric acid into a 100-mL beaker. Rest a Pasteur pipette in the beaker. </item>
+	<item>Add 3 drops of acid to the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NaHCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NaHCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>beaker, moving the pipette so that no drops land on each other. The key point is to spread out the adding of acid so as to hold all splatter within the walls of the beaker. </item>
+	<item>Continue to add acid slowly drop by drop. As liquid begins to build up, gently swirl the beaker. This is done to make sure any unreacted acid reaches any unreacted sodium bicarbonate. Do not add acid while swirling. </item>
+	<item>Stop adding the hydrochloric acid when all bubbling has ceased. So that the minimum amount of HCl has reacted with all of the sodium bicarbonate. Check when all the bubbling has ceased, by swirling the beaker and to ensure that there is no more bubbling. When all the bubbling has ceased, add one drop more of acid and swirl. </item>
+	<item>Weigh the beaker and contents, record.</item>
+	<item>Using a microwave oven, dry to constant weigh, initially for 1 min, when there is plenty of solution, and then 10 second intervals thereafter. Measure weight to the nearest milligram.</item>
+</list>
+        </section>
+        <section id="id-301135929257">
+          <title>Materials List </title>
+          <para id="id4050299">100 mls volumetric flask</para>
+          <para id="id4050303">3M hydrochloric acid (HCl) solution</para>
+          <para id="id11913379">sodium bicarbonate 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="" close=""><m:msub><m:mtext>NaHCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ("NaHCO" rSub { size 8{3} }  right )} {}</m:annotation></m:semantics></m:math></para>
+          <para id="id9928952">methyl orange indicator</para>
+        </section>
+        <section id="id-4212249599">
+          <title>Part 2</title>
+          <list list-type="enumerated" id="id5755317"><item>Ask you TA for your assigned molarity – it will range from 0.7 M to 1.2 M. </item>
+	<item>First need to know the formula for the solute. </item>
+	<item>Need the molecular weight of the solute in g/mole.</item>
+	<item>The volume of solution, 100 mLs.</item>
+	<item>Remember to ensure that all the solute is dissolved before finally filling with deionised water to the mark on the volumetric flask. </item>
+	<item>Take your solution to your TA to check the molarity by titration, record value on your report form and your percent error.</item>
+</list>
+        </section>
+      </section>
+    </section>
+    <section id="id-768233730137">
+      <title>Pre-Lab 2: Stoichiometry</title>
+      <para id="id5726843">(Total 10 points)</para>
+      <para id="id5726847">Click <link url="http://cnx.org/GroupWorkspaces/wg768/m15095/Prelab07.doc">here
+  </link> to print the Pre-Lab
+Note: In preparing this Pre-Lab you are free to use references and consult with others. However, you may not copy from other students’ work (including your laboratory partner) or misrepresent your own data (see honor code).</para>
+      <para id="id7096361">Name(Print then sign): ___________________________________________________</para>
+      <para id="id7096367">Lab Day: ___________________Section: ________TA__________________________</para>
+      <para id="id10625315">Circle the correct answer:</para>
+      <para id="id6295680">1) Which one of the following is a correct expression for molarity? </para>
+      <para id="id11223112">A) mol solute/L solvent </para>
+      <para id="id8747745">B) mol solute/mL solvent </para>
+      <para id="id8747749">C) mmol solute/mL solution </para>
+      <para id="id12102701">D) mol solute/kg solvent </para>
+      <para id="id10718636">E) μmol solute/L solution </para>
+      <para id="id6316758">2) What is the concentration (M) of KCl in a solution made by mixing 25.0 mL of 0.100 M KCl with 50.0 mL of 0.100 M KCl? </para>
+      <para id="id10315687">A) 0.100 </para>
+      <para id="id10035703">B) 0.0500 </para>
+      <para id="id10035707">C) 0.0333 </para>
+      <para id="id4161424">D) 0.0250 </para>
+      <para id="id6316895">E) 125 </para>
+      <para id="id6316899">3) How many grams of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>OH</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CH" rSub { size 8{3} } "OH"} {}</m:annotation></m:semantics></m:math> must be added to water to prepare 150 mL of a solution that is 2.0 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>OH</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CH" rSub { size 8{3} } "OH"} {}</m:annotation></m:semantics></m:math>? </para>
+      <para id="id5914509">A) 9.6 × 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id6882108">B) 4.3 × 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id7108982">C) 2.4 </para>
+      <para id="id9980752">D) 9.6 </para>
+      <para id="id7121063">E) 4.3 </para>
+      <para id="id3495070">4) The concentration of species in 500 mL of a 2.104 M solution of sodium sulfate is __________ M sodium ion and __________ M sulfate ion. </para>
+      <para id="id11913200">A) 2.104, 1.052 </para>
+      <para id="id11551713">B) 2.104, 2.104 </para>
+      <para id="id11551717">C) 2.104, 4.208 </para>
+      <para id="id4007521">D) 1.052, 1.052 </para>
+      <para id="id4012083">E) 4.208, 2.104 </para>
+      <para id="id4012087">5) Oxalic acid is a diprotic acid. Calculate the percent of oxalic acid 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } C rSub { size 8{2} } O rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> in a solid given that a 0.7984 g sample of that solid required 37.98 mL of 0.2283 M NaOH for neutralization. </para>
+      <para id="id7103579">A) 48.89 </para>
+      <para id="id10791911">B) 97.78 </para>
+      <para id="id10791915">C) 28.59 </para>
+      <para id="id4626923">D) 1.086 </para>
+      <para id="id4022509">E) 22.83 </para>
+      <para id="id4022513">6) A 31.5 mL aliquot of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>(aq) of unknown concentration was titrated with 0.0134 M NaOH (aq). It took 23.9 mL of the base to reach the endpoint of the titration. The concentration (M) of the acid was __________. </para>
+      <para id="id3363738">A) 0.0102 </para>
+      <para id="id4583063">B) 0.0051 </para>
+      <para id="id10435421">C) 0.0204 </para>
+      <para id="id10435425">D) 0.102 </para>
+      <para id="id5298039">E) 0.227 </para>
+      <para id="id7152699">7) What are the respective concentrations (M) of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Fe" rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math> afforded by dissolving 0.200 mol 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>FeI</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"FeI" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> in water and diluting to 725 mL? </para>
+      <para id="id12232704">A) 0.276 and 0.828 </para>
+      <para id="id6983661">B) 0.828 and 0.276 </para>
+      <para id="id6983665">C) 0.276 and 0.276 </para>
+      <para id="id11510561">D) 0.145 and 0.435 </para>
+      <para id="id5756500">E) 0.145 and 0.0483 </para>
+      <para id="id5756504">8) A 36.3 mL aliquot of 0.0529 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>(aq) is to be titrated with 0.0411 M NaOH (aq). What volume (mL) of base will it take to reach the equivalence point? </para>
+      <para id="id11178394">A) 93.6 </para>
+      <para id="id11178398">B) 46.8 </para>
+      <para id="id4391980">C) 187 </para>
+      <para id="id3367180">D) 1.92 </para>
+      <para id="id3367184">E) 3.84 </para>
+      <para id="id10622782">9) A 13.8 mL aliquot of 0.176 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>PO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{3} } "PO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>(aq) is to be titrated with 0.110 M NaOH (aq). What volume (mL) of base will it take to reach the equivalence point? </para>
+      <para id="id4001432">A) 7.29 </para>
+      <para id="id4402127">B) 22.1 </para>
+      <para id="id4402131">C) 199 </para>
+      <para id="id9921830">D) 66.2 </para>
+      <para id="id9386229">E) 20.9 </para>
+      <para id="id9386233">10) A solution is prepared by adding 1.60 g of solid NaCl to 50.0 mL of 0.100 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>CaCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"CaCl" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>. What is the molarity of chloride ion in the final solution? Assume that the volume of the final solution is 50.0 mL. </para>
+      <para id="id10468686">A) 0.747 </para>
+      <para id="id6318061">B) 0.647 </para>
+      <para id="id6318066">C) 0.132 </para>
+      <para id="id6209179">D) 0.232 </para>
+      <para id="id8456790">E) 0.547 </para>
+    </section>
+    <section id="id-000771609520127">
+      <title>Report 2: Stoichiometry </title>
+      <para id="id11096317">(Total 80 points)</para>
+      <para id="id9382319">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work (including your laboratory partner) or misrepresent your own data (see honor code).  This is only an advisory template of what needs to be include in your complete lab write-up.</para>
+      <para id="id3986061">Name(Print then sign): ___________________________________________________</para>
+      <para id="id5864600">Lab Day: ___________________Section: ________TA__________________________</para>
+      <section id="id-585003454641">
+        <title>Part 1</title>
+        <para id="id5864606">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-442131236803">
+        <title>Data Table </title>
+        <table id="id10646087" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Mass</entry>
+                <entry>Grams</entry>
+              </row>
+              <row>
+                <entry>empty 150-mL beaker</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mtext>NaHCO</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>3</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mtext> in beaker</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"NaHCO" rSub { size 8{3} } " in beaker"} {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>Mass of NaHCO</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"Mass of NaHCO" rSub { size 8{3} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id4646512" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Mass</entry>
+                <entry>Grams</entry>
+              </row>
+              <row>
+                <entry>NaCl plus beaker first weighing</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>NaCl plus beaker second weighing</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>NaCl plus beaker third weighing</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id10133094">1) The grams of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NaHCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NaHCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> you had in your beaker was ________ </para>
+        <para id="id11658519">2) Calculate how many moles of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NaHCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NaHCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> the mass is ________</para>
+        <para id="id5777174">3) Write the molar ratio for the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mtext>NaHCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"NaHCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> / NaCl ratio _______</para>
+        <para id="id6318271">4) Write the number of moles of NaCl you predict were produced in your experiment. </para>
+        <para id="id6241003">5) Calculate the mass of NaCl you predict will be produced. </para>
+        <para id="id5847469">6) Determine, by subtraction, the actual mass of NaCl produced in your experiment. </para>
+        <para id="id6194003">a) first weighing </para>
+        <para id="id6194008">b) second weighing </para>
+        <para id="id6739483">c) third weighing </para>
+        <para id="id4619704">7) Calculate your percentage yield. </para>
+      </section>
+      <section id="id-10658177902">
+        <title>Discussion Questions</title>
+        <para id="id6241028">1. Compare the numerical value of the observed ratio for maximum yield to the best ratio </para>
+      </section>
+      <section id="id-521977544663">
+        <title>Part 2</title>
+        <para id="id12078122">Record your TAs value of the molarity of your solution.</para>
+        <para id="id12078127">Calculate your percent error from your assigned value.</para>
+        <para id="id4133547">Complete the equation for the titration of </para>
+        <para id="id3560519">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mtext>NaHCO</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                                <m:mfenced open="" close="">
+                                  <m:mtext>aq</m:mtext>
+                                </m:mfenced>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mtext>HCl</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mfenced open="" close="">
+                                <m:mtext>aq</m:mtext>
+                              </m:mfenced>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mo stretchy="false">→</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"NaHCO" rSub { size 8{3 left ("aq" right )} } +"HCl" rSub { size 8{ left ("aq" right )} }  rightarrow } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+      </section>
+    </section>
+  </content>
+</document>

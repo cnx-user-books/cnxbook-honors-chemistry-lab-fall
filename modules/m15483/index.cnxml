@@ -1,0 +1,365 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Organic Reactions</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>f22dc5fc-b9bd-4be9-96c0-01fc24d4a593</md:uuid>
+</metadata>
+  <content>
+    <section id="id-248097330756">
+      <title>Organic Reactions</title>
+      <section id="id-766630645818">
+        <title>Objectives</title>
+        <list list-type="bulleted" id="id12135652">
+          <item>Synthesis of some important esters.</item>
+          <item>Oxidation of a primary alcohol first to an aldehyde and then a carboxylic acid.</item>
+          <item>To saponify a typical vegetable oil.</item>
+        </list>
+      </section>
+      <section id="id-245779448055">
+        <title>  Grading</title>
+        <para id="id12419278">You will be assessed on</para>
+        <list list-type="bulleted" id="id12419283">
+          <item>detailed answers required in the lab report.</item>
+          <item>the correctness and thoroughness of your observations.</item>
+        </list>
+      </section>
+      <section id="id-0120558443409">
+        <title>Introduction</title>
+        <para id="id11922610">Esters are an important class of organic compounds commonly prepared from the esterification reaction of an organic acid with an alcohol in the presence of a strong mineral acid (usually
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} }  ital "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>). They are chiefly responsible for the pleasant aromas associated with various fruits, and as such are used in perfumes and flavorings. Some esters also have useful physiological effects. The best known example is the analgesic ("pain killing") and anti-pyretic ("fever reducing") drug acetylsalicylic acid, otherwise known by its trade name aspirin.</para>
+        <para id="id11519265">Liniments used for topical relief of sore muscles contain the ester methyl salicylate ("oil of wintergreen"), which is prepared from the reaction of methyl alcohol with the acid group of salicylic acid. Methyl salicylate acts as an analgesic and is absorbed through the skin; however, methyl salicylate is also a skin irritant (like many organic substances), which in this instance provides the beneficial side effect of the sensation of warming in the area of the skin where the liniment is applied.</para>
+        <para id="id11519270">Oxidation of a primary alcohol may yield either an aldehyde or a carboxylic acid, depending on the reaction conditions. For example, mild oxidation of ethanol produces acetaldehyde, which under more vigorous conditions may be further oxidised to acetic acid. The oxidation of ethanol to acetic acid is responsible for causing wine to turn sour, producing vinegar.</para>
+        <para id="id12008546">A number of oxidising agents may be used. Acidified sodium dichromate (VI) solution at room temperature will oxidise primary alcohols to aldehydes and secondary alcohols to ketones. At higher temperatures primary alcohols are oxides further to acids.</para>
+        <figure id="id11827770">
+          <media id="idp8833472" alt=""><image src="../../media/graphics1-c611.jpg" mime-type="image/jpeg" height="153" width="440"/></media>
+        </figure>
+        <para id="id11827794"> </para>
+        <para id="id11910410">The dichromate solution turns from the orange color of the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Cr</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msubsup><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Cr" rSub { size 8{2} } O rSub { size 8{7} }  rSup { size 8{2 - {}} } } {}</m:annotation></m:semantics></m:math> (aq) to the blue color of the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Cr</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Cr" rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math> (aq). This color change is the basis for the "breathalyser test". The police can ask a motorist to exhale through a tube containing some orange crystals. If the crystals turn blue, it shows that the breath contains a considerable amount of ethanol vapor.</para>
+        <para id="id12447969">Soaps are produced by the reaction of metallic hydroxides with animal fats and vegetable oils. The major components of these fats and oils are triglycerides. Triglycerides are esters of the trihydroxy alcohol called glycerol and various long-chain fatty acids. Tristearin is a typical triglyceride. Upon reaction with sodium hydroxide, the ester bonds of tristearin are broken. The products of the reaction are the soap, sodium stearate, and glycerol. This type of reaction is called saponification (Greek: sapon, soap) and it is depicted below.</para>
+        <para id="id12276339"> </para>
+        <figure id="id12276347">
+          <media id="idp13518112" alt=""><image src="../../media/graphics2-aa96.jpg" mime-type="image/jpeg" height="136" width="514"/></media>
+        </figure>
+        <para id="id11845070"> </para>
+        <para id="id11845075">Soap is made commercially by heating beef tallow in large kettles with an excess of sodium hydroxide. When sodium chloride is added to this mixture (called the "saponified" mixture), the sodium salts of the fatty acids separate as a thick curd of crude soap. Glycerol is an important by-product of the reaction. It is recovered by evaporating the water layer. The crude soap is purified, and coloring agents and perfumes are added to meet market demands.</para>
+        <section id="id-315076190951">
+          <title>EXPERIMENTAL PROCEDURE</title>
+          <para id="id11517247">CAUTION WEAR EYE PROTECTION!</para>
+          <para id="id11517252"> </para>
+          <para id="id11517256">CAUTION - Concentrated sulfuric acid will burn and stain the skin as well as damage clothing. In case of skin or clothing contact, wash the area immediately with large amounts of water.</para>
+        </section>
+        <section id="id-868686528052">
+          <title>Synthesis of esters</title>
+          <list list-type="enumerated" id="id11517275">
+            <item>Place approximately 2 g (or 2 mL if the substance is a liquid) of the organic acid and 2 mL of the alcohol in a large test tube.</item>
+            <item>Add 5 - 7 drops of concentrated (18 M) sulfuric acid, mix the solution well with a glass stirring rod and then place the test tube in a hot water bath (largest beaker in your drawer) (~ 80°C) for 5 - 10 minutes.</item>
+            <item>Remove the test tube from the hot water bath and cautiously pour the mixture into about 15 mL of saturated sodium bicarbonate contained in a small beaker. The sodium bicarbonate will destroy any unreacted acid.</item>
+            <item>Observe the aroma produced from each of the following esterification reactions. Write the structure of the esters produced, and the balanced equations for the esterification and the acid/sodium bicarbonate reactions:</item>
+          </list>
+          <para id="id12200106"> </para>
+          <para id="id12200111">Complete the following reactions using the procedure above and record your observations.</para>
+          <para id="id12200117"> </para>
+          <para id="id12200122"> (1) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">→</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{7} } H rSub { size 8{6} } O rSub { size 8{3} } + ital "CH" rSub { size 8{3} }  ital "OH" rightarrow } {}</m:annotation></m:semantics></m:math></para>
+          <para id="id12090016">  salicylic acid + methyl alcohol</para>
+          <para id="id12090023"> (2) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CH</m:mtext></m:mrow></m:mstyle><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:none/></m:mmultiscripts><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>COOH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">→</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CH" rSub { size 8{3} }  ital "CH" rSub { size 8{2} }  ital "CH""" lSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "OH"+ ital "CH" rSub { size 8{3} }  ital "COOH" rightarrow } {}</m:annotation></m:semantics></m:math></para>
+          <para id="id12378910">1 - octanol + glacial acetic acid</para>
+          <para id="id12378914"> (3) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CH</m:mtext></m:mrow></m:mstyle><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:none/></m:mmultiscripts><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>COOH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">→</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CH" rSub { size 8{3} }  ital "CH" rSub { size 8{2} }  ital "CH""" lSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "OH"+ ital "CH" rSub { size 8{3} }  ital "COOH" rightarrow } {}</m:annotation></m:semantics></m:math></para>
+          <para id="id11991355"> amyl alcohol + glacial acetic acid</para>
+          <para id="id11991359">(4) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>H</m:mi><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle><m:none/></m:mmultiscripts><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>COOH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">→</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{2} } H"" lSub { size 8{5} }  ital "OH"+ ital "CH" rSub { size 8{3} }  ital "COOH" rightarrow } {}</m:annotation></m:semantics></m:math></para>
+          <para id="id11839505">ethanol + acetic acid</para>
+          <para id="id11839509"> </para>
+        </section>
+        <section id="id-394711066373">
+          <title>Oxidation of an alcohol with acidified potassium dichromate(VI) solution</title>
+          <list list-type="bulleted" id="id11839523">
+            <item>Add 10 drops of dilute sulfuric acid (6M) and 5 drops of potassium dichromate(VI) solution (0.01M) to 5 drops of ethanol. The oxidising agent is added slowly to the alcohol so that the temperature is kept below that of the alcohol and above that of the carbonyl compound. (Carbonyl compounds are more volatile than the corresponding alcohols). Usually the alcohol is in excess of the oxidant and the aldehyde is distilled off to avoid further oxidation.</item>
+            <item>Note the color and smell cautiously (Royal Wave).</item>
+            <item>Warm the mixture and smell cautiously (Royal Wave).</item>
+            <item>Repeat the experiment using first methanol and then propan-2-ol in place of ethanol.</item>
+          </list>
+          <para id="id12202397"> </para>
+          <para id="id12202402">Describe what happens and explain the color changes.</para>
+          <para id="id12202408">What conditions and techniques would favour the oxidation of ethanol to</para>
+          <para id="id12202413">a. ethanal rather than ethanoic acid.</para>
+          <para id="id12202418">b. ethanoic acid rather than ethanal?</para>
+        </section>
+        <section id="id-0335183537391">
+          <title>Oxidation of an alcohol with acidified potassium permanganate (VII) solution</title>
+          <list list-type="bulleted" id="id11996179">
+            <item>Add 10 drops of dilute sulfuric acid and 5 drops of potassium permanganate (VII) solution (0.01M) to 5 drops of ethanol. Note the color and smell cautiously.</item>
+            <item>Warm the mixture and smell cautiously (Royal Wave).</item>
+            <item>Repeat the experiment using first methanol and then propan-2-ol in place of ethanol.</item>
+            <item>Take the pH of your final mixture using Universal indicator paper</item>
+          </list>
+          <para id="id11996213"> Describe what happens and explain the color changes.</para>
+          <para id="id12217041">What is your final product?</para>
+        </section>
+        <section id="id-988614706842">
+          <title>Saponification of a vegetable oil</title>
+          <para id="id12217053">CAUTION - Sodium hydroxide is a very caustic material that can cause severe skin burns. Eye burns caused by sodium hydroxide are progressive: what at first appears to be a minor irritation can develop into a severe injury unless the chemical is completely flushed from the eye. If sodium hydroxide comes in contact with the eye, flush the eye with running water continuously for at least 20 minutes. Notify your TA immediately. If sodium hydroxide is spilled on some other parts of the body, flush the affected area with running water continuously for at least 2-3 minutes. Notify your TA immediately. </para>
+          <para id="id12217079">Never handle sodium hydroxide pellets with your fingers. Use weighing paper and a scoopula. Solid sodium hydroxide will absorb water from the atmosphere. It is hygroscopic. Do not leave the container of sodium hydroxide open.</para>
+          <para id="id12135285">Keep ethanol and ethanol-water mixtures away from open flames.</para>
+          <para id="id12135290">Aqueous iron chloride will stain clothes permanently and is irritating to the skin. Avoid contact with this material.</para>
+          <para id="id12135296"> </para>
+          <para id="id12135301">In this experiment, you will saponify a vegetable oil </para>
+          <list list-type="enumerated" id="id12135306">
+            <item>Pour 5 mL (5.0 g) of vegetable oil into a 250-mL beaker.</item>
+            <item>Slowly dissolve 2.5 g of NaOH pellets in 15 mL of the 50% ethanol/water mixture in a 50-mL beaker.</item>
+            <item>Add 2-3 mL of the NaOH solution to the beaker containing the oil. Heat the mixture over a hot plate with stirring. CAUTION: Keep your face away from the beaker and work at arm's length. Stirring is required to prevent spattering. Every few minutes, for the next 20 minutes, add portions of the ethanol/water mixture while continuing to stir to prevent spattering. After about 10 more minutes of heating and stirring, the oil should be dissolved and a homogenous solution should be obtained.</item>
+            <item>Add 25 mL of water to the hot solution. Using the hot grips, pour this solution into a 250 mL beaker containing 150 mL of saturated NaCl solution. Stir this mixture gently and permit it to cool for a few minutes.</item>
+            <item>Skim the soap layer off the top of the solution and place it in a 50-mL beaker.</item>
+            <item>Into a test tube, place a pea-sized lump of your soap. Place a similar amount of laundry detergent in a second tube and a similar amount of laundry detergent in a second tube and a similar amount of hand soap in a third tube. Add 10 mL of water to each tube. Stopper each tube and shake thoroughly.</item>
+            <item>Estimate the pH of the solution using wide-range indicator solution or wide-range test paper. Record the results. Pour the contents of the test tubes into the sink and rinse the tubes with water.</item>
+          </list>
+          <para id="id10330604"><figure id="id11990815"><media id="idm1027680" alt=""><image src="../../media/graphics3-849f.png" mime-type="image/png" height="16" width="21"/></media></figure> </para>
+        </section>
+      </section>
+    </section>
+    <section id="id-017257670339">
+      <title>Pre-Lab: Introductory Organic Reactions </title>
+      <para id="id11990843">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-0598332215561">
+      <title>(Total 25 Points)</title>
+      <para id="id12119310">Hopefully <link document="m15483" resource="PreLabOR07.doc">here</link> for the Pre-Lab</para>
+      <para id="id12119334">Name(Print then sign): ___________________________________________________</para>
+      <para id="id12119340">Lab Day: ___________________Section: ________TA__________________________</para>
+      <para id="id12119345">This assignment must be completed individually and turned in to your TA at the beginning of lab. You will not be allowed to begin the lab until you have completed this assignment.</para>
+      <para id="id12119352">For questions 1-4, draw the structural formulae of:</para>
+      <para id="id12007354">1) 2,2 - dimethylbutane</para>
+      <para id="id12007358"> </para>
+      <para id="id12007363"> </para>
+      <para id="id12007368">2) 3-ethyl-2,4-dimethylpentane</para>
+      <para id="id12007372"> </para>
+      <para id="id12007377"> </para>
+      <para id="id12007382"> </para>
+      <para id="id12007387">3) 2,3,4-trimethylhexane</para>
+      <para id="id12007391"> </para>
+      <para id="id12007396"> </para>
+      <para id="id12282357">4) 3-ethyl-2-methylheptane</para>
+      <para id="id12282362"> </para>
+      <para id="id12282366"> </para>
+      <para id="id12282371">For questions 5-8, give the names of</para>
+      <para id="id12282376">5) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CH" rSub { size 8{3} }  ital "CH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "CH"= ital "CH" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id12137223"> </para>
+      <para id="id12137228"> </para>
+      <para id="id12137232">6) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mi>C</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CH" rSub { size 8{3} }  ital "CH"=C= ital "CH" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id12043775"> </para>
+      <para id="id12043780"> </para>
+      <para id="id12043785">7) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CHCH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CH" rSub { size 8{3} }  ital "CH"= ital "CHCH" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id12418862"> </para>
+      <para id="id12418867"> </para>
+      <para id="id12418871">8) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CHCH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  ital "CH" rSub { size 8{3} }  \)  rSub { size 8{2} } C= ital "CHCH" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id12188800"> </para>
+      <para id="id12188805"> </para>
+      <para id="id12188810">For questions 9-11, give the structural formulae for:</para>
+      <para id="id12188816">9) hex-3-ene</para>
+      <para id="id12188820"> </para>
+      <para id="id12188825"> </para>
+      <para id="id11826116">10) 3-methylhex-1-ene</para>
+      <para id="id11826121"> </para>
+      <para id="id11826125"> </para>
+      <para id="id11826130">11) 2,5- dimethylhex-2-ene</para>
+      <para id="id11826135"> </para>
+      <para id="id11826140"> </para>
+      <para id="id11826144">For questions 12-14, give the names of:</para>
+      <para id="id11826149">12)<figure id="id11826154"><media id="idp19184528" alt=""><image src="../../media/graphics4-b0d0.png" mime-type="image/png" height="32" width="151"/></media></figure></para>
+      <para id="id11839786">13)<figure id="id11839792"><media id="idp13600656" alt=""><image src="../../media/graphics5-f78f.png" mime-type="image/png" height="48" width="110"/></media></figure></para>
+      <para id="id11839816">14)<figure id="id11839821"><media id="idp5726800" alt=""><image src="../../media/graphics6-2000.png" mime-type="image/png" height="32" width="187"/></media></figure></para>
+      <para id="id12497204">For questions 15-19, give the stuctural formulae of:</para>
+      <para id="id12497209">15) trans-1,2-dibromoethene</para>
+      <para id="id12497220"> </para>
+      <para id="id12497225"> </para>
+      <para id="id12497230">16) trans-1-chloroprop-1-ene</para>
+      <para id="id12024675"> </para>
+      <para id="id12024680"> </para>
+      <para id="id12024685">17) cis- hex-2-ene</para>
+      <para id="id12024695"> </para>
+      <para id="id12024700"> </para>
+      <para id="id12024705">18) pent-1-yne</para>
+      <para id="id12024710"> </para>
+      <para id="id12024714"> </para>
+      <para id="id10622909">19) 3-methylbut-1-yne</para>
+      <para id="id10622914"> </para>
+      <para id="id10622918"> </para>
+      <para id="id10622923">For questions 20-25, name the following compounds:</para>
+      <para id="id10622929">20)<figure id="id10622934"><media id="idp8713600" alt=""><image src="../../media/graphics7-7679.png" mime-type="image/png" height="48" width="111"/></media></figure></para>
+      <para id="id12351984">21)<figure id="id12351990"><media id="idp7343040" alt=""><image src="../../media/graphics8-4800.png" mime-type="image/png" height="17" width="131"/></media></figure></para>
+      <para id="id12352014"> 22)<figure id="id12352019"><media id="idp6452928" alt=""><image src="../../media/graphics9-271e.png" mime-type="image/png" height="48" width="151"/></media></figure></para>
+      <para id="id12052300">23)<figure id="id12052305"><media id="idp8981168" alt=""><image src="../../media/graphics10-50c9.png" mime-type="image/png" height="79" width="131"/></media></figure></para>
+      <para id="id12052329">24)<figure id="id12052335"><media id="idp9133856" alt=""><image src="../../media/graphics11-fc8c.png" mime-type="image/png" height="79" width="143"/></media></figure></para>
+      <para id="id12368491">25)<figure id="id12368496"><media id="idp12329424" alt=""><image src="../../media/graphics12-0eb2.png" mime-type="image/png" height="150" width="131"/></media></figure></para>
+    </section>
+    <section id="id-640386169329">
+      <title>Report: Organic Reactions</title>
+      <para id="id11048437">Hopefully <link document="m15483" resource="ReportOR07.doc">here</link> for the Report Form</para>
+      <para id="id11048458">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work (including your laboratory partner) or misrepresent your own data (see honor code).</para>
+      <para id="id11048470">Name(Print then sign): ___________________________________________________</para>
+      <para id="id11048476">Lab Day: ___________________Section: ________TA__________________________</para>
+      <para id="id10759168"> </para>
+      <section id="id-780608608162">
+        <title>Observations:</title>
+        <section id="id-32951826675">
+          <title>Synthesis of esters </title>
+          <table id="id10759187" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Reagents</entry>
+                  <entry>Product</entry>
+                  <entry>Observations</entry>
+                </row>
+                <row>
+                  <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{7} } H rSub { size 8{6} } O rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>(salicylic acid ) + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CH" rSub { size 8{3} }  ital "OH"} {}</m:annotation></m:semantics></m:math>(methyl alcohol)</entry>
+                  <entry>   </entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CH</m:mtext></m:mrow></m:mstyle><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:none/></m:mmultiscripts><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CH" rSub { size 8{3} }  ital "CH" rSub { size 8{2} }  ital "CH""" lSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "OH"} {}</m:annotation></m:semantics></m:math> (1 - octanol ) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>COOH</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{+ ital "CH" rSub { size 8{3} }  ital "COOH"} {}</m:annotation></m:semantics></m:math> (glacial acetic acid)</entry>
+                  <entry>   </entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CH</m:mtext></m:mrow></m:mstyle><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:none/></m:mmultiscripts><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CH" rSub { size 8{3} }  ital "CH" rSub { size 8{2} }  ital "CH""" lSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "CH" rSub { size 8{2} }  ital "OH"} {}</m:annotation></m:semantics></m:math>(amyl alcohol) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>COOH</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{+ ital "CH" rSub { size 8{3} }  ital "COOH"} {}</m:annotation></m:semantics></m:math> (glacial acetic acid)</entry>
+                  <entry>   </entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{2} } H rSub { size 8{5} }  ital "OH"} {}</m:annotation></m:semantics></m:math> (ethanol) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>COOH</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{+ ital "CH" rSub { size 8{3} }  ital "COOH"} {}</m:annotation></m:semantics></m:math> (acetic acid)</entry>
+                  <entry>   </entry>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+      </section>
+      <section id="id-857019714465">
+        <title>Oxidation of an alcohol with acidified potassium dichromate(VI) solution. </title>
+        <para id="id12006528">Remember to describe what happens and explain the color changes.</para>
+        <para id="id12006533">What conditions and techniques would favour the oxidation of ethanol to</para>
+        <para id="id12006539">a. ethanal rather than ethanoic acid.</para>
+        <para id="id12006544">b. ethanoic acid rather than ethanal?</para>
+        <table id="id12006548" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Add 10 drops of dil. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} }  ital "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> to 5 drops of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Cr</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{2} }  ital "Cr" rSub { size 8{2} } O rSub { size 8{7} } } {}</m:annotation></m:semantics></m:math> to the following alcohols</entry>
+                <entry>Observations: color/smellSmell cautiously!</entry>
+                <entry>Observations: color/smell on warmingSmell cautiously!</entry>
+              </row>
+              <row>
+                <entry>Ethanol</entry>
+                <entry>  </entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Methanol</entry>
+                <entry>  </entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Propan-2-ol</entry>
+                <entry>  </entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id12081235"> </para>
+      </section>
+      <section id="id-788064972594">
+        <title>Oxidation of an alcohol with acidified potassium permanganate (VII) solution</title>
+        <para id="id12081249">Remember to describe what happens and explain the color changes.</para>
+        <para id="id12081254">What is your final product?</para>
+        <table id="id12081259" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Add 10 drops of dil. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} }  ital "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> to 5 drops of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>KMnO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "KMnO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> to the following alcohols</entry>
+                <entry>Observations: color/smellSmell cautiously!</entry>
+                <entry>Observations: color/smell on warmingSmell cautiously!</entry>
+              </row>
+              <row>
+                <entry>Ethanol</entry>
+                <entry>  </entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Methanol</entry>
+                <entry>  </entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Propan-2-ol</entry>
+                <entry>  </entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-345676188651">
+        <title> </title>
+        <para id="id12267397">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-0666750808899">
+        <title>Saponification of a vegetable oil</title>
+        <table id="id12267411" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Reagent</entry>
+                <entry>pH from indicator paper</entry>
+              </row>
+              <row>
+                <entry>Your soap</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Laundry Detergent</entry>
+                <entry> </entry>
+              </row>
+              <row>
+                <entry>Hand Soap</entry>
+                <entry> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id12257289">w from the File menu, and then double-click your template.</para>
+      </section>
+    </section>
+  </content>
+</document>
